@@ -35,16 +35,16 @@ pins=2
 T 300 2000 5 10 0 0 0 0 1
 vendor=Farnell
 T 300 1800 5 10 0 0 0 0 1
-manufacturer_part_number=MCWR06X1004FTL
+manufacturer_part_number=MC0063W060311M
 T 300 1600 5 10 0 0 0 0 1
 manufacturer=MULTICOMP
 T 300 1400 5 10 0 0 0 0 1
-vendor_part_number=2446602
+vendor_part_number=2128826
 T 300 1200 5 10 0 0 0 0 1
-description=Surface Mount Chip Resistor, Thick Film, MCWR Series, 1 Mohm, 100 mW, ± 1%, 50 V
+description=Surface Mount Chip Resistor, Thick Film, MC Series, 1 Mohm, 63 mW, ± 1%, 50 V, 0603 [1608 Metric]
 T 500 100 5 4 1 1 0 5 1
-device=MCWR06X1004FTL
+device=MC0063W060311M
 T 500 500 5 10 1 1 0 0 1
 value=1MΩ
 T 300 1000 5 10 0 0 0 0 1
-footprint=MCWR06X1004FTL
+footprint=MC0063W060311M

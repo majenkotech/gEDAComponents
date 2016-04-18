@@ -1,0 +1,172 @@
+v 20150930 2
+B 300 0 1700 1600 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 1400 300 1400 1 0 0
+{
+T 100 1450 5 10 0 0 0 0 1
+pintype=unknown
+T 355 1395 9 10 1 1 0 0 1
+pinlabel=CH1+
+T 205 1445 5 10 1 1 0 6 1
+pinnumber=1
+T 100 1450 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1200 300 1200 1 0 0
+{
+T 100 1250 5 10 0 0 0 0 1
+pintype=unknown
+T 355 1195 9 10 1 1 0 0 1
+pinlabel=CH1-
+T 205 1245 5 10 1 1 0 6 1
+pinnumber=2
+T 100 1250 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1000 300 1000 1 0 0
+{
+T 100 1050 5 10 0 0 0 0 1
+pintype=unknown
+T 355 995 9 10 1 1 0 0 1
+pinlabel=CH2+
+T 205 1045 5 10 1 1 0 6 1
+pinnumber=3
+T 100 1050 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 800 300 800 1 0 0
+{
+T 100 850 5 10 0 0 0 0 1
+pintype=unknown
+T 355 795 9 10 1 1 0 0 1
+pinlabel=CH2-
+T 205 845 5 10 1 1 0 6 1
+pinnumber=4
+T 100 850 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 600 300 600 1 0 0
+{
+T 100 650 5 10 0 0 0 0 1
+pintype=unknown
+T 355 595 9 10 1 1 0 0 1
+pinlabel=VSS
+T 205 645 5 10 1 1 0 6 1
+pinnumber=5
+T 100 650 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 400 300 400 1 0 0
+{
+T 100 450 5 10 0 0 0 0 1
+pintype=unknown
+T 355 395 9 10 1 1 0 0 1
+pinlabel=VDD
+T 205 445 5 10 1 1 0 6 1
+pinnumber=6
+T 100 450 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 200 300 200 1 0 0
+{
+T 100 250 5 10 0 0 0 0 1
+pintype=unknown
+T 355 195 9 10 1 1 0 0 1
+pinlabel=SDA
+T 205 245 5 10 1 1 0 6 1
+pinnumber=7
+T 100 250 5 10 0 0 0 0 1
+pinseq=0
+}
+P 2300 1400 2000 1400 1 0 0
+{
+T 2200 1450 5 10 0 0 0 6 1
+pintype=unknown
+T 2200 1450 5 10 0 0 0 6 1
+pinseq=0
+T 1945 1395 9 10 1 1 0 6 1
+pinlabel=CH4-
+T 2095 1445 5 10 1 1 0 0 1
+pinnumber=14
+}
+P 2300 1200 2000 1200 1 0 0
+{
+T 2200 1250 5 10 0 0 0 6 1
+pintype=unknown
+T 2200 1250 5 10 0 0 0 6 1
+pinseq=0
+T 1945 1195 9 10 1 1 0 6 1
+pinlabel=CH4+
+T 2095 1245 5 10 1 1 0 0 1
+pinnumber=13
+}
+P 2300 1000 2000 1000 1 0 0
+{
+T 2200 1050 5 10 0 0 0 6 1
+pintype=unknown
+T 2200 1050 5 10 0 0 0 6 1
+pinseq=0
+T 1945 995 9 10 1 1 0 6 1
+pinlabel=CH3-
+T 2095 1045 5 10 1 1 0 0 1
+pinnumber=12
+}
+P 2300 800 2000 800 1 0 0
+{
+T 2200 850 5 10 0 0 0 6 1
+pintype=unknown
+T 2200 850 5 10 0 0 0 6 1
+pinseq=0
+T 1945 795 9 10 1 1 0 6 1
+pinlabel=CH3+
+T 2095 845 5 10 1 1 0 0 1
+pinnumber=11
+}
+P 2300 600 2000 600 1 0 0
+{
+T 2200 650 5 10 0 0 0 6 1
+pintype=unknown
+T 2200 650 5 10 0 0 0 6 1
+pinseq=0
+T 1945 595 9 10 1 1 0 6 1
+pinlabel=A1
+T 2095 645 5 10 1 1 0 0 1
+pinnumber=10
+}
+P 2300 400 2000 400 1 0 0
+{
+T 2200 450 5 10 0 0 0 6 1
+pintype=unknown
+T 2200 450 5 10 0 0 0 6 1
+pinseq=0
+T 1945 395 9 10 1 1 0 6 1
+pinlabel=A0
+T 2095 445 5 10 1 1 0 0 1
+pinnumber=9
+}
+P 2300 200 2000 200 1 0 0
+{
+T 2200 250 5 10 0 0 0 6 1
+pintype=unknown
+T 2200 250 5 10 0 0 0 6 1
+pinseq=0
+T 1945 195 9 10 1 1 0 6 1
+pinlabel=SCL
+T 2095 245 5 10 1 1 0 0 1
+pinnumber=8
+}
+T 1100 1700 8 10 1 1 0 6 1
+device=MCP3428-E/SL
+T 1400 1700 8 10 1 1 0 0 1
+refdes=U?
+T 400 2700 8 10 0 0 0 0 1
+manufacturer=MICROCHIP
+T 400 2500 8 10 0 0 0 0 1
+manufacturer_part_number=MCP3428-E/SL
+T 400 2300 8 10 0 0 0 0 1
+vendor=Farnell
+T 400 2100 8 10 0 0 0 0 1
+vendor_part_number=1825014
+T 400 2900 8 10 0 0 0 0 1
+footprint=MCP3428-E-SL
+T 400 3100 8 10 0 0 0 0 1
+description=Analogue to Digital Converter, Programmable, 16 bit, 15 SPS, Single, 2.7 V, 5.5 V, SOIC
