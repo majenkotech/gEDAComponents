@@ -41,3 +41,5 @@ T 200 800 8 10 0 0 0 0 1
 footprint=KPHCM-2012SURCK
 T 200 600 8 10 0 0 0 0 1
 description=LED, Low Power, Red, 630 nm, 1.95 V, 20 mA, 80 mcd
+T 200 1800 8 10 0 0 0 0 1
+value=Red

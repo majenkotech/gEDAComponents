@@ -41,3 +41,5 @@ T 200 800 8 10 0 0 0 0 1
 footprint=KPHCM-2012CGCK
 T 200 600 8 10 0 0 0 0 1
 description=LED, Low Power, Green, 570 nm, 2.1 V, 20 mA, 50 mcd
+T 200 1800 8 10 0 0 0 0 1
+value=Green

@@ -41,3 +41,5 @@ T 200 800 8 10 0 0 0 0 1
 footprint=KPHCM-2012SYCK
 T 200 600 8 10 0 0 0 0 1
 description=LED, Low Power, Yellow, 590 nm, 2 V, 20 mA, 150 mcd
+T 200 1800 8 10 0 0 0 0 1
+value=Yellow
