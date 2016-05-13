@@ -77,18 +77,18 @@ T 700 0 5 10 0 0 0 0 1
 pinseq=0
 }
 T 400 3600 8 10 0 0 0 0 1
-footprint=10033526-N3212MLF
+footprint=47346-0001
 T 400 3400 8 10 0 0 0 0 1
-description=MINI USB, 2.0 TYPE B, PLUG, CABLE
+description=USB Connector, Micro USB Type B, USB 2.0, Receptacle, 5 Ways, Surface Mount, Right Angle
 T 400 2600 8 10 0 0 0 0 1
-manufacturer=FCI
+manufacturer=MOLEX
 T 400 2800 8 10 0 0 0 0 1
-manufacturer_part_number=10033526-N3212MLF
+manufacturer_part_number=47346-0001
 T 400 3000 8 10 0 0 0 0 1
 vendor=Farnell
 T 400 3200 8 10 0 0 0 0 1
-vendor_part_number=2112367
+vendor_part_number=1568026
 T 400 2400 8 10 0 0 0 0 1
-value=
+value=Micro B
 T 1500 400 5 4 1 1 0 0 1
-device=10033526-N3212MLF
+device=47346-0001
