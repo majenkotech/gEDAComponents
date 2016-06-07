@@ -1,0 +1,51 @@
+v 20150930 2
+B 300 300 1200 700 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 800 300 800 1 0 0
+{
+T 0 850 5 10 0 0 0 0 1
+pintype=unknown
+T 355 795 9 10 1 1 0 0 1
+pinlabel=VDD
+T 205 845 5 10 1 1 0 6 1
+pinnumber=1
+T 0 850 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1800 800 1500 800 1 0 0
+{
+T 1700 850 5 10 0 0 0 6 1
+pintype=unknown
+T 1445 795 9 10 1 1 0 6 1
+pinlabel=VOUT
+T 1595 845 5 10 1 1 0 0 1
+pinnumber=2
+T 1700 850 5 10 0 0 0 6 1
+pinseq=0
+}
+P 900 0 900 300 1 0 0
+{
+T 850 100 5 10 0 0 90 0 1
+pintype=unknown
+T 900 355 9 10 1 1 90 0 1
+pinlabel=GND
+T 850 205 5 10 1 1 90 6 1
+pinnumber=3
+T 850 100 5 10 0 0 90 0 1
+pinseq=0
+}
+T 1300 1100 8 10 1 1 0 0 1
+refdes=U?
+T 1100 1100 8 10 1 1 0 6 1
+device=MCP9700AT-E/TT
+T 300 3100 8 10 0 0 0 0 1
+manufacturer=MICROCHIP
+T 300 2900 8 10 0 0 0 0 1
+manufacturer_part_number=MCP9700AT-E/TT
+T 300 2500 8 10 0 0 0 0 1
+vendor_part_number=1605577
+T 300 2700 8 10 0 0 0 0 1
+vendor=Farnell
+T 300 2300 8 10 0 0 0 0 1
+footprint=MCP9700AT-E-TT
+T 300 2100 8 10 0 0 0 0 1
+description=Temperature Sensor IC, AEC-Q100, Voltage, ± 2°C, 0 °C, 70 °C, SOT-23, 3 Pins
