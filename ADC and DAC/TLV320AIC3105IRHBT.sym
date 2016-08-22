@@ -373,7 +373,7 @@ manufacturer=TEXAS INSTRUMENTS
 T 2300 5800 8 10 0 0 0 0 1
 manufacturer_part_number=TLV320AIC3105IRHBT
 T 2300 5600 8 10 0 0 0 0 1
-description=Audio Codec, Portable Audio and Telephony, Stereo, 2, 2, -40 °C, 85 °C, 96 kSPS
+description=Audio Codec, Portable Audio and Telephony, Stereo, 2, 2, -40 
 T 2300 5400 8 10 0 0 0 0 1
 vendor=Farnell
 T 2300 5200 8 10 0 0 0 0 1

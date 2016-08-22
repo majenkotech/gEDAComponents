@@ -30,7 +30,7 @@ device=MC0603B681K500CT
 T 0 300 8 10 1 1 0 0 1
 refdes=C?
 T 100 900 5 10 0 0 0 0 1
-description=SMD Multilayer Ceramic Capacitor, MC Series, 680 pF, ± 10%, X7R, 50 V, 0603 [1608 Metric]
+description=SMD Multilayer Ceramic Capacitor, MC Series, 680 pF, 
 T 100 1300 5 10 0 0 0 0 1
 manufacturer=MULTICOMP
 T 100 1500 5 10 0 0 0 0 1

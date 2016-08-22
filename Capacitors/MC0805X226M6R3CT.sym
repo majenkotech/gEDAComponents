@@ -30,7 +30,7 @@ device=MC0805X226M6R3CT
 T 0 300 8 10 1 1 0 0 1
 refdes=C?
 T 100 900 5 10 0 0 0 0 1
-description=SMD Multilayer Ceramic Capacitor, MC Series, 22 µF, ± 20%, X5R, 6.3 V, 0805 [2012 Metric]
+description=SMD Multilayer Ceramic Capacitor, MC Series, 22 
 T 100 1300 5 10 0 0 0 0 1
 manufacturer=MULTICOMP
 T 100 1500 5 10 0 0 0 0 1

@@ -41,7 +41,7 @@ manufacturer=MULTICOMP
 T 300 1400 5 10 0 0 0 0 1
 vendor_part_number=2130939
 T 300 1200 5 10 0 0 0 0 1
-description=Surface Mount Chip Resistor, Thick Film, MC Series, 10 kohm, 63 mW, ± 1%, 50 V, 0603 [1608 Metric] (Full Reel)
+description=Surface Mount Chip Resistor, Thick Film, MC Series, 10 kohm, 63 mW, 
 T 500 100 5 4 1 1 0 5 1
 device=MC0063W0603110K
 T 500 500 5 10 1 1 0 0 1

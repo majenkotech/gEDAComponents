@@ -35,13 +35,13 @@ A 592 100 4 180 180 3 0 0 0 -1 -1
 T 400 300 8 10 1 1 0 6 1
 refdes=L?
 T 200 1100 5 10 0 0 0 0 1
-description=Surface Mount Power Inductor, SRN2010 Series, 2.2 µH, ± 20%, Semishielded, 0.17 ohm, 1.7 A
+description=Surface Mount Power Inductor, SRN2010 Series, 2.2 
 T 200 900 5 10 0 0 0 0 1
 numslots=0
 T 200 1300 5 10 0 0 0 0 1
 symversion=0.1
 T 500 300 5 10 1 1 0 0 1
-value=2.2µH
+value=2.2
 T 200 1700 5 10 0 0 0 0 1
 vendor=Farnell
 T 200 1900 5 10 0 0 0 0 1

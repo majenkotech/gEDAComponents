@@ -40,6 +40,6 @@ vendor=Farnell
 T 100 1100 5 10 0 0 0 0 1
 vendor_part_number=2320887
 T 400 300 5 10 1 1 0 0 1
-value=10uF
+value=10µF
 T 350 50 5 4 1 1 0 5 1
 footprint=MC1206X106K250CT

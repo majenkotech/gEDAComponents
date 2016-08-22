@@ -41,10 +41,10 @@ manufacturer=MULTICOMP
 T 300 1400 5 10 0 0 0 0 1
 vendor_part_number=2447230
 T 300 1200 5 10 0 0 0 0 1
-description=Surface Mount Chip Resistor, Thick Film, MCWR Series, 10 kohm, 100 mW, ± 1%, 50 V
+description=Surface Mount Chip Resistor, Thick Film, MCWR Series, 10 kohm, 100 mW, 
 T 500 100 5 4 1 1 0 5 1
 device=MCWR06X1002FTL
 T 500 500 5 10 1 1 0 0 1
-value=10KΩ
+value=10kΩ
 T 300 1000 5 10 0 0 0 0 1
 footprint=MCWR06X1002FTL

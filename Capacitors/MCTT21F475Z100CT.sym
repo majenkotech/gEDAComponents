@@ -30,7 +30,7 @@ device=MCTT21F475Z100CT
 T 0 300 8 10 1 1 0 0 1
 refdes=C?
 T 100 900 5 10 0 0 0 0 1
-description=SMD Multilayer Ceramic Capacitor, MCTT Series, 4.7 µF, +80%, -20%, Y5V, 10 V, 0805 [2012 Metric]
+description=SMD Multilayer Ceramic Capacitor, MCTT Series, 4.7 
 T 100 1300 5 10 0 0 0 0 1
 manufacturer=MULTICOMP
 T 100 1500 5 10 0 0 0 0 1

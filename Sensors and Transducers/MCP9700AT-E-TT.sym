@@ -48,4 +48,4 @@ vendor=Farnell
 T 300 2300 8 10 0 0 0 0 1
 footprint=MCP9700AT-E-TT
 T 300 2100 8 10 0 0 0 0 1
-description=Temperature Sensor IC, AEC-Q100, Voltage, ± 2°C, 0 °C, 70 °C, SOT-23, 3 Pins
+description=Temperature Sensor IC, AEC-Q100, Voltage, 

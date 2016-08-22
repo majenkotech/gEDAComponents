@@ -41,7 +41,7 @@ manufacturer=MULTICOMP
 T 300 1400 5 10 0 0 0 0 1
 vendor_part_number=2447293
 T 300 1200 5 10 0 0 0 0 1
-description=SMD Chip Resistor, Thick Film, MCWR Series, 20 kohm, 50 V, 0603 [1608 Metric], 100 mW, ± 1%
+description=SMD Chip Resistor, Thick Film, MCWR Series, 20 kohm, 50 V, 0603 [1608 Metric], 100 mW, 
 T 500 100 5 4 1 1 0 5 1
 device=MCWR06X2002FTL
 T 500 500 5 10 1 1 0 0 1
