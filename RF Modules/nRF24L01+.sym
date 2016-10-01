@@ -1,0 +1,241 @@
+v 20150930 2
+B 600 300 2000 2000 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+P 300 1700 600 1700 1 0 0
+{
+T 400 1750 5 10 0 0 0 0 1
+pintype=unknown
+T 655 1695 9 10 1 1 0 0 1
+pinlabel=CE
+T 505 1745 5 10 1 1 0 6 1
+pinnumber=1
+T 400 1750 5 10 0 0 0 0 1
+pinseq=0
+}
+P 300 1500 600 1500 1 0 0
+{
+T 400 1550 5 10 0 0 0 0 1
+pintype=unknown
+T 655 1495 9 10 1 1 0 0 1
+pinlabel=CSN
+T 505 1545 5 10 1 1 0 6 1
+pinnumber=2
+T 400 1550 5 10 0 0 0 0 1
+pinseq=0
+}
+P 300 1300 600 1300 1 0 0
+{
+T 400 1350 5 10 0 0 0 0 1
+pintype=unknown
+T 655 1295 9 10 1 1 0 0 1
+pinlabel=SCK
+T 505 1345 5 10 1 1 0 6 1
+pinnumber=3
+T 400 1350 5 10 0 0 0 0 1
+pinseq=0
+}
+P 300 1100 600 1100 1 0 0
+{
+T 400 1150 5 10 0 0 0 0 1
+pintype=unknown
+T 655 1095 9 10 1 1 0 0 1
+pinlabel=MOSI
+T 505 1145 5 10 1 1 0 6 1
+pinnumber=4
+T 400 1150 5 10 0 0 0 0 1
+pinseq=0
+}
+P 300 900 600 900 1 0 0
+{
+T 400 950 5 10 0 0 0 0 1
+pintype=unknown
+T 655 895 9 10 1 1 0 0 1
+pinlabel=MISO
+T 505 945 5 10 1 1 0 6 1
+pinnumber=5
+T 400 950 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1200 0 1200 300 1 0 0
+{
+T 1150 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1150 100 5 10 0 0 90 0 1
+pinseq=0
+T 1205 355 9 10 1 1 90 0 1
+pinlabel=IRQ
+T 1155 205 5 10 1 1 90 6 1
+pinnumber=6
+}
+P 1400 0 1400 300 1 0 0
+{
+T 1350 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1350 100 5 10 0 0 90 0 1
+pinseq=0
+T 1405 355 9 10 1 1 90 0 1
+pinlabel=VDD
+T 1355 205 5 10 1 1 90 6 1
+pinnumber=7
+}
+P 1600 0 1600 300 1 0 0
+{
+T 1550 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1550 100 5 10 0 0 90 0 1
+pinseq=0
+T 1605 355 9 10 1 1 90 0 1
+pinlabel=VSS
+T 1555 205 5 10 1 1 90 6 1
+pinnumber=8
+}
+P 1800 0 1800 300 1 0 0
+{
+T 1750 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1750 100 5 10 0 0 90 0 1
+pinseq=0
+T 1805 355 9 10 1 1 90 0 1
+pinlabel=XC2
+T 1755 205 5 10 1 1 90 6 1
+pinnumber=9
+}
+P 2000 0 2000 300 1 0 0
+{
+T 1950 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1950 100 5 10 0 0 90 0 1
+pinseq=0
+T 2005 355 9 10 1 1 90 0 1
+pinlabel=XC1
+T 1955 205 5 10 1 1 90 6 1
+pinnumber=10
+}
+P 2900 1700 2600 1700 1 0 0
+{
+T 2800 1750 5 10 0 0 0 6 1
+pintype=unknown
+T 2800 1750 5 10 0 0 0 6 1
+pinseq=0
+T 2545 1695 9 10 1 1 0 6 1
+pinlabel=VDD
+T 2695 1745 5 10 1 1 0 0 1
+pinnumber=15
+}
+P 2900 1500 2600 1500 1 0 0
+{
+T 2800 1550 5 10 0 0 0 6 1
+pintype=unknown
+T 2800 1550 5 10 0 0 0 6 1
+pinseq=0
+T 2545 1495 9 10 1 1 0 6 1
+pinlabel=VSS
+T 2695 1545 5 10 1 1 0 0 1
+pinnumber=14
+}
+P 2900 1300 2600 1300 1 0 0
+{
+T 2800 1350 5 10 0 0 0 6 1
+pintype=unknown
+T 2800 1350 5 10 0 0 0 6 1
+pinseq=0
+T 2545 1295 9 10 1 1 0 6 1
+pinlabel=ANT2
+T 2695 1345 5 10 1 1 0 0 1
+pinnumber=13
+}
+P 2900 1100 2600 1100 1 0 0
+{
+T 2800 1150 5 10 0 0 0 6 1
+pintype=unknown
+T 2800 1150 5 10 0 0 0 6 1
+pinseq=0
+T 2545 1095 9 10 1 1 0 6 1
+pinlabel=ANT1
+T 2695 1145 5 10 1 1 0 0 1
+pinnumber=12
+}
+P 2900 900 2600 900 1 0 0
+{
+T 2800 950 5 10 0 0 0 6 1
+pintype=unknown
+T 2800 950 5 10 0 0 0 6 1
+pinseq=0
+T 2545 895 9 10 1 1 0 6 1
+pinlabel=VDD_PA
+T 2695 945 5 10 1 1 0 0 1
+pinnumber=11
+}
+P 1200 2600 1200 2300 1 0 0
+{
+T 1150 2500 5 10 0 0 90 6 1
+pintype=unknown
+T 1150 2500 5 10 0 0 90 6 1
+pinseq=0
+T 1205 2245 9 10 1 1 90 6 1
+pinlabel=VSS
+T 1155 2395 5 10 1 1 90 0 1
+pinnumber=20
+}
+P 1400 2600 1400 2300 1 0 0
+{
+T 1350 2500 5 10 0 0 90 6 1
+pintype=unknown
+T 1350 2500 5 10 0 0 90 6 1
+pinseq=0
+T 1405 2245 9 10 1 1 90 6 1
+pinlabel=DVDD
+T 1355 2395 5 10 1 1 90 0 1
+pinnumber=19
+}
+P 1600 2600 1600 2300 1 0 0
+{
+T 1550 2500 5 10 0 0 90 6 1
+pintype=unknown
+T 1550 2500 5 10 0 0 90 6 1
+pinseq=0
+T 1605 2245 9 10 1 1 90 6 1
+pinlabel=VDD
+T 1555 2395 5 10 1 1 90 0 1
+pinnumber=18
+}
+P 1800 2600 1800 2300 1 0 0
+{
+T 1750 2500 5 10 0 0 90 6 1
+pintype=unknown
+T 1750 2500 5 10 0 0 90 6 1
+pinseq=0
+T 1805 2245 9 10 1 1 90 6 1
+pinlabel=VSS
+T 1755 2395 5 10 1 1 90 0 1
+pinnumber=17
+}
+P 2000 2600 2000 2300 1 0 0
+{
+T 1950 2500 5 10 0 0 90 6 1
+pintype=unknown
+T 1950 2500 5 10 0 0 90 6 1
+pinseq=0
+T 2005 2245 9 10 1 1 90 6 1
+pinlabel=IREF
+T 1955 2395 5 10 1 1 90 0 1
+pinnumber=16
+}
+L 600 1900 1000 2300 3 0 1 0 -1 -1
+T 2200 2400 8 10 1 1 0 0 1
+refdes=U?
+T 900 2400 8 10 1 1 0 6 1
+device=nRF24L01+
+T 2400 4300 8 10 0 0 0 0 1
+vendor=unknown
+T 2400 4100 8 10 0 0 0 0 1
+vendor_part_number=unknown
+T 2400 3900 8 10 0 0 0 0 1
+manufacturer=NORDIC SEMICONDUCTOR
+T 2400 3700 8 10 0 0 0 0 1
+manufacturer_part_number=nRF24L01+
+T 2400 3500 8 10 0 0 0 0 1
+footprint=nRF24L01+
+T 2400 3300 8 10 0 0 0 0 1
+description=Single Chip 2.4GHz Transceiver
+T 2400 3100 8 10 0 0 0 0 1
+value=2.4GHz

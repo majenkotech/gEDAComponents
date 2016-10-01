@@ -1,0 +1,26 @@
+
+Element["" "" "" "" 77.1500mm 30.5000mm 0.0000 0.0000 0 100 ""]
+(
+	Pad[-1.3500mm -0.7500mm -1.2000mm -0.7500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "1" "square"]
+	Pad[-1.3500mm -0.2500mm -1.2000mm -0.2500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "2" "square"]
+	Pad[-1.3500mm 0.2500mm -1.2000mm 0.2500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "3" "square"]
+	Pad[-1.3500mm 0.7500mm -1.2000mm 0.7500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "4" "square"]
+	Pad[-0.7500mm 1.2000mm -0.7500mm 1.3500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "5" "square,edge2"]
+	Pad[-0.2500mm 1.2000mm -0.2500mm 1.3500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "6" "square,edge2"]
+	Pad[0.2500mm 1.2000mm 0.2500mm 1.3500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "7" "square,edge2"]
+	Pad[0.7500mm 1.2000mm 0.7500mm 1.3500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "8" "square,edge2"]
+	Pad[1.2000mm 0.7500mm 1.3500mm 0.7500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "9" "square,edge2"]
+	Pad[1.2000mm 0.2500mm 1.3500mm 0.2500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "10" "square,edge2"]
+	Pad[1.2000mm -0.2500mm 1.3500mm -0.2500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "11" "square,edge2"]
+	Pad[1.2000mm -0.7500mm 1.3500mm -0.7500mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "12" "square,edge2"]
+	Pad[0.7500mm -1.3500mm 0.7500mm -1.2000mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "13" "square"]
+	Pad[0.2500mm -1.3500mm 0.2500mm -1.2000mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "14" "square"]
+	Pad[-0.2500mm -1.3500mm -0.2500mm -1.2000mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "15" "square"]
+	Pad[-0.7500mm -1.3500mm -0.7500mm -1.2000mm 0.3000mm 0.2800mm 13.78mil 0.2501mm "" "16" "square"]
+	ElementLine [-1.6000mm -1.6000mm 1.6000mm -1.6000mm 5.91mil]
+	ElementLine [1.6000mm -1.6000mm 1.6000mm 1.6000mm 5.91mil]
+	ElementLine [1.6000mm 1.6000mm -1.6000mm 1.6000mm 5.91mil]
+	ElementLine [-1.6000mm 1.6000mm -1.6000mm -1.6000mm 5.91mil]
+	ElementLine [-1.6000mm -1.6000mm -2.0500mm -2.0500mm 5.91mil]
+
+)
