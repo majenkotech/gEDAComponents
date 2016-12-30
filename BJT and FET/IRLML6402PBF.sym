@@ -76,6 +76,6 @@ manufacturer_part_number=IRLML6402PBF
 T 1100 1800 8 10 0 0 0 0 1
 value=65mΩ
 T 1100 2000 8 10 0 0 0 0 1
-description=MOSFET Transistor, P Channel, -3.7 A, -20 V, 65 mohm, -4.5 V, -550 mV
+description=MOSFET, P, -3.7 A, -20 V, 0.065R @ -4.5 V, -550 mV
 T 1100 800 8 10 0 0 0 0 1
 footprint=IRLML6402PBF

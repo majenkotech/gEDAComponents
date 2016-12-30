@@ -41,7 +41,7 @@ manufacturer=MULTICOMP
 T 300 1400 5 10 0 0 0 0 1
 vendor_part_number=2073069
 T 300 1200 5 10 0 0 0 0 1
-description=0402 Surface Mount Chip Resistor, Ceramic, MCMR Series, 4.7 kohm, 62.5 mW, 
+description=RES, CERAMIC, 4K7, 5%, 0.0625W, 0402
 T 500 100 5 4 1 1 0 5 1
 device=MCMR04X472 JTL
 T 500 500 5 10 1 1 0 0 1

@@ -1,4 +1,4 @@
-Element["" "Square Quad-side flat pack" "" "TQFP100_12" 3560.00mil 1780.00mil -20.00mil -60.00mil 0 100 ""]
+Element["" "Square Quad-side flat pack" "" "TQFP100_12" 3560.00mil 1780.00mil -20.00mil -60.00mil 0 64 ""]
 (
 	Pad[-311.30mil -188.97mil -261.14mil -188.97mil 9.84mil 30.00mil 10.84mil "1" "1" "square"]
 	Pad[-311.30mil -173.23mil -261.14mil -173.23mil 9.84mil 30.00mil 10.84mil "2" "2" "square"]

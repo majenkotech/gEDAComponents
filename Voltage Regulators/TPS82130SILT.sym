@@ -114,6 +114,6 @@ vendor_part_number=2535383
 T 500 2600 8 10 0 0 0 0 1
 vendor=Farnell
 T 500 2400 8 10 0 0 0 0 1
-description=DC-DC Switching Buck Step Down Regulator, Adjustable, 3V-17Vin, 900mV-5V/3A out, 2MHz, µSIP-8
+description=REG, BUCK, ADJ 0.9-5V, 3A, USIP-8
 T 500 3600 8 10 0 0 0 0 1
 value=ADJ

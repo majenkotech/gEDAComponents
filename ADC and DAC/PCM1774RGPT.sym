@@ -245,7 +245,7 @@ manufacturer=TEXAS INSTRUMENTS
 T 400 3800 5 10 0 0 0 0 1
 manufacturer_part_number=PCM1774RGPT
 T 400 3600 5 10 0 0 0 0 1
-description=Digital to Analogue Converter, 16 bit, 50 kSPS, Single Ended, 2.4V to 3.6V, QFN, 20
+description=DAC, 16 BIT, 50KSPS, SINGLE ENDED, 2.4-3.6V, QFN-20
 T 400 3400 5 10 0 0 0 0 1
 footprint=PCM1774RGPT
 T 400 3200 5 10 0 0 0 0 1

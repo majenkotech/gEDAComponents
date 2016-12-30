@@ -1,0 +1,52 @@
+v 20150930 2
+P 200 500 500 500 1 0 0
+{
+T 300 550 5 10 0 0 0 0 1
+pintype=unknown
+T 405 545 5 10 1 1 0 6 1
+pinnumber=1
+T 300 550 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1300 500 1000 500 1 0 0
+{
+T 1200 550 5 10 0 0 0 6 1
+pintype=unknown
+T 1095 545 5 10 1 1 0 0 1
+pinnumber=2
+T 1200 550 5 10 0 0 0 6 1
+pinseq=0
+}
+L 600 500 500 500 3 0 1 0 -1 -1
+L 600 700 600 300 3 0 1 0 -1 -1
+L 700 300 800 300 3 0 1 0 -1 -1
+L 800 700 800 300 3 0 1 0 -1 -1
+L 700 300 700 700 3 0 1 0 -1 -1
+L 700 700 800 700 3 0 1 0 -1 -1
+L 900 700 900 300 3 0 1 0 -1 -1
+L 900 500 1000 500 3 0 1 0 -1 -1
+T 750 800 8 10 1 1 0 3 1
+refdes=X?
+T 550 400 8 4 1 1 0 8 1
+device=CMR200T32.768KDZY-UT
+T 700 2600 8 10 0 0 0 0 1
+vendor=Farnell
+T 700 2400 8 10 0 0 0 0 1
+vendor_part_number=1703589
+T 700 2200 8 10 0 0 0 0 1
+manufacturer=CITIZEN FINETECH MIYOTA
+T 700 2000 8 10 0 0 0 0 1
+manufacturer_part_number=CMR200T32.768KDZY-UT
+T 700 1800 8 10 0 0 0 0 1
+footprint=CMR200T32.768KDZY-UT
+T 700 1600 8 10 0 0 0 0 1
+description=Crystal Oscillator, 32.768 kHz, Cylinder SMD, 6mm x 1.9mm Dia, 12.5 pF, 20 ppm, CMR200T Series
+T 700 1400 8 10 0 0 0 0 1
+value=32768Hz
+P 750 0 750 300 1 0 0
+{
+T 700 205 5 10 1 1 90 6 1
+pinnumber=3
+T 700 100 5 10 0 0 90 0 1
+pinseq=0
+}

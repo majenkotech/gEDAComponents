@@ -123,6 +123,6 @@ vendor_part_number=1770137
 T 100 2000 8 10 0 0 0 0 1
 manufacturer_part_number=CAY16-103J4LF
 T 100 1800 8 10 0 0 0 0 1
-manufacturer=
+manufacturer=BOURNS
 T 100 1600 8 10 0 0 0 0 1
 description=RESISTOR ARRAY, 1206, 10K

@@ -61,4 +61,4 @@ vendor_part_number=1578404
 T 400 2500 8 10 0 0 0 0 1
 footprint=MCP1825S-3302E-DB
 T 400 2700 8 10 0 0 0 0 1
-description=Fixed LDO Voltage Regulator, 2.1V to 6V, 210mV Dropout, 3.3Vout, 500mAout, SOT-223-3
+description=REG, LDO, 3.3V, 500MA, SOT223

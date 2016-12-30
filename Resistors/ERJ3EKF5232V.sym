@@ -37,11 +37,11 @@ vendor=Farnell
 T 300 1800 5 10 0 0 0 0 1
 manufacturer_part_number=ERJ3EKF5232V
 T 300 1600 5 10 0 0 0 0 1
-manufacturer=PANASONIC ELECTRONIC COMPONENTS
+manufacturer=PANASONIC
 T 300 1400 5 10 0 0 0 0 1
 vendor_part_number=2059474
 T 300 1200 5 10 0 0 0 0 1
-description=Surface Mount Chip Resistor, Thick Film, AEC-Q200 ERJ Series, 52.3 kohm, 100 mW, 
+description=RES, THICK FILM, 52K3, 1%, 0.1W, 0603
 T 500 100 5 4 1 1 0 5 1
 device=ERJ3EKF5232V
 T 500 500 5 10 1 1 0 0 1

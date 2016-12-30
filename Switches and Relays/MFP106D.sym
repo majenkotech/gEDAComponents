@@ -1,0 +1,41 @@
+v 20150930 2
+P 600 200 300 200 1 0 1
+{
+T 450 250 5 10 1 1 0 0 1
+pinnumber=1
+T 450 250 5 10 0 1 0 0 1
+pinlabel=1
+}
+T 1000 600 8 10 1 1 0 0 1
+refdes=S?
+P 900 400 1200 400 1 0 1
+{
+T 1050 450 5 10 1 1 0 0 1
+pinnumber=2
+T 1050 450 5 10 0 1 0 0 1
+pinlabel=2
+}
+P 900 0 1200 0 1 0 1
+{
+T 1050 50 5 10 1 1 0 0 1
+pinnumber=3
+T 1050 50 5 10 0 1 0 0 1
+pinlabel=3
+}
+L 600 200 900 200 3 0 0 0 -1 -1
+T 700 600 8 10 1 1 0 6 1
+device=MFP106D
+T 700 2500 8 10 0 0 0 0 1
+vendor=Farnell
+T 700 2300 8 10 0 0 0 0 1
+vendor_part_number=807527
+T 700 2100 8 10 0 0 0 0 1
+manufacturer=KNITTER-SWITCH
+T 700 1900 8 10 0 0 0 0 1
+manufacturer_part_number=MFP106D
+T 700 1700 8 10 0 0 0 0 1
+description=Slide Switch, SPDT, On-On, Through Hole, 6 A, 250 V
+T 700 1500 8 10 0 0 0 0 1
+value=NA
+T 700 1300 8 10 0 0 0 0 1
+footprint=MFP106D

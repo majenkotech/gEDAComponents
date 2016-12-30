@@ -37,11 +37,11 @@ vendor=Farnell
 T 300 1800 5 10 0 0 0 0 1
 manufacturer_part_number=ERJ3EKF5233V
 T 300 1600 5 10 0 0 0 0 1
-manufacturer=PANASONIC ELECTRONIC COMPONENTS
+manufacturer=PANASONIC
 T 300 1400 5 10 0 0 0 0 1
 vendor_part_number=2303294
 T 300 1200 5 10 0 0 0 0 1
-description=SMD Chip Resistor, Thick Film, AEC-Q200 ERJ3E Series, 523 kohm, 75 V, 0603 [1608 Metric], 100 mW
+description=RES, THICK FILM, 523K, 0.1W, 0603
 T 500 100 5 4 1 1 0 5 1
 device=ERJ3EKF5233V
 T 500 500 5 10 1 1 0 0 1

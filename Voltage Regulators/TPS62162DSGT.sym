@@ -116,4 +116,4 @@ manufacturer_part_number=TPS62162DSGT
 T 300 3300 5 10 0 0 0 0 1
 value=3.3V
 T 300 3500 5 10 0 0 0 0 1
-description=Synchronous Buck (Step Down) Switching Regulator, Fixed, 3V-17V In, 3.3V And 1A Out, WSON-8
+description=REG, BUCK, 3.3V, 1A, WSON-8

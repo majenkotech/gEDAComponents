@@ -41,7 +41,7 @@ manufacturer=Vishay
 T 300 1400 5 10 0 0 0 0 1
 vendor_part_number=678-8977
 T 300 1200 5 10 0 0 0 0 1
-description=Vishay CRCW Series Thick Film Surface Mount Resistor 0402 Case 22k? 
+description=RES, THICK FILM, 1%, 22K, 0402
 T 500 100 5 4 1 1 0 5 1
 device=CRCW040222K0FKED
 T 500 500 5 10 1 1 0 0 1

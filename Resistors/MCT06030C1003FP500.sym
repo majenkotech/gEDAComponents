@@ -41,7 +41,7 @@ manufacturer=VISHAY
 T 300 1400 5 10 0 0 0 0 1
 vendor_part_number=2325267
 T 300 1200 5 10 0 0 0 0 1
-description=Surface Mount Chip Resistor, Thin Film, MCT Series, 100 kohm, 100 mW, 
+description=RES, THIN FILM, 100K, 0.1W, 0603
 T 500 100 5 4 1 1 0 5 1
 device=MCT06030C1003FP500
 T 500 500 5 10 1 1 0 0 1

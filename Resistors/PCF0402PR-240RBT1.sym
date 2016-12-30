@@ -41,7 +41,7 @@ manufacturer=WELWYN
 T 300 1400 5 10 0 0 0 0 1
 vendor_part_number=1768767
 T 300 1200 5 10 0 0 0 0 1
-description=0402 Surface Mount Chip Resistor, Thin Film, PCF Series, 240 ohm, 63 mW, 
+description=RES, THICK FILM, 240R, 1%, 0.063W, 0402
 T 500 100 5 4 1 1 0 5 1
 device=PCF0402PR-240RBT1
 T 500 500 5 10 1 1 0 0 1

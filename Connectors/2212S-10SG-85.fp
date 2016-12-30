@@ -1,5 +1,5 @@
 
-Element["hidename" "" "CONN5" "unknown" 2200.00mil 940.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "" "CONN5" "unknown" 2200.00mil 940.00mil 0.0000 0.0000 0 64 ""]
 (
 	Attribute("device" "CONNECTOR_10")
 	Attribute("manufacturer" "unknown")

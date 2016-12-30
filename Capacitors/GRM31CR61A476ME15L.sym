@@ -30,7 +30,7 @@ device=GRM31CR61A476ME15L
 T 0 300 8 10 1 1 0 0 1
 refdes=C?
 T 100 900 5 10 0 0 0 0 1
-description=SMD Multilayer Ceramic Capacitor, GRM Series, 47 
+description=CAP, MLCC, X5R, 47UF, 10V, 1206
 T 100 1300 5 10 0 0 0 0 1
 manufacturer=MURATA
 T 100 1500 5 10 0 0 0 0 1

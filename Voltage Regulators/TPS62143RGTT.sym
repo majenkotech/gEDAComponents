@@ -204,6 +204,6 @@ T 500 2600 5 10 0 0 0 0 2
 vendor_part_number=2382928
 
 T 500 2600 5 10 0 0 0 0 1
-description=Synchronous Buck (Step Down) Switching Regulator, Fixed, 3V-17V In, 5V And 2A Out, QFN-16
+description=REG, BUCK, 5V, 2A, QFN-16
 T 500 3600 5 10 0 0 0 0 1
 value=5V

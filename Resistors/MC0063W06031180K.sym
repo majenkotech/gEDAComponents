@@ -41,7 +41,7 @@ manufacturer=MULTICOMP
 T 300 1400 5 10 0 0 0 0 1
 vendor_part_number=2131039
 T 300 1200 5 10 0 0 0 0 1
-description=SMD Chip Resistor, Thick Film, MC Series, 180 kohm, 50 V, 0603 [1608 Metric], 63 mW, ± 1%
+description=RES, THICK FILM, 180K, 1%, 0.063W, 0603
 T 500 100 5 4 1 1 0 5 1
 device=MC0063W06031180K
 T 500 500 5 10 1 1 0 0 1

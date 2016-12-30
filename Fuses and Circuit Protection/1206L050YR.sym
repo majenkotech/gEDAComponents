@@ -25,8 +25,6 @@ T 400 500 8 10 1 1 0 6 1
 refdes=F?
 T 900 1300 8 10 0 0 0 0 1
 description=FUSE, RESETTABLE, 1206, 6V, 500MA
-T 500 500 8 10 1 1 0 0 1
-value=500mA
 T 900 1100 8 10 0 0 0 0 1
 vendor=Farnell
 T 900 900 8 10 0 0 0 0 1
@@ -37,3 +35,5 @@ T 900 1700 8 10 0 0 0 0 1
 manufacturer_part_number=1206L050YR
 T 900 1900 8 10 0 0 0 0 1
 footprint=1206L050YR
+T 500 500 8 10 1 1 0 0 1
+value=500mA

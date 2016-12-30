@@ -1,5 +1,5 @@
 
-Element["" "" "" "" 79.9500mm 107.0500mm 1.8500mm 0.1500mm 0 82 ""]
+Element["" "" "" "" 79.9500mm 107.0500mm 1.8500mm 0.1500mm 0 64 ""]
 (
 	Pad[-39.00mil 79.00mil -39.00mil 85.00mil 34.00mil 0.2800mm 1.1436mm "" "1" "square,edge2"]
 	Pad[39.00mil 79.00mil 39.00mil 85.00mil 34.00mil 0.2800mm 1.1436mm "" "2" "square,edge2"]

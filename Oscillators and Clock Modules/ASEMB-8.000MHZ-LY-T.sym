@@ -60,7 +60,7 @@ footprint=ASEMB-8.000MHZ-LY-T
 T 800 0 8 10 1 1 0 0 1
 value=8MHz
 T 300 3100 5 10 0 0 0 0 1
-description=MEMS Oscillator, Clock, Pure Silicon™, ASEMB Series, 8 MHz, 10 ppm, 3.3 V, SMD, 3.2mm x 2.5mm
+description=OSC, MEMS, ASEMB, 8MHz 10PPM, 3.2x2.5
 T 300 2900 5 10 0 0 0 0 1
 vendor=Farnell
 T 300 2700 5 10 0 0 0 0 1

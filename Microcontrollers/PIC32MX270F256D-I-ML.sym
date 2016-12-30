@@ -509,7 +509,7 @@ manufacturer=MICROCHIP
 T 500 5100 5 10 0 0 0 0 1
 manufacturer_part_number=PIC32MX270F256D-I/ML
 T 500 4900 5 10 0 0 0 0 1
-description=32 Bit Microcontroller, Audio and Graphics Interface, PIC32, 40 MHz, 256 KB, 64 KB, 44 Pins, QFN
+description=PIC32MX270F256D
 T 500 4700 5 10 0 0 0 0 1
 value=NA
 T 500 4500 5 10 0 0 0 0 1

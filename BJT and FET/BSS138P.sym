@@ -67,7 +67,7 @@ V 600 700 5 3 0 0 0 -1 -1 1 -1 -1 -1 -1 -1
 V 600 360 5 3 0 0 0 -1 -1 1 -1 -1 -1 -1 -1
 V 600 300 5 3 0 0 0 -1 -1 1 -1 -1 -1 -1 -1
 T 1100 1600 8 10 0 0 0 0 1
-description=MOSFET Transistor, N Channel, 360 mA, 60 V, 0.9 ohm, 10 V, 1.2 V
+description=MOSFET, N, 360 mA, 60 V, 0.9 ohm, 10 V, 1.2 V
 T 1100 1400 8 10 0 0 0 0 1
 manufacturer=NXP
 T 1100 1200 8 10 0 0 0 0 1
