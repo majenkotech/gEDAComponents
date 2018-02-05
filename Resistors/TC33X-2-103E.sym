@@ -11,7 +11,7 @@ L 500 200 400 400 3 0 0 0 -1 -1
 L 400 400 300 200 3 0 0 0 -1 -1
 L 300 200 200 400 3 0 0 0 -1 -1
 T 500 100 5 4 1 1 0 5 1
-device=M63M103KB30T607
+device=TC33X-2-103E
 L 600 400 700 200 3 0 0 0 -1 -1
 L 700 200 750 300 3 0 0 0 -1 -1
 P 900 300 750 300 1 0 0
@@ -33,16 +33,16 @@ L 500 400 500 650 3 0 0 0 -1 -1
 T 600 600 8 10 1 1 0 0 1
 refdes=R?
 T 800 1700 8 10 0 0 0 0 1
-footprint=M63M103KB30T607
+footprint=TC33X-2-103E
 T 800 1300 8 10 0 0 0 0 1
-manufacturer=VISHAY
+manufacturer=Bourns
 T 800 1100 8 10 0 0 0 0 1
-manufacturer_part_number=M63M103KB30T607
+manufacturer_part_number=TC33X-2-103E
 T 800 1900 8 10 0 0 0 0 1
-vendor_part_number=9608230
+vendor_part_number=1689863
 T 800 2100 8 10 0 0 0 0 1
 vendor=Farnell
 T 800 2300 8 10 0 0 0 0 1
-description=TRIMMER, 10K
+description=Trimmer Potentiometer, 10 Kohm, 100 Mw, ± 25%, Trimpot Tc33 Series, 1 Turns, Surface Mount Device
 T 400 600 5 10 1 1 0 6 1
-value=10KΩ
+value=10K

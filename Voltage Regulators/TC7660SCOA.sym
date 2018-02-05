@@ -95,9 +95,9 @@ device=TC7660SCOA
 T 200 2300 8 10 0 0 0 0 1
 footprint=TC7660SCOA
 T 200 2100 8 10 0 0 0 0 1
-vendor=Farnell
+vendor=Mouser
 T 200 1900 8 10 0 0 0 0 1
-vendor_part_number=2709773
+vendor_part_number=579-TC7660SCOA
 T 200 1700 8 10 0 0 0 0 1
 manufacturer_part_number=TC7660SCOA
 T 200 2500 8 10 0 0 0 0 1

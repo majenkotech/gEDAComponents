@@ -181,9 +181,9 @@ refdes=U?
 T 300 1900 8 10 1 1 0 0 1
 device=Si8902B-A01-GS
 T 100 4400 8 10 0 0 0 0 1
-vendor=unknown
+vendor=Mouser
 T 100 4200 8 10 0 0 0 0 1
-vendor_part_number=unknown
+vendor_part_number=634-SI8902B-A01-GS
 T 100 4000 8 10 0 0 0 0 1
 manufacturer=Silicon Labs
 T 100 3800 8 10 0 0 0 0 1

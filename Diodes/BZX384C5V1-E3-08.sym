@@ -1,0 +1,53 @@
+v 20150930 2
+T 400 500 5 10 0 0 0 0 1
+device=BZX384C5V1-E3-08
+P 800 100 600 100 1 0 0
+{
+T 600 150 5 8 0 1 0 0 1
+pinnumber=2
+T 600 150 5 8 0 0 0 0 1
+pinseq=2
+T 600 150 5 8 0 1 0 0 1
+pinlabel=2
+T 600 150 5 8 0 1 0 0 1
+pintype=pas
+}
+P 200 100 0 100 1 0 1
+{
+T 100 150 5 8 0 1 0 0 1
+pinnumber=1
+T 100 150 5 8 0 0 0 0 1
+pinseq=1
+T 100 150 5 8 0 1 0 0 1
+pinlabel=1
+T 100 150 5 8 0 1 0 0 1
+pintype=pas
+}
+L 300 100 200 100 3 0 0 0 -1 -1
+L 300 0 300 200 3 0 0 0 -1 -1
+L 300 200 500 100 3 0 0 0 -1 -1
+L 500 100 300 0 3 0 0 0 -1 -1
+L 400 200 500 200 3 0 0 0 -1 -1
+L 500 200 500 0 3 0 0 0 -1 -1
+L 500 0 600 0 3 0 0 0 -1 -1
+L 500 100 600 100 3 0 0 0 -1 -1
+T 300 300 8 10 1 1 0 0 1
+refdes=D?
+T 400 1100 5 10 0 0 0 0 1
+description=Zener Single Diode, 5.1 V, 200 Mw, Sod-323, 5 %, 2 Pins, 150 °c
+T 400 900 5 10 0 0 0 0 1
+numslots=0
+T 400 1300 5 10 0 0 0 0 1
+symversion=0.1
+T 400 1500 8 10 0 0 0 0 1
+manufacturer=Vishay
+T 400 1700 8 10 0 0 0 0 1
+manufacturer_part_number=BZX384C5V1-E3-08
+T 400 2100 8 10 0 0 0 0 1
+vendor_part_number=2690036
+T 400 1900 8 10 0 0 0 0 1
+vendor=Farnell
+T 400 2300 8 10 0 0 0 0 1
+value=5.1V
+T 400 2500 8 10 0 0 0 0 1
+footprint=BZX384C5V1-E3-08
