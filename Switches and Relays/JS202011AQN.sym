@@ -1,6 +1,6 @@
 v 20150930 2
 T 10 50 8 10 1 1 0 0 1
-device=MS22R
+device=JS202011AQN
 P 500 500 200 500 1 0 1
 {
 T 360 550 5 10 0 0 0 0 1
@@ -70,18 +70,18 @@ V 860 1100 50 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 V 860 700 50 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 V 860 300 50 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 510 500 8 10 0 0 0 0 1
-footprint=MS22R
+footprint=JS202011AQN
 T 900 1900 8 10 0 0 0 0 1
 symversion=1.0
 T 3200 3100 8 10 0 0 0 0 1
-manufacturer=APEM
+manufacturer=C & K COMPONENTS
 T 3200 2900 8 10 0 0 0 0 1
 vendor=Farnell
 T 3200 2700 8 10 0 0 0 0 1
-manufacturer_part_number=MS22R
+manufacturer_part_number=JS202011AQN
 T 3200 2500 8 10 0 0 0 0 1
 vendor_part_number=2435145
 T 3200 2300 8 10 0 0 0 0 1
 value=DPST
 T 3200 2100 8 10 0 0 0 0 1
-footprint=MS22R
+footprint=JS202011AQN

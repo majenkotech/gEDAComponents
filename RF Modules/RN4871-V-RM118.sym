@@ -185,10 +185,10 @@ manufacturer=MICROCHIP
 T 500 2800 8 10 0 0 0 0 1
 manufacturer_part_number=RN4871-V/RM118
 T 500 2400 8 10 0 0 0 0 1
-vendor_part_number=unknown
+vendor_part_number=2664514
 T 500 2600 8 10 0 0 0 0 1
-vendor=unknown
+vendor=Farnell
 T 500 2200 8 10 0 0 0 0 1
 footprint=RN4871-V-RM118
 T 500 2000 8 10 0 0 0 0 1
-description=Bluetooth 4.2 Low Energy Module
+description=Bluetooth® Low Energy v4.2Module W/Antenna, 2.442Mhz, 0.1Dbi

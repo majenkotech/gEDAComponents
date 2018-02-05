@@ -419,8 +419,8 @@ manufacturer=MICROCHIP
 T 6300 4000 8 10 0 0 0 0 1
 manufacturer_part_number=PIC32MX150F128C-I/TL
 T 6300 4600 8 10 0 0 0 0 1
-vendor_part_number=unknown
+vendor_part_number=
 T 6300 4300 8 10 0 0 0 0 1
-vendor=unknown
+vendor=Mouser
 T 6300 2800 8 10 0 0 0 0 1
 value=NA
