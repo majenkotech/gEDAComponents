@@ -1,0 +1,64 @@
+v 20150930 2
+P 0 400 200 400 1 0 0
+{
+T 150 450 5 8 0 1 0 6 1
+pinnumber=4
+T 150 350 5 8 0 1 0 8 1
+pinseq=4
+T 250 400 9 8 0 1 0 0 1
+pinlabel=4
+T 250 400 5 8 0 1 0 2 1
+pintype=pas
+}
+P 500 400 700 400 1 0 1
+{
+T 550 450 5 8 0 1 0 0 1
+pinnumber=1
+T 550 350 5 8 0 1 0 2 1
+pinseq=1
+T 450 400 9 8 0 1 0 6 1
+pinlabel=1
+T 450 400 5 8 0 1 0 8 1
+pintype=pas
+}
+B 250 300 200 200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 500 600 5 10 1 1 0 0 1
+device=ABMM2-12.000MHZ-E2-T
+L 200 540 200 260 3 0 0 0 -1 -1
+L 500 540 500 260 3 0 0 0 -1 -1
+T 100 600 8 10 1 1 0 0 1
+refdes=X?
+P 200 0 200 200 1 0 0
+{
+T 200 0 5 10 0 0 0 0 1
+pintype=unknown
+T 200 0 5 10 0 0 0 0 1
+pinseq=2
+T 200 0 5 10 0 0 0 0 1
+pinnumber=2
+}
+P 500 0 500 200 1 0 0
+{
+T 500 0 5 10 0 0 0 0 1
+pintype=unknown
+T 500 0 5 10 0 0 0 0 1
+pinseq=3
+T 500 0 5 10 0 0 0 0 1
+pinnumber=3
+}
+L 200 200 500 200 3 0 0 0 -1 -1
+L 350 200 350 300 3 0 0 0 -1 -1
+T 0 3100 8 10 0 0 0 0 1
+vendor=Farnell
+T 0 2900 8 10 0 0 0 0 1
+vendor_part_number=1652557
+T 0 2700 8 10 0 0 0 0 1
+manufacturer=Abracon
+T 0 2500 8 10 0 0 0 0 1
+manufacturer_part_number=ABMM2-12.000MHZ-E2-T
+T 0 2300 8 10 0 0 0 0 1
+description=Crystal, 12 Mhz, Smd, 6mm X 3.5mm, 20 Ppm, 18 Pf, 20 Ppm, Abmm2 Series
+T 0 2100 8 10 0 0 0 0 1
+footprint=ABMM2-12.000MHZ-E2-T
+T 0 1900 8 10 0 0 0 0 1
+value=12MHz

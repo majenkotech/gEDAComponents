@@ -1,0 +1,94 @@
+v 20150930 2
+B 300 300 1100 1500 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 1400 300 1400 1 0 0
+{
+T -100 1400 5 10 0 0 0 0 1
+pintype=pas
+T 355 1395 5 10 1 1 0 0 1
+pinlabel=Vcc
+T 205 1445 5 10 1 1 0 6 1
+pinnumber=1
+T -100 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1000 300 1000 1 0 0
+{
+T -100 1000 5 10 0 0 0 0 1
+pintype=io
+T 355 995 5 10 1 1 0 0 1
+pinlabel=D+
+T 205 1045 5 10 1 1 0 6 1
+pinnumber=3
+T -100 1000 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1200 300 1200 1 0 0
+{
+T -100 1200 5 10 0 0 0 0 1
+pintype=io
+T 355 1195 5 10 1 1 0 0 1
+pinlabel=D-
+T 205 1245 5 10 1 1 0 6 1
+pinnumber=2
+T -100 1200 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 800 300 800 1 0 0
+{
+T -100 800 5 10 0 0 0 0 1
+pintype=pas
+T 355 795 5 10 1 1 0 0 1
+pinlabel=USBID
+T 205 845 5 10 1 1 0 6 1
+pinnumber=4
+T -100 800 5 10 0 0 0 0 1
+pinseq=0
+}
+L 1400 1300 2000 1300 3 0 0 0 -1 -1
+L 2000 1300 2000 1600 3 0 0 0 -1 -1
+L 2000 1600 2700 1050 3 0 0 0 -1 -1
+L 2700 1050 2000 500 3 0 0 0 -1 -1
+L 2000 500 2000 800 3 0 0 0 -1 -1
+L 2000 800 1400 800 3 0 0 0 -1 -1
+T 1700 1000 9 10 1 0 0 0 1
+USB
+T 800 1900 8 10 1 1 0 0 1
+refdes=CONN?
+P 0 600 300 600 1 0 0
+{
+T -100 600 5 10 0 0 0 0 1
+pintype=pas
+T 355 595 5 10 1 1 0 0 1
+pinlabel=GND
+T 205 645 5 10 1 1 0 6 1
+pinnumber=5
+T -100 600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 700 0 700 300 1 0 0
+{
+T 700 0 5 10 0 0 0 0 1
+pintype=pas
+T 700 355 5 10 1 1 90 0 1
+pinlabel=G
+T 650 205 5 10 1 1 90 6 1
+pinnumber=G
+T 700 0 5 10 0 0 0 0 1
+pinseq=0
+}
+T 400 3600 8 10 0 0 0 0 1
+footprint=47346-0001
+T 400 3400 8 10 0 0 0 0 1
+description=USB Connector, Micro USB Type B, USB 2.0, Receptacle, 5 Ways, Surface Mount, Right Angle
+T 400 2600 8 10 0 0 0 0 1
+manufacturer=MOLEX
+T 400 2800 8 10 0 0 0 0 1
+manufacturer_part_number=47346-0001
+T 400 3000 8 10 0 0 0 0 1
+vendor=Farnell
+T 400 3200 8 10 0 0 0 0 1
+vendor_part_number=1568026
+T 400 2400 8 10 0 0 0 0 1
+value=Micro B
+T 1500 400 5 4 1 1 0 0 1
+device=47346-0001

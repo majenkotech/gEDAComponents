@@ -58,20 +58,20 @@ pinnumber=4
 T 1500 1100 8 10 1 1 0 0 1
 refdes=U?
 T 1000 1100 8 10 1 1 0 6 1
-device=MCP1824T-3302E/OT
+device=LP2985-33DBVR
 T -800 -1700 8 10 0 1 0 0 1
-footprint=MCP1824T-3302E-OT
+footprint=LP2985-33DBVR
 T 1300 0 8 10 1 1 0 0 1
 value=3.3V
 T 1200 3000 8 10 0 0 0 0 1
-footprint=MCP1824T-3302E-OT
+footprint=LP2985-33DBVR
 T 1200 2800 8 10 0 0 0 0 1
-description=REG, LDO, 3.3V, 300mA, SOT-23-5
+description=Fixed Ldo Voltage Regulator, 2.2v To 16v, 280mv Dropout, 3.3vout, 150maout, Sot-23-5
 T 1200 2600 8 10 0 0 0 0 1
-manufacturer=MICROCHIP
+manufacturer=Texas Instruments
 T 1200 2400 8 10 0 0 0 0 1
-manufacturer_part_number=MCP1824T-3302E/OT
+manufacturer_part_number=LP2985-33DBVR
 T 1200 2200 8 10 0 0 0 0 1
 vendor=Farnell
 T 1200 2000 8 10 0 0 0 0 1
-vendor_part_number=1578381
+vendor_part_number=2395925

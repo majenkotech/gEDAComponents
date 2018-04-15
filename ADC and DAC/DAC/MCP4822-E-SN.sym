@@ -1,0 +1,108 @@
+v 20150930 2
+B 400 0 1600 1900 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 1500 400 1500 1 0 0
+{
+T 0 1500 5 10 0 0 0 0 1
+pintype=unknown
+T 455 1495 5 10 1 1 0 1 1
+pinlabel=Vdd
+T 305 1545 5 10 1 1 0 6 1
+pinnumber=1
+T 0 1500 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1100 400 1100 1 0 0
+{
+T 0 1100 5 10 0 0 0 0 1
+pintype=unknown
+T 455 1095 5 10 1 1 0 1 1
+pinlabel=\_CS\_
+T 305 1145 5 10 1 1 0 6 1
+pinnumber=2
+T 0 1100 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 700 400 700 1 0 0
+{
+T 0 700 5 10 0 0 0 0 1
+pintype=unknown
+T 455 695 5 10 1 1 0 1 1
+pinlabel=SCK
+T 305 745 5 10 1 1 0 6 1
+pinnumber=3
+T 0 700 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 300 400 300 1 0 0
+{
+T 0 300 5 10 0 0 0 0 1
+pintype=unknown
+T 455 295 5 10 1 1 0 1 1
+pinlabel=SDI
+T 305 345 5 10 1 1 0 6 1
+pinnumber=4
+T 0 300 5 10 0 0 0 0 1
+pinseq=0
+}
+P 2400 1500 2000 1500 1 0 0
+{
+T 2400 1500 5 10 0 0 0 6 1
+pintype=unknown
+T 1945 1495 5 10 1 1 0 7 1
+pinlabel=Vouta
+T 2095 1545 5 10 1 1 0 0 1
+pinnumber=8
+T 2400 1500 5 10 0 0 0 6 1
+pinseq=0
+}
+P 2400 1100 2000 1100 1 0 0
+{
+T 2400 1100 5 10 0 0 0 6 1
+pintype=unknown
+T 1945 1095 5 10 1 1 0 7 1
+pinlabel=Vss
+T 2095 1145 5 10 1 1 0 0 1
+pinnumber=7
+T 2400 1100 5 10 0 0 0 6 1
+pinseq=0
+}
+P 2400 700 2000 700 1 0 0
+{
+T 2400 700 5 10 0 0 0 6 1
+pintype=unknown
+T 1945 695 5 10 1 1 0 7 1
+pinlabel=Voutb
+T 2095 745 5 10 1 1 0 0 1
+pinnumber=6
+T 2400 700 5 10 0 0 0 6 1
+pinseq=0
+}
+P 2400 300 2000 300 1 0 0
+{
+T 2400 300 5 10 0 0 0 6 1
+pintype=unknown
+T 1945 295 5 10 1 1 0 7 1
+pinlabel=\_LDAC\_
+T 2095 345 5 10 1 1 0 0 1
+pinnumber=5
+T 2400 300 5 10 0 0 0 6 1
+pinseq=0
+}
+T 400 2000 8 10 1 1 0 0 1
+device=MCP4822-E/SN
+T 1700 2000 8 10 1 1 0 0 1
+refdes=U?
+T 300 4500 8 10 0 0 0 0 1
+vendor=Farnell
+T 300 4300 8 10 0 0 0 0 1
+vendor_part_number=1439414
+T 300 4100 8 10 0 0 0 0 1
+manufacturer=MICROCHIP
+T 300 3900 8 10 0 0 0 0 1
+manufacturer_part_number=MCP4822-E/SN
+T 300 3700 8 10 0 0 0 0 1
+description=12BIT DAC, SPI, VREF, DUAL, SOIC8 
+T 300 3500 8 10 0 0 0 0 1
+footprint=MCP4822-E-SN
+T 300 3300 8 10 0 0 0 0 1
+value=

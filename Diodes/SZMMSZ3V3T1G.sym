@@ -1,6 +1,6 @@
 v 20150930 2
 T 600 50 5 4 1 1 0 5 1
-device=BZX384C5V1-E3-08
+device=SZMMSZ3V3T1G
 P 1000 200 800 200 1 0 0
 {
 T 800 250 5 8 0 1 0 0 1
@@ -34,20 +34,20 @@ L 700 200 800 200 3 0 0 0 -1 -1
 T 800 300 8 10 1 1 0 0 1
 refdes=D?
 T 600 1200 5 10 0 0 0 0 1
-description=Zener Single Diode, 5.1 V, 200 Mw, Sod-323, 5 %, 2 Pins, 150 °c
+description=Zener Single Diode, 3.3 V, 500 Mw, Sod-123, 5 %, 2 Pins, 150 °c
 T 600 1000 5 10 0 0 0 0 1
 numslots=0
 T 600 1400 5 10 0 0 0 0 1
 symversion=0.1
 T 600 1600 8 10 0 0 0 0 1
-manufacturer=Vishay
+manufacturer=On Semiconductor
 T 600 1800 8 10 0 0 0 0 1
-manufacturer_part_number=BZX384C5V1-E3-08
+manufacturer_part_number=SZMMSZ3V3T1G
 T 600 2200 8 10 0 0 0 0 1
-vendor_part_number=2690036
+vendor_part_number=2728118
 T 600 2000 8 10 0 0 0 0 1
 vendor=Farnell
 T 400 300 8 10 1 1 0 6 1
-value=5.1V
+value=3.3V
 T 600 2600 8 10 0 0 0 0 1
-footprint=BZX384C5V1-E3-08
+footprint=SZMMSZ3V3T1G

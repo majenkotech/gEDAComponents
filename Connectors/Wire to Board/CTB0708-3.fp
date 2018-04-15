@@ -1,0 +1,25 @@
+
+Element["" "" "" "" 4000.00mil 2000.00mil 0.0000 0.0000 0 64 ""]
+(
+	Pin[-200.00mil 0.0000 2.4000mm 0.3000mm 2.5024mm 1.2080mm "" "1" "edge2"]
+	Pin[0.0000 0.0000 2.4000mm 0.3000mm 2.5024mm 1.2080mm "" "2" "edge2"]
+	Pin[200.00mil 0.0000 2.4000mm 0.3000mm 2.5024mm 1.2080mm "" "3" "edge2"]
+	ElementLine [-7.6100mm -5.7000mm 100.00mil -5.7000mm 5.91mil]
+	ElementLine [100.00mil 5.5000mm -7.6100mm 5.5000mm 5.91mil]
+	ElementLine [-7.6100mm 5.5000mm -7.6100mm -5.7000mm 5.91mil]
+	ElementLine [-6.5800mm 5.5000mm -6.5800mm -1.5000mm 5.91mil]
+	ElementLine [-6.5800mm -1.5000mm -3.5800mm -1.5000mm 5.91mil]
+	ElementLine [-3.5800mm -1.5000mm -3.5800mm 5.5000mm 5.91mil]
+	ElementLine [-1.5000mm 5.5000mm -1.5000mm -1.5000mm 5.91mil]
+	ElementLine [-1.5000mm -1.5000mm 1.5000mm -1.5000mm 5.91mil]
+	ElementLine [1.5000mm -1.5000mm 1.5000mm 5.5000mm 5.91mil]
+	ElementLine [-7.6100mm -2.5000mm 100.00mil -2.5000mm 5.91mil]
+	ElementLine [2.5500mm -5.7000mm 300.00mil -5.7000mm 5.91mil]
+	ElementLine [300.00mil -5.7000mm 300.00mil 5.5000mm 5.91mil]
+	ElementLine [300.00mil 5.5000mm 2.5500mm 5.5000mm 5.91mil]
+	ElementLine [3.5800mm 5.5000mm 3.5800mm -1.5000mm 5.91mil]
+	ElementLine [3.5800mm -1.5000mm 6.5800mm -1.5000mm 5.91mil]
+	ElementLine [6.5800mm -1.5000mm 6.5800mm 5.5000mm 5.91mil]
+	ElementLine [2.5500mm -2.5000mm 300.00mil -2.5000mm 5.91mil]
+
+)
