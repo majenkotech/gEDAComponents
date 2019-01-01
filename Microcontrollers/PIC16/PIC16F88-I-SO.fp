@@ -1,0 +1,28 @@
+
+Element["" "" "" "" 67.1830mm 67.0560mm 0.0000 0.0000 0 100 ""]
+(
+	Pad[-5.8801mm -5.0800mm -4.2799mm -5.0800mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "1" "square"]
+	Pad[-5.8801mm 2.5400mm -4.2799mm 2.5400mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "7" "square"]
+	Pad[-5.8801mm 1.2700mm -4.2799mm 1.2700mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "6" "square"]
+	Pad[-5.8801mm 0.0000 -4.2799mm 0.0000 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "5" "square"]
+	Pad[-5.8801mm -1.2700mm -4.2799mm -1.2700mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "4" "square"]
+	Pad[-5.8801mm -2.5400mm -4.2799mm -2.5400mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "3" "square"]
+	Pad[-5.8801mm -3.8100mm -4.2799mm -3.8100mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "2" "square"]
+	Pad[-5.8801mm 3.8100mm -4.2799mm 3.8100mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "8" "square"]
+	Pad[-5.8801mm 5.0800mm -4.2799mm 5.0800mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "9" "square"]
+	Pad[3.9751mm -5.0800mm 5.5753mm -5.0800mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "18" "square,edge2"]
+	Pad[3.9751mm -3.8100mm 5.5753mm -3.8100mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "17" "square,edge2"]
+	Pad[3.9751mm -2.5400mm 5.5753mm -2.5400mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "16" "square,edge2"]
+	Pad[3.9751mm -1.2700mm 5.5753mm -1.2700mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "15" "square,edge2"]
+	Pad[3.9751mm 0.0000 5.5753mm 0.0000 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "14" "square,edge2"]
+	Pad[3.9751mm 1.2700mm 5.5753mm 1.2700mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "13" "square,edge2"]
+	Pad[3.9751mm 2.5400mm 5.5753mm 2.5400mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "12" "square,edge2"]
+	Pad[3.9751mm 3.8100mm 5.5753mm 3.8100mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "11" "square,edge2"]
+	Pad[3.9751mm 5.0800mm 5.5753mm 5.0800mm 0.6096mm 1.0000mm 1.6096mm 1.6096mm "" "10" "square,edge2"]
+	ElementLine [3.4163mm -5.3848mm 3.4163mm 5.5880mm 0.2540mm]
+	ElementLine [-3.7211mm 5.5880mm 3.4163mm 5.5880mm 0.2540mm]
+	ElementLine [-3.7211mm 5.5880mm -3.7211mm -4.4704mm 0.2540mm]
+	ElementLine [-2.8067mm -5.3848mm 3.4163mm -5.3848mm 0.2540mm]
+	ElementLine [-3.7211mm -4.4704mm -2.8067mm -5.3848mm 0.2540mm]
+
+)

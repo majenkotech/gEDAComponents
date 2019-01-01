@@ -23,7 +23,7 @@ pintype=pas
 }
 B 250 300 200 200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 500 600 5 10 1 1 0 0 1
-device=ABMM2-12.000MHZ-E2-T
+device=ABMM2-20.000MHZ-E2-T
 L 200 540 200 260 3 0 0 0 -1 -1
 L 500 540 500 260 3 0 0 0 -1 -1
 T 100 600 8 10 1 1 0 0 1
@@ -51,14 +51,14 @@ L 350 200 350 300 3 0 0 0 -1 -1
 T 0 3100 8 10 0 0 0 0 1
 vendor=Farnell
 T 0 2900 8 10 0 0 0 0 1
-vendor_part_number=1652557
+vendor_part_number=2467854
 T 0 2700 8 10 0 0 0 0 1
-manufacturer=Abracon
+manufacturer=ABRACON
 T 0 2500 8 10 0 0 0 0 1
-manufacturer_part_number=ABMM2-12.000MHZ-E2-T
+manufacturer_part_number=ABMM2-20.000MHZ-E2-T
 T 0 2300 8 10 0 0 0 0 1
-description=Crystal, 12 Mhz, Smd, 6mm X 3.5mm, 20 Ppm, 18 Pf, 20 Ppm, Abmm2 Series
+description=Crystal, 20 MHz, SMD, 6mm x 3.6mm, 20 ppm, 18 pF, 20 ppm, ABMM2 Series
 T 0 2100 8 10 0 0 0 0 1
-footprint=ABMM2-12.000MHZ-E2-T
+footprint=ABMM2-20.000MHZ-E2-T
 T 0 1900 8 10 0 0 0 0 1
-value=12MHz
+value=20MHz

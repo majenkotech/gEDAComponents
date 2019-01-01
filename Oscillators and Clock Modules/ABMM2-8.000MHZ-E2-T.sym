@@ -2,11 +2,11 @@ v 20150930 2
 P 0 400 200 400 1 0 0
 {
 T 150 450 5 8 0 1 0 6 1
-pinnumber=4
+pinnumber=3
 T 150 350 5 8 0 1 0 8 1
-pinseq=4
+pinseq=3
 T 250 400 9 8 0 1 0 0 1
-pinlabel=4
+pinlabel=3
 T 250 400 5 8 0 1 0 2 1
 pintype=pas
 }
@@ -42,9 +42,9 @@ P 500 0 500 200 1 0 0
 T 500 0 5 10 0 0 0 0 1
 pintype=unknown
 T 500 0 5 10 0 0 0 0 1
-pinseq=3
+pinseq=4
 T 500 0 5 10 0 0 0 0 1
-pinnumber=3
+pinnumber=4
 }
 L 200 200 500 200 3 0 0 0 -1 -1
 L 350 200 350 300 3 0 0 0 -1 -1
