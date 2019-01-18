@@ -1,0 +1,46 @@
+v 20150930 2
+L 600 400 500 200 3 0 0 0 -1 -1
+L 500 200 400 400 3 0 0 0 -1 -1
+L 400 400 300 200 3 0 0 0 -1 -1
+L 300 200 200 400 3 0 0 0 -1 -1
+L 600 400 700 200 3 0 0 0 -1 -1
+L 700 200 750 300 3 0 0 0 -1 -1
+P 900 300 750 300 1 0 0
+{
+T 800 350 5 8 0 1 0 0 1
+pinnumber=2
+T 800 350 5 8 0 1 0 0 1
+pinlabel=2
+T 800 350 5 8 0 1 0 0 1
+pintype=pas
+}
+P 0 300 152 300 1 0 0
+{
+T 100 350 5 8 0 1 0 0 1
+pinnumber=1
+T 100 350 5 8 0 1 0 0 1
+pinlabel=1
+T 100 350 5 8 0 1 0 0 1
+pintype=pas
+}
+L 201 400 150 300 3 0 0 0 -1 -1
+T 400 500 8 10 1 1 0 6 1
+refdes=R?
+T 0 200 8 10 0 1 0 0 1
+pins=2
+T 300 2000 5 10 0 0 0 0 1
+vendor=Rapid
+T 300 1800 5 10 0 0 0 0 1
+manufacturer_part_number=0603SAF8200T5E-5K
+T 300 1600 5 10 0 0 0 0 1
+manufacturer=Royal Ohm
+T 300 1400 5 10 0 0 0 0 1
+vendor_part_number=72-9924
+T 300 1200 5 10 0 0 0 0 1
+description=820r 0603 1% 1/10w Royal Ohm Chip Resistor Reel 5k
+T 500 100 5 4 1 1 0 5 1
+device=0603SAF8200T5E-5K
+T 500 500 5 10 1 1 0 0 1
+value=820R
+T 300 1000 5 10 0 0 0 0 1
+footprint=0603SAF8200T5E-5K

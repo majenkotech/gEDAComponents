@@ -41,7 +41,7 @@ numslots=0
 T 200 1300 5 10 0 0 0 0 1
 symversion=0.1
 T 200 1500 5 10 0 0 0 0 1
-value=22
+value=22uH
 T 200 1700 5 10 0 0 0 0 1
 vendor=Farnell
 T 200 1900 5 10 0 0 0 0 1
