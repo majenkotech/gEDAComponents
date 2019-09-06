@@ -2,253 +2,165 @@ v 20150930 2
 B 300 300 11500 11500 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
 P 0 10300 300 10300 1 0 0
 {
-T 100 10350 5 4 0 0 0 1 1
-pintype=unknown
 T 208 10342 5 4 1 1 0 1 1
 pinnumber=1
-T 100 10350 5 4 0 0 0 1 1
-pinseq=0
 T 375 10300 3 8 1 1 0 1 1
 pinlabel=RA9
 T 375 10225 5 3 1 1 0 2 1
-pinlabel=VREF-/AN27
+altlabel=VREF-/AN27
 }
 P 0 10100 300 10100 1 0 0
 {
-T 100 10150 5 4 0 0 0 0 1
-pintype=unknown
 T 208 10142 5 4 1 1 0 6 1
 pinnumber=2
-T 100 10150 5 4 0 0 0 0 1
-pinseq=0
 T 375 10100 3 8 1 1 0 1 1
 pinlabel=RA10
 T 375 10025 5 3 1 1 0 2 1
-pinlabel=VREF+/AN28
+altlabel=VREF+/AN28
 }
 P 0 9900 300 9900 1 0 0
 {
-T 100 9950 5 4 0 0 0 0 1
-pintype=unknown
 T 208 9942 5 4 1 1 0 6 1
 pinnumber=3
-T 100 9950 5 4 0 0 0 0 1
-pinseq=0
 T 375 9900 2 8 1 1 0 1 1
 pinlabel=AVDD
-T 375 9825 5 3 1 1 0 2 1
-pinlabel=3.3V
 }
 P 0 9700 300 9700 1 0 0
 {
-T 100 9750 5 4 0 0 0 0 1
-pintype=unknown
 T 208 9742 5 4 1 1 0 6 1
 pinnumber=4
-T 100 9750 5 4 0 0 0 0 1
-pinseq=0
 T 375 9700 2 8 1 1 0 1 1
 pinlabel=AVDD
-T 375 9625 5 3 1 1 0 2 1
-pinlabel=3.3V
 }
 P 0 9500 300 9500 1 0 0
 {
-T 100 9550 5 4 0 0 0 0 1
-pintype=unknown
 T 208 9542 5 4 1 1 0 6 1
 pinnumber=5
-T 100 9550 5 4 0 0 0 0 1
-pinseq=0
 T 375 9500 5 8 1 1 0 1 1
 pinlabel=AVSS
 }
 P 0 9300 300 9300 1 0 0
 {
-T 100 9350 5 4 0 0 0 0 1
-pintype=unknown
 T 208 9342 5 4 1 1 0 6 1
 pinnumber=6
-T 100 9350 5 4 0 0 0 0 1
-pinseq=0
 T 375 9300 5 8 1 1 0 1 1
 pinlabel=AVSS
 }
 P 0 9100 300 9100 1 0 0
 {
-T 100 9150 5 4 0 0 0 0 1
-pintype=unknown
 T 208 9142 5 4 1 1 0 6 1
 pinnumber=7
-T 100 9150 5 4 0 0 0 0 1
-pinseq=0
 T 375 9025 5 3 1 1 0 2 1
-pinlabel=AN3/C2INA/RPB15/OCFB
+altlabel=AN3/C2INA/RPB15/OCFB
 T 375 9100 14 8 1 1 0 1 1
 pinlabel=RB15
 }
 P 0 8900 300 8900 1 0 0
 {
-T 100 8950 5 4 0 0 0 0 1
-pintype=unknown
 T 208 8942 5 4 1 1 0 6 1
 pinnumber=8
-T 100 8950 5 4 0 0 0 0 1
-pinseq=0
 T 375 8825 5 3 1 1 0 2 1
-pinlabel=AN8/RPB3
+altlabel=AN8/RPB3
 T 375 8900 14 8 1 1 0 1 1
 pinlabel=RB3
 }
 P 0 8700 300 8700 1 0 0
 {
-T 100 8750 5 4 0 0 0 0 1
-pintype=unknown
 T 208 8742 5 4 1 1 0 6 1
 pinnumber=9
-T 100 8750 5 4 0 0 0 0 1
-pinseq=0
 T 375 8625 5 3 1 1 0 2 1
-pinlabel=AN48/CTPLS/RB13
+altlabel=AN48/CTPLS/RB13
 T 375 8700 5 8 1 1 0 1 1
 pinlabel=RB13
 }
 P 0 8500 300 8500 1 0 0
 {
-T 100 8550 5 4 0 0 0 0 1
-pintype=unknown
 T 208 8542 5 4 1 1 0 6 1
 pinnumber=10
-T 100 8550 5 4 0 0 0 0 1
-pinseq=0
 T 375 8500 14 8 1 1 0 1 1
 pinlabel=RB8
 T 375 8425 5 3 1 1 0 2 1
-pinlabel=EBID10/AN4/RPB8/PMD10
+altlabel=EBID10/AN4/RPB8/PMD10
 }
 P 0 8100 300 8100 1 0 0
 {
-T 100 8150 5 4 0 0 0 0 1
-pintype=unknown
 T 208 8142 5 4 1 1 0 6 1
 pinnumber=12
-T 100 8150 5 4 0 0 0 0 1
-pinseq=0
 T 375 8025 5 3 1 1 0 2 1
-pinlabel=AN49
+altlabel=AN49
 T 375 8100 5 8 1 1 0 1 1
 pinlabel=RB11
 }
 P 0 7900 300 7900 1 0 0
 {
-T 100 7950 5 4 0 0 0 0 1
-pintype=unknown
-T 100 7950 5 4 0 0 0 0 1
-pinseq=0
 T 208 7942 5 4 1 1 0 6 1
 pinnumber=13
 T 375 7900 14 8 1 1 0 1 1
 pinlabel=RB6
 T 375 7825 5 3 1 1 0 2 1
-pinlabel=PGEC2/RPB6
+altlabel=PGEC2/RPB6
 }
 P 0 7700 300 7700 1 0 0
 {
-T 100 7750 5 4 0 0 0 0 1
-pintype=unknown
-T 100 7750 5 4 0 0 0 0 1
-pinseq=0
 T 208 7742 5 4 1 1 0 6 1
 pinnumber=14
 T 375 7625 5 3 1 1 0 2 1
-pinlabel=EBID12/AN10/RPC2/PMD12
+altlabel=EBID12/AN10/RPC2/PMD12
 T 375 7700 14 8 1 1 0 1 1
 pinlabel=RC2
 }
 P 0 7500 300 7500 1 0 0
 {
-T 100 7550 5 4 0 0 0 0 1
-pintype=unknown
-T 100 7550 5 4 0 0 0 0 1
-pinseq=0
 T 208 7542 5 4 1 1 0 6 1
 pinnumber=15
 T 375 7500 14 8 1 1 0 1 1
 pinlabel=RC3
 T 375 7425 5 3 1 1 0 2 1
-pinlabel=\_EBIWE\_/AN34/RPC3/PMWR
+altlabel=\_EBIWE\_/AN34/RPC3/PMWR
 }
 P 0 7300 300 7300 1 0 0
 {
-T 100 7350 5 4 0 0 0 0 1
-pintype=unknown
-T 100 7350 5 4 0 0 0 0 1
-pinseq=0
 T 208 7342 5 4 1 1 0 6 1
 pinnumber=16
 T 375 7225 5 3 1 1 0 2 1
-pinlabel=\_EBIOE\_/AN19/RPC4/PMRD
+altlabel=\_EBIOE\_/AN19/RPC4/PMRD
 T 375 7300 14 8 1 1 0 1 1
 pinlabel=RC4
 }
 P 0 8300 300 8300 1 0 0
 {
-T 100 8350 5 4 0 0 0 0 1
-pintype=unknown
-T 100 8350 5 4 0 0 0 0 1
-pinseq=0
 T 208 8342 5 4 1 1 0 6 1
 pinnumber=11
 T 375 8300 14 8 1 1 0 1 1
 pinlabel=RB1
 T 375 8225 5 3 1 1 0 2 1
-pinlabel=PGEC1/AN9/RPB1/CTED1
+altlabel=PGEC1/AN9/RPB1/CTED1
 }
 P 0 7100 300 7100 1 0 0
 {
-T 100 7150 5 4 0 0 0 0 1
-pintype=unknown
-T 100 7150 5 4 0 0 0 0 1
-pinseq=0
 T 208 7142 5 4 1 1 0 6 1
 pinnumber=17
 T 375 7100 14 8 1 1 0 1 1
 pinlabel=RC1 
 T 375 7025 5 3 1 1 0 2 1
-pinlabel=EBID5/AN12/RPC1/PMD5
+altlabel=EBID5/AN12/RPC1/PMD5
 }
 P 0 6900 300 6900 1 0 0
 {
-T 100 6950 5 4 0 0 0 0 1
-pintype=unknown
-T 100 6950 5 4 0 0 0 0 1
-pinseq=0
 T 208 6942 5 4 1 1 0 6 1
 pinnumber=18
 T 375 6900 2 8 1 1 0 1 1
 pinlabel=VDDCORE
-T 375 6825 5 3 1 1 0 2 1
-pinlabel=1.8V
 }
 P 0 6700 300 6700 1 0 0
 {
-T 100 6750 5 4 0 0 0 0 1
-pintype=unknown
-T 100 6750 5 4 0 0 0 0 1
-pinseq=0
 T 208 6742 5 4 1 1 0 6 1
 pinnumber=19
 T 375 6700 2 8 1 1 0 1 1
 pinlabel=VDDIO
-T 375 6625 5 3 1 1 0 2 1
-pinlabel=3.3V
 }
 P 0 6500 300 6500 1 0 0
 {
-T 100 6550 5 4 0 0 0 0 1
-pintype=unknown
-T 100 6550 5 4 0 0 0 0 1
-pinseq=0
 T 208 6542 5 4 1 1 0 6 1
 pinnumber=20
 T 375 6500 5 8 1 1 0 1 1
@@ -256,1719 +168,1307 @@ pinlabel=No Connect
 }
 P 0 6300 300 6300 1 0 0
 {
-T 100 6350 5 4 0 0 0 0 1
-pintype=unknown
-T 100 6350 5 4 0 0 0 0 1
-pinseq=0
-T 358 6292 9 10 1 1 0 1 1
+T 358 6292 5 8 1 1 0 1 1
 pinlabel=VSS
 T 208 6342 5 4 1 1 0 6 1
 pinnumber=21
 }
 P 0 6100 300 6100 1 0 0
 {
-T 100 6150 5 4 0 0 0 0 1
-pintype=unknown
-T 100 6150 5 4 0 0 0 0 1
-pinseq=0
-T 358 6092 9 10 1 1 0 1 1
+T 358 6092 5 8 1 1 0 1 1
 pinlabel=VSS
 T 208 6142 5 4 1 1 0 6 1
 pinnumber=22
 }
 P 0 5900 300 5900 1 0 0
 {
-T 100 5950 5 4 0 0 0 0 1
-pintype=unknown
-T 100 5950 5 4 0 0 0 0 1
-pinseq=0
-T 358 5892 9 10 1 1 0 1 1
-pinlabel=EBID6/AN16/PMD6/RE6
+T 358 5892 9 8 1 1 0 1 1
+pinlabel=RE6
 T 208 5942 5 4 1 1 0 6 1
 pinnumber=23
+T 375 5825 5 3 1 1 0 2 1
+altlabel=EBID6/AN16/PMD6
 }
 P 0 5700 300 5700 1 0 0
 {
-T 100 5750 5 4 0 0 0 0 1
-pintype=unknown
-T 100 5750 5 4 0 0 0 0 1
-pinseq=0
-T 358 5692 9 10 1 1 0 1 1
-pinlabel=EBID7/AN15/PMD7/RE7
+T 358 5692 9 8 1 1 0 1 1
+pinlabel=RE7
 T 208 5742 5 4 1 1 0 6 1
 pinnumber=24
+T 375 5625 5 3 1 1 0 2 1
+altlabel=EBID7/AN15/PMD7
 }
 P 0 5500 300 5500 1 0 0
 {
-T 100 5550 5 4 0 0 0 0 1
-pintype=unknown
-T 100 5550 5 4 0 0 0 0 1
-pinseq=0
-T 358 5492 9 10 1 1 0 1 1
-pinlabel=AN25/RPE8/RE8
+T 358 5492 14 8 1 1 0 1 1
+pinlabel=RE8
 T 208 5542 5 4 1 1 0 6 1
 pinnumber=25
+T 375 5425 5 3 1 1 0 2 1
+altlabel=AN25/RPE8
 }
 P 0 5300 300 5300 1 0 0
 {
-T 100 5350 5 4 0 0 0 0 1
-pintype=unknown
-T 100 5350 5 4 0 0 0 0 1
-pinseq=0
-T 358 5292 9 10 1 1 0 1 1
-pinlabel=AN26/RPE9/RE9
+T 358 5292 14 8 1 1 0 1 1
+pinlabel=RE9
 T 208 5342 5 4 1 1 0 6 1
 pinnumber=26
+T 375 5225 5 3 1 1 0 2 1
+altlabel=AN26/RPE9
 }
 P 0 5100 300 5100 1 0 0
 {
-T 100 5150 5 4 0 0 0 0 1
-pintype=unknown
-T 100 5150 5 4 0 0 0 0 1
-pinseq=0
-T 358 5092 9 10 1 1 0 1 1
-pinlabel=TDO/AN31/RPF12/RF12
+T 358 5092 14 8 1 1 0 1 1
+pinlabel=RF12
 T 208 5142 5 4 1 1 0 6 1
 pinnumber=27
+T 375 5025 5 3 1 1 0 2 1
+altlabel=TDO/AN31/RPF12
 }
 P 0 4900 300 4900 1 0 0
 {
-T 100 4950 5 4 0 0 0 0 1
-pintype=unknown
-T 100 4950 5 4 0 0 0 0 1
-pinseq=0
-T 358 4892 9 10 1 1 0 1 1
-pinlabel=TDI/AN17/SCK5/RF13
+T 358 4892 9 8 1 1 0 1 1
+pinlabel=RF13
 T 208 4942 5 4 1 1 0 6 1
 pinnumber=28
+T 375 4825 5 3 1 1 0 2 1
+altlabel=TDI/AN17/SCK5
 }
 P 0 4700 300 4700 1 0 0
 {
-T 100 4750 5 4 0 0 0 0 1
-pintype=unknown
-T 100 4750 5 4 0 0 0 0 1
-pinseq=0
-T 358 4692 9 10 1 1 0 1 1
+T 358 4692 5 8 1 1 0 1 1
 pinlabel=VSS
 T 208 4742 5 4 1 1 0 6 1
 pinnumber=29
 }
 P 0 4500 300 4500 1 0 0
 {
-T 100 4550 5 4 0 0 0 0 1
-pintype=unknown
-T 100 4550 5 4 0 0 0 0 1
-pinseq=0
-T 358 4492 9 10 1 1 0 1 1
-pinlabel=AN14/C1IND/SCK2/RG6
+T 358 4492 9 8 1 1 0 1 1
+pinlabel=RG6
 T 208 4542 5 4 1 1 0 6 1
 pinnumber=30
+T 375 4425 5 3 1 1 0 2 1
+altlabel=AN14/C1IND/SCK2
 }
 P 0 4300 300 4300 1 0 0
 {
-T 100 4350 5 4 0 0 0 0 1
-pintype=unknown
-T 100 4350 5 4 0 0 0 0 1
-pinseq=0
-T 358 4292 9 10 1 1 0 1 1
-pinlabel=AN13/C1INC/RPG7/SDA4/RG7
+T 358 4292 14 8 1 1 0 1 1
+pinlabel=RG7
 T 208 4342 5 4 1 1 0 6 1
 pinnumber=31
+T 375 4225 5 3 1 1 0 2 1
+altlabel=AN13/C1INC/RPG7/SDA4
 }
 P 0 4100 300 4100 1 0 0
 {
-T 100 4150 5 4 0 0 0 0 1
-pintype=unknown
-T 100 4150 5 4 0 0 0 0 1
-pinseq=0
-T 358 4092 9 10 1 1 0 1 1
-pinlabel=AN30/C2IND/RPG8/SCL4/RG8
+T 358 4092 14 8 1 1 0 1 1
+pinlabel=RG8
 T 208 4142 5 4 1 1 0 6 1
 pinnumber=32
+T 375 4025 5 3 1 1 0 2 1
+altlabel=AN30/C2IND/RPG8/SCL4
 }
 P 0 3900 300 3900 1 0 0
 {
-T 100 3950 5 4 0 0 0 0 1
-pintype=unknown
-T 100 3950 5 4 0 0 0 0 1
-pinseq=0
-T 358 3892 9 10 1 1 0 1 1
-pinlabel=EBIA2/AN23/C2INC/RPG9/PMA2/RG9
+T 358 3892 14 8 1 1 0 1 1
+pinlabel=RG9
 T 208 3942 5 4 1 1 0 6 1
 pinnumber=33
+T 375 3825 5 3 1 1 0 2 1
+altlabel=EBIA2/AN23/C2INC/RPG9/PMA2
 }
 P 0 3700 300 3700 1 0 0
 {
-T 100 3750 5 4 0 0 0 0 1
-pintype=unknown
-T 100 3750 5 4 0 0 0 0 1
-pinseq=0
-T 358 3692 9 10 1 1 0 1 1
-pinlabel=AN21/RG15
+T 358 3692 9 8 1 1 0 1 1
+pinlabel=RG15
 T 208 3742 5 4 1 1 0 6 1
 pinnumber=34
+T 375 3625 5 3 1 1 0 2 1
+altlabel=AN21
 }
 P 0 3500 300 3500 1 0 0
 {
-T 100 3550 5 4 0 0 0 0 1
-pintype=unknown
-T 100 3550 5 4 0 0 0 0 1
-pinseq=0
-T 358 3492 9 10 1 1 0 1 1
-pinlabel=AN20/RH4
+T 358 3492 9 8 1 1 0 1 1
+pinlabel=RH4
 T 208 3542 5 4 1 1 0 6 1
 pinnumber=35
+T 375 3425 5 3 1 1 0 2 1
+altlabel=AN20
 }
 P 0 3300 300 3300 1 0 0
 {
-T 100 3350 5 4 0 0 0 0 1
-pintype=unknown
-T 100 3350 5 4 0 0 0 0 1
-pinseq=0
-T 358 3292 9 10 1 1 0 1 1
-pinlabel=EBID1/AN39/PMD1/RE1
+T 358 3292 9 8 1 1 0 1 1
+pinlabel=RE1
 T 208 3342 5 4 1 1 0 6 1
 pinnumber=36
+T 375 3225 5 3 1 1 0 2 1
+altlabel=EBID1/AN39/PMD1
 }
 P 0 3100 300 3100 1 0 0
 {
-T 100 3150 5 4 0 0 0 0 1
-pintype=unknown
-T 100 3150 5 4 0 0 0 0 1
-pinseq=0
-T 358 3092 9 10 1 1 0 1 1
+T 358 3092 5 8 1 1 0 1 1
 pinlabel=VSS
 T 208 3142 5 4 1 1 0 6 1
 pinnumber=37
 }
 P 0 2900 300 2900 1 0 0
 {
-T 100 2950 5 4 0 0 0 0 1
-pintype=unknown
-T 100 2950 5 4 0 0 0 0 1
-pinseq=0
-T 358 2892 9 10 1 1 0 1 1
+T 358 2892 8 8 1 1 0 1 1
 pinlabel=VDDIO
 T 208 2942 5 4 1 1 0 6 1
 pinnumber=38
 }
 P 0 2700 300 2700 1 0 0
 {
-T 100 2750 5 4 0 0 0 0 1
-pintype=unknown
-T 100 2750 5 4 0 0 0 0 1
-pinseq=0
-T 358 2692 9 10 1 1 0 1 1
+T 358 2692 8 8 1 1 0 1 1
 pinlabel=VDDCORE
 T 208 2742 5 4 1 1 0 6 1
 pinnumber=39
 }
 P 0 2500 300 2500 1 0 0
 {
-T 100 2550 5 4 0 0 0 0 1
-pintype=unknown
-T 100 2550 5 4 0 0 0 0 1
-pinseq=0
-T 358 2492 9 10 1 1 0 1 1
-pinlabel=EBID0/PMD0/RE0
+T 358 2492 9 8 1 1 0 1 1
+pinlabel=RE0
 T 208 2542 5 4 1 1 0 6 1
 pinnumber=40
+T 375 2425 5 3 1 1 0 2 1
+altlabel=EBID0/PMD0
 }
 P 0 2300 300 2300 1 0 0
 {
-T 100 2350 5 4 0 0 0 0 1
-pintype=unknown
-T 100 2350 5 4 0 0 0 0 1
-pinseq=0
-T 358 2292 9 10 1 1 0 1 1
-pinlabel=RPF2/SDA3/RF2
+T 358 2292 14 8 1 1 0 1 1
+pinlabel=RF2
 T 208 2342 5 4 1 1 0 6 1
 pinnumber=41
+T 375 2225 5 3 1 1 0 2 1
+altlabel=RPF2/SDA3
 }
 P 0 2100 300 2100 1 0 0
 {
-T 100 2150 5 4 0 0 0 0 1
-pintype=unknown
-T 100 2150 5 4 0 0 0 0 1
-pinseq=0
-T 358 2092 9 10 1 1 0 1 1
-pinlabel=INT0/RH14
+T 358 2092 9 8 1 1 0 1 1
+pinlabel=RH14
 T 208 2142 5 4 1 1 0 6 1
 pinnumber=42
+T 375 2025 5 3 1 1 0 2 1
+altlabel=INT0
 }
 P 0 1900 300 1900 1 0 0
 {
-T 100 1950 5 4 0 0 0 0 1
-pintype=unknown
-T 100 1950 5 4 0 0 0 0 1
-pinseq=0
-T 358 1892 9 10 1 1 0 1 1
-pinlabel=EBID4/AN18/PMD4/RE4
+T 358 1892 9 8 1 1 0 1 1
+pinlabel=RE4
 T 208 1942 5 4 1 1 0 6 1
 pinnumber=43
+T 375 1825 5 3 1 1 0 2 1
+altlabel=EBID4/AN18/PMD4
 }
 P 0 1700 300 1700 1 0 0
 {
-T 100 1750 5 4 0 0 0 0 1
-pintype=unknown
-T 100 1750 5 4 0 0 0 0 1
-pinseq=0
-T 358 1692 9 10 1 1 0 1 1
+T 358 1692 5 8 1 1 0 1 1
 pinlabel=No Connect
 T 208 1742 5 4 1 1 0 6 1
 pinnumber=44
 }
 P 1800 0 1800 300 1 0 0
 {
-T 1750 100 5 4 0 0 90 0 1
-pintype=unknown
-T 1750 100 5 4 0 0 90 0 1
-pinseq=0
-T 1808 358 9 10 1 1 90 1 1
+T 1808 358 8 8 1 1 90 1 1
 pinlabel=VBUS
 T 1758 208 5 4 1 1 90 6 1
 pinnumber=45
 }
 P 2000 0 2000 300 1 0 0
 {
-T 1950 100 5 4 0 0 90 0 1
-pintype=unknown
-T 1950 100 5 4 0 0 90 0 1
-pinseq=0
-T 2008 358 9 10 1 1 90 1 1
+T 2008 358 8 8 1 1 90 1 1
 pinlabel=VUSB3V3
 T 1958 208 5 4 1 1 90 6 1
 pinnumber=46
 }
 P 2200 0 2200 300 1 0 0
 {
-T 2150 100 5 4 0 0 90 0 1
-pintype=unknown
-T 2150 100 5 4 0 0 90 0 1
-pinseq=0
-T 2208 358 9 10 1 1 90 1 1
+T 2208 358 8 8 1 1 90 1 1
 pinlabel=VUSB3V3
 T 2158 208 5 4 1 1 90 6 1
 pinnumber=47
 }
 P 2400 0 2400 300 1 0 0
 {
-T 2350 100 5 4 0 0 90 0 1
-pintype=unknown
-T 2350 100 5 4 0 0 90 0 1
-pinseq=0
-T 2408 358 9 10 1 1 90 1 1
+T 2408 358 5 8 1 1 90 1 1
 pinlabel=VSS
 T 2358 208 5 4 1 1 90 6 1
 pinnumber=48
 }
 P 2600 0 2600 300 1 0 0
 {
-T 2550 100 5 4 0 0 90 0 1
-pintype=unknown
-T 2550 100 5 4 0 0 90 0 1
-pinseq=0
-T 2608 358 9 10 1 1 90 1 1
+T 2608 358 5 8 1 1 90 1 1
 pinlabel=VSS
 T 2558 208 5 4 1 1 90 6 1
 pinnumber=49
 }
 P 2800 0 2800 300 1 0 0
 {
-T 2750 100 5 4 0 0 90 0 1
-pintype=unknown
-T 2750 100 5 4 0 0 90 0 1
-pinseq=0
-T 2808 358 9 10 1 1 90 1 1
+T 2808 358 9 8 1 1 90 1 1
 pinlabel=D-
 T 2758 208 5 4 1 1 90 6 1
 pinnumber=50
 }
 P 3000 0 3000 300 1 0 0
 {
-T 2950 100 5 4 0 0 90 0 1
-pintype=unknown
-T 2950 100 5 4 0 0 90 0 1
-pinseq=0
-T 3008 358 9 10 1 1 90 1 1
+T 3008 358 9 8 1 1 90 1 1
 pinlabel=D+
 T 2958 208 5 4 1 1 90 6 1
 pinnumber=51
 }
 P 3200 0 3200 300 1 0 0
 {
-T 3150 100 5 4 0 0 90 0 1
-pintype=unknown
-T 3150 100 5 4 0 0 90 0 1
-pinseq=0
-T 3208 358 9 10 1 1 90 1 1
+T 3208 358 9 8 1 1 90 1 1
 pinlabel=USBID
 T 3158 208 5 4 1 1 90 6 1
 pinnumber=52
 }
 P 3400 0 3400 300 1 0 0
 {
-T 3350 100 5 4 0 0 90 0 1
-pintype=unknown
-T 3350 100 5 4 0 0 90 0 1
-pinseq=0
-T 3408 358 9 10 1 1 90 1 1
-pinlabel=TMS/\_SDCD\_/RA0
+T 3408 358 9 8 1 1 90 1 1
+pinlabel=RA0
 T 3358 208 5 4 1 1 90 6 1
 pinnumber=53
+T 3475 375 5 3 1 1 90 2 1
+altlabel=TMS/\_SDCD\_
 }
 P 3600 0 3600 300 1 0 0
 {
-T 3550 100 5 4 0 0 90 0 1
-pintype=unknown
-T 3550 100 5 4 0 0 90 0 1
-pinseq=0
-T 3608 358 9 10 1 1 90 1 1
-pinlabel=TRCLK/SDCK/SQICLK/RA6
+T 3608 358 9 8 1 1 90 1 1
+pinlabel=RA6
 T 3558 208 5 4 1 1 90 6 1
 pinnumber=54
+T 3675 375 5 3 1 1 90 2 1
+altlabel=TRCLK/SDCK/SQICLK
 }
 P 3800 0 3800 300 1 0 0
 {
-T 3750 100 5 4 0 0 90 0 1
-pintype=unknown
-T 3750 100 5 4 0 0 90 0 1
-pinseq=0
-T 3808 358 9 10 1 1 90 1 1
-pinlabel=TRD3/SDDATA3/SQID3/RA7
+T 3808 358 9 8 1 1 90 1 1
+pinlabel=RA7
 T 3758 208 5 4 1 1 90 6 1
 pinnumber=55
+T 3875 375 5 3 1 1 90 2 1
+altlabel=TRD3/SDDATA3/SQID3
 }
 P 4000 0 4000 300 1 0 0
 {
-T 3950 100 5 4 0 0 90 0 1
-pintype=unknown
-T 3950 100 5 4 0 0 90 0 1
-pinseq=0
-T 4008 358 9 10 1 1 90 1 1
-pinlabel=TRD1/SDDATA1/SQID1/RG12
+T 4008 358 9 8 1 1 90 1 1
+pinlabel=RG12
 T 3958 208 5 4 1 1 90 6 1
 pinnumber=56
+T 4075 375 5 3 1 1 90 2 1
+altlabel=TRD1/SDDATA1/SQID1
 }
 P 4200 0 4200 300 1 0 0
 {
-T 4150 100 5 4 0 0 90 0 1
-pintype=unknown
-T 4150 100 5 4 0 0 90 0 1
-pinseq=0
-T 4208 358 9 10 1 1 90 1 1
+T 4208 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 4158 208 5 4 1 1 90 6 1
 pinnumber=57
 }
 P 4400 0 4400 300 1 0 0
 {
-T 4350 100 5 4 0 0 90 0 1
-pintype=unknown
-T 4350 100 5 4 0 0 90 0 1
-pinseq=0
-T 4408 358 9 10 1 1 90 1 1
+T 4408 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 4358 208 5 4 1 1 90 6 1
 pinnumber=58
 }
 P 4600 0 4600 300 1 0 0
 {
-T 4550 100 5 4 0 0 90 0 1
-pintype=unknown
-T 4550 100 5 4 0 0 90 0 1
-pinseq=0
-T 4608 358 9 10 1 1 90 1 1
+T 4608 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 4558 208 5 4 1 1 90 6 1
 pinnumber=59
 }
 P 4800 0 4800 300 1 0 0
 {
-T 4750 100 5 4 0 0 90 0 1
-pintype=unknown
-T 4750 100 5 4 0 0 90 0 1
-pinseq=0
-T 4808 358 9 10 1 1 90 1 1
+T 4808 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 4758 208 5 4 1 1 90 6 1
 pinnumber=60
 }
 P 5000 0 5000 300 1 0 0
 {
-T 4950 100 5 4 0 0 90 0 1
-pintype=unknown
-T 4950 100 5 4 0 0 90 0 1
-pinseq=0
-T 5008 358 9 10 1 1 90 1 1
+T 5008 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 4958 208 5 4 1 1 90 6 1
 pinnumber=61
 }
 P 5200 0 5200 300 1 0 0
 {
-T 5150 100 5 4 0 0 90 0 1
-pintype=unknown
-T 5150 100 5 4 0 0 90 0 1
-pinseq=0
-T 5208 358 9 10 1 1 90 1 1
+T 5208 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 5158 208 5 4 1 1 90 6 1
 pinnumber=62
 }
 P 5400 0 5400 300 1 0 0
 {
-T 5350 100 5 4 0 0 90 0 1
-pintype=unknown
-T 5350 100 5 4 0 0 90 0 1
-pinseq=0
-T 5408 358 9 10 1 1 90 1 1
+T 5408 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 5358 208 5 4 1 1 90 6 1
 pinnumber=63
 }
 P 5600 0 5600 300 1 0 0
 {
-T 5550 100 5 4 0 0 90 0 1
-pintype=unknown
-T 5550 100 5 4 0 0 90 0 1
-pinseq=0
-T 5608 358 9 10 1 1 90 1 1
-pinlabel=TRD0/SDDATA0/SQID0/RG13
+T 5608 358 9 8 1 1 90 1 1
+pinlabel=RG13
 T 5558 208 5 4 1 1 90 6 1
 pinnumber=64
+T 5675 375 5 3 1 1 90 2 1
+altlabel=TRD0/SDDATA0/SQID0
 }
 P 5800 0 5800 300 1 0 0
 {
-T 5750 100 5 4 0 0 90 0 1
-pintype=unknown
-T 5750 100 5 4 0 0 90 0 1
-pinseq=0
-T 5808 358 9 10 1 1 90 1 1
-pinlabel=TRD2/SDDATA2/SQID2/RG14
+T 5808 358 9 8 1 1 90 1 1
+pinlabel=RG14
 T 5758 208 5 4 1 1 90 6 1
 pinnumber=65
+T 5875 375 5 3 1 1 90 2 1
+altlabel=TRD2/SDDATA2/SQID2
 }
 P 6000 0 6000 300 1 0 0
 {
-T 5950 100 5 4 0 0 90 0 1
-pintype=unknown
-T 5950 100 5 4 0 0 90 0 1
-pinseq=0
-T 6008 358 9 10 1 1 90 1 1
+T 6008 358 9 8 1 1 90 1 1
 pinlabel=DDRVREF
 T 5958 208 5 4 1 1 90 6 1
 pinnumber=66
 }
 P 6200 0 6200 300 1 0 0
 {
-T 6150 100 5 4 0 0 90 0 1
-pintype=unknown
-T 6150 100 5 4 0 0 90 0 1
-pinseq=0
-T 6208 358 9 10 1 1 90 1 1
+T 6208 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 6158 208 5 4 1 1 90 6 1
 pinnumber=67
 }
 P 6400 0 6400 300 1 0 0
 {
-T 6350 100 5 4 0 0 90 0 1
-pintype=unknown
-T 6350 100 5 4 0 0 90 0 1
-pinseq=0
-T 6408 358 9 10 1 1 90 1 1
+T 6408 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 6358 208 5 4 1 1 90 6 1
 pinnumber=68
 }
 P 6600 0 6600 300 1 0 0
 {
-T 6550 100 5 4 0 0 90 0 1
-pintype=unknown
-T 6550 100 5 4 0 0 90 0 1
-pinseq=0
-T 6608 358 9 10 1 1 90 1 1
-pinlabel=EBIA6/RPE5/PMA6/RE5
+T 6608 358 14 8 1 1 90 1 1
+pinlabel=RE5
 T 6558 208 5 4 1 1 90 6 1
 pinnumber=69
+T 6675 375 5 3 1 1 90 2 1
+altlabel=EBIA6/RPE5/PMA6
 }
 P 6800 0 6800 300 1 0 0
 {
-T 6750 100 5 4 0 0 90 0 1
-pintype=unknown
-T 6750 100 5 4 0 0 90 0 1
-pinseq=0
-T 6808 358 9 10 1 1 90 1 1
-pinlabel=SDCMD/SQICS0/RPD4/RD4
+T 6808 358 14 8 1 1 90 1 1
+pinlabel=RD4
 T 6758 208 5 4 1 1 90 6 1
 pinnumber=70
+T 6875 375 5 3 1 1 90 2 1
+altlabel=SDCMD/SQICS0/RPD4
 }
 P 7000 0 7000 300 1 0 0
 {
-T 6950 100 5 4 0 0 90 0 1
-pintype=unknown
-T 6950 100 5 4 0 0 90 0 1
-pinseq=0
-T 7008 358 9 10 1 1 90 1 1
-pinlabel=SQICS1/RPD5/RD5
+T 7008 358 14 8 1 1 90 1 1
+pinlabel=RD5
 T 6958 208 5 4 1 1 90 6 1
 pinnumber=71
+T 7075 375 5 3 1 1 90 2 1
+altlabel=SQICS1/RPD5
 }
 P 7200 0 7200 300 1 0 0
 {
-T 7150 100 5 4 0 0 90 0 1
-pintype=unknown
-T 7150 100 5 4 0 0 90 0 1
-pinseq=0
-T 7208 358 9 10 1 1 90 1 1
+T 7208 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 7158 208 5 4 1 1 90 6 1
 pinnumber=72
 }
 P 7400 0 7400 300 1 0 0
 {
-T 7350 100 5 4 0 0 90 0 1
-pintype=unknown
-T 7350 100 5 4 0 0 90 0 1
-pinseq=0
-T 7408 358 9 10 1 1 90 1 1
+T 7408 358 9 8 1 1 90 1 1
 pinlabel=SCK1/RD1
 T 7358 208 5 4 1 1 90 6 1
 pinnumber=73
 }
 P 7600 0 7600 300 1 0 0
 {
-T 7550 100 5 4 0 0 90 0 1
-pintype=unknown
-T 7550 100 5 4 0 0 90 0 1
-pinseq=0
-T 7608 358 9 10 1 1 90 1 1
-pinlabel=GD10/EBIA14/RPD2/PMA14/PMCS1/RD2
+T 7608 358 14 8 1 1 90 1 1
+pinlabel=RD2
 T 7558 208 5 4 1 1 90 6 1
 pinnumber=74
+T 7675 375 6 3 1 1 90 2 1
+altlabel=GD10/EBIA14/RPD2/PMA14/PMCS1
 }
 P 7800 0 7800 300 1 0 0
 {
-T 7750 100 5 4 0 0 90 0 1
-pintype=unknown
-T 7750 100 5 4 0 0 90 0 1
-pinseq=0
-T 7808 358 9 10 1 1 90 1 1
-pinlabel=GD11/EBIA15/RPD3/PMA15/PMCS2/RD3
+T 7808 358 14 8 1 1 90 1 1
+pinlabel=RD3
 T 7758 208 5 4 1 1 90 6 1
 pinnumber=75
+T 7875 375 6 3 1 1 90 2 1
+altlabel=GD11/EBIA15/RPD3/PMA15/PMCS2
 }
 P 8000 0 8000 300 1 0 0
 {
-T 7950 100 5 4 0 0 90 0 1
-pintype=unknown
-T 7950 100 5 4 0 0 90 0 1
-pinseq=0
-T 8008 358 9 10 1 1 90 1 1
-pinlabel=GD2/EBID15/RPD9/PMD15/RD9
+T 8008 358 14 8 1 1 90 1 1
+pinlabel=RD9
 T 7958 208 5 4 1 1 90 6 1
 pinnumber=76
+T 8075 375 6 3 1 1 90 2 1
+altlabel=GD2/EBID15/RPD9/PMD15
 }
 P 8200 0 8200 300 1 0 0
 {
-T 8150 100 5 4 0 0 90 0 1
-pintype=unknown
-T 8150 100 5 4 0 0 90 0 1
-pinseq=0
-T 8208 358 9 10 1 1 90 1 1
-pinlabel=SCK4/RD10
+T 8208 358 9 8 1 1 90 1 1
+pinlabel=RD10
 T 8158 208 5 4 1 1 90 6 1
 pinnumber=77
+T 8275 375 5 3 1 1 90 2 1
+altlabel=SCK4
 }
 P 8400 0 8400 300 1 0 0
 {
-T 8350 100 5 4 0 0 90 0 1
-pintype=unknown
-T 8350 100 5 4 0 0 90 0 1
-pinseq=0
-T 8408 358 9 10 1 1 90 1 1
+T 8408 358 8 8 1 1 90 1 1
 pinlabel=VDDR1V8
 T 8358 208 5 4 1 1 90 6 1
 pinnumber=78
 }
 P 8600 0 8600 300 1 0 0
 {
-T 8550 100 5 4 0 0 90 0 1
-pintype=unknown
-T 8550 100 5 4 0 0 90 0 1
-pinseq=0
-T 8608 358 9 10 1 1 90 1 1
-pinlabel=RTCC/RPD0/RD0
+T 8608 358 14 8 1 1 90 1 1
+pinlabel=RD0
 T 8558 208 5 4 1 1 90 6 1
 pinnumber=79
+T 8675 375 5 3 1 1 90 2 1
+altlabel=RTCC/RPD0
 }
 P 8800 0 8800 300 1 0 0
 {
-T 8750 100 5 4 0 0 90 0 1
-pintype=unknown
-T 8750 100 5 4 0 0 90 0 1
-pinseq=0
-T 8808 358 9 10 1 1 90 1 1
-pinlabel=GD7/EBIA12/RPD12/PMA12/RD12
+T 8808 358 14 8 1 1 90 1 1
+pinlabel=RD12
 T 8758 208 5 4 1 1 90 6 1
 pinnumber=80
+T 8875 375 6 3 1 1 90 2 1
+altlabel=GD7/EBIA12/RPD12/PMA12
 }
 P 9000 0 9000 300 1 0 0
 {
-T 8950 100 5 4 0 0 90 0 1
-pintype=unknown
-T 8950 100 5 4 0 0 90 0 1
-pinseq=0
-T 9008 358 9 10 1 1 90 1 1
-pinlabel=GD22/EBIA13/PMA13/RD13 
+T 9008 358 9 8 1 1 90 1 1
+pinlabel=RD13 
 T 8958 208 5 4 1 1 90 6 1
 pinnumber=81
+T 9075 375 6 3 1 1 90 2 1
+altlabel=GD22/EBIA13/PMA13
 }
 P 9200 0 9200 300 1 0 0
 {
-T 9150 100 5 4 0 0 90 0 1
-pintype=unknown
-T 9150 100 5 4 0 0 90 0 1
-pinseq=0
-T 9208 358 9 10 1 1 90 1 1
-pinlabel=RPF8/SCL3/RF8
+T 9208 358 14 8 1 1 90 1 1
+pinlabel=RF8
 T 9158 208 5 4 1 1 90 6 1
 pinnumber=82
+T 9275 375 5 3 1 1 90 2 1
+altlabel=RPF8/SCL3
 }
 P 9400 0 9400 300 1 0 0
 {
-T 9350 100 5 4 0 0 90 0 1
-pintype=unknown
-T 9350 100 5 4 0 0 90 0 1
-pinseq=0
-T 9408 358 9 10 1 1 90 1 1
+T 9408 358 5 8 1 1 90 1 1
 pinlabel=VSS
 T 9358 208 5 4 1 1 90 6 1
 pinnumber=83
 }
 P 9600 0 9600 300 1 0 0
 {
-T 9550 100 5 4 0 0 90 0 1
-pintype=unknown
-T 9550 100 5 4 0 0 90 0 1
-pinseq=0
-T 9608 358 9 10 1 1 90 1 1
+T 9608 358 8 8 1 1 90 1 1
 pinlabel=VDDCORE
 T 9558 208 5 4 1 1 90 6 1
 pinnumber=84
 }
 P 9800 0 9800 300 1 0 0
 {
-T 9750 100 5 4 0 0 90 0 1
-pintype=unknown
-T 9750 100 5 4 0 0 90 0 1
-pinseq=0
-T 9808 358 9 10 1 1 90 1 1
+T 9808 358 9 8 1 1 90 1 1
 pinlabel=\_MCLR\_
 T 9758 208 5 4 1 1 90 6 1
 pinnumber=85
 }
 P 10000 0 10000 300 1 0 0
 {
-T 9950 100 5 4 0 0 90 0 1
-pintype=unknown
-T 9950 100 5 4 0 0 90 0 1
-pinseq=0
-T 10008 358 9 10 1 1 90 1 1
+T 10008 358 8 8 1 1 90 1 1
 pinlabel=VDDIO
 T 9958 208 5 4 1 1 90 6 1
 pinnumber=86
 }
 P 10200 0 10200 300 1 0 0
 {
-T 10150 100 5 4 0 0 90 0 1
-pintype=unknown
-T 10150 100 5 4 0 0 90 0 1
-pinseq=0
-T 10208 358 9 10 1 1 90 1 1
+T 10208 358 5 8 1 1 90 1 1
 pinlabel=VSS
 T 10158 208 5 4 1 1 90 6 1
 pinnumber=87
 }
 P 10400 0 10400 300 1 0 0
 {
-T 10350 100 5 4 0 0 90 0 1
-pintype=unknown
-T 10350 100 5 4 0 0 90 0 1
-pinseq=0
-T 10408 358 9 10 1 1 90 1 1
+T 10408 358 9 8 1 1 90 1 1
 pinlabel=No Connect
 T 10358 208 5 4 1 1 90 6 1
 pinnumber=88
 }
 P 12100 10300 11800 10300 1 0 0
 {
-T 12000 10350 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 10350 5 4 0 0 180 2 1
-pinseq=0
-T 11742 10292 9 10 1 1 180 1 1
-pinlabel=GD14/EBIA19/RK5
+T 11742 10292 9 8 1 1 180 1 1
+pinlabel=RK5
 T 11892 10342 5 4 1 1 180 8 1
 pinnumber=132
+T 11725 10225 6 3 1 1 0 8 1
+altlabel=GD14/EBIA19
 }
 P 12100 10100 11800 10100 1 0 0
 {
-T 12000 10150 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 10150 5 4 0 0 180 2 1
-pinseq=0
-T 11742 10092 9 10 1 1 180 1 1
-pinlabel=GD15/EBIA20/RK6
+T 11742 10092 9 8 1 1 180 1 1
+pinlabel=RK6
 T 11892 10142 5 4 1 1 180 8 1
 pinnumber=131
+T 11725 10025 6 3 1 1 0 8 1
+altlabel=GD15/EBIA20
 }
 P 12100 9900 11800 9900 1 0 0
 {
-T 12000 9950 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 9950 5 4 0 0 180 2 1
-pinseq=0
-T 11742 9892 9 10 1 1 180 1 1
-pinlabel=GD19/EBIA21/RK7
+T 11742 9892 9 8 1 1 180 1 1
+pinlabel=RK7
 T 11892 9942 5 4 1 1 180 8 1
 pinnumber=130
+T 11725 9825 6 3 1 1 0 8 1
+altlabel=GD19/EBIA21
 }
 P 12100 9700 11800 9700 1 0 0
 {
-T 12000 9750 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 9750 5 4 0 0 180 2 1
-pinseq=0
-T 11742 9692 9 10 1 1 180 1 1
-pinlabel=SCL2/RA2
+T 11742 9692 9 8 1 1 180 1 1
+pinlabel=RA2
 T 11892 9742 5 4 1 1 180 8 1
 pinnumber=129
+T 11725 9625 5 3 1 1 0 8 1
+altlabel=SCL2
 }
 P 12100 9500 11800 9500 1 0 0
 {
-T 12000 9550 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 9550 5 4 0 0 180 2 1
-pinseq=0
-T 11742 9492 9 10 1 1 180 1 1
-pinlabel=EBIRDY1/SDA2/RA3
+T 11742 9492 9 8 1 1 180 1 1
+pinlabel=RA3
 T 11892 9542 5 4 1 1 180 8 1
 pinnumber=128
+T 11725 9425 5 3 1 1 0 8 1
+altlabel=EBIRDY1/SDA2
 }
 P 12100 9300 11800 9300 1 0 0
 {
-T 12000 9350 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 9350 5 4 0 0 180 2 1
-pinseq=0
-T 11742 9292 9 10 1 1 180 1 1
-pinlabel=GD1/EBID14/PMD14/RA4
+T 11742 9292 9 8 1 1 180 1 1
+pinlabel=RA4
 T 11892 9342 5 4 1 1 180 8 1
 pinnumber=127
+T 11725 9225 6 3 1 1 0 8 1
+altlabel=GD1/EBID14/PMD14
 }
 P 12100 9100 11800 9100 1 0 0
 {
-T 12000 9150 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 9150 5 4 0 0 180 2 1
-pinseq=0
-T 11742 9092 9 10 1 1 180 1 1
-pinlabel=RPA14/SCL1/RA14
+T 11742 9092 14 8 1 1 180 1 1
+altlabel=RA14
 T 11892 9142 5 4 1 1 180 8 1
 pinnumber=126
+T 11725 9025 5 3 1 1 0 8 1
+pinlabel=RPA14/SCL1
 }
 P 12100 8900 11800 8900 1 0 0
 {
-T 12000 8950 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 8950 5 4 0 0 180 2 1
-pinseq=0
-T 11742 8892 9 10 1 1 180 1 1
-pinlabel=RPA15/SDA1/RA15
+T 11742 8892 14 8 1 1 180 1 1
+pinlabel=RA15
 T 11892 8942 5 4 1 1 180 8 1
 pinnumber=125
+T 11725 8825 5 3 1 1 0 8 1
+altlabel=RPA15/SDA1
 }
 P 12100 8700 11800 8700 1 0 0
 {
-T 12000 8750 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 8750 5 4 0 0 180 2 1
-pinseq=0
-T 11742 8692 9 10 1 1 180 1 1
+T 11742 8692 8 8 1 1 180 1 1
 pinlabel=VDDIO
 T 11892 8742 5 4 1 1 180 8 1
 pinnumber=124
 }
 P 12100 8500 11800 8500 1 0 0
 {
-T 12000 8550 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 8550 5 4 0 0 180 2 1
-pinseq=0
-T 11742 8492 9 10 1 1 180 1 1
+T 11742 8492 5 8 1 1 180 1 1
 pinlabel=VSS
 T 11892 8542 5 4 1 1 180 8 1
 pinnumber=123
 }
 P 12100 8300 11800 8300 1 0 0
 {
-T 12000 8350 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 8350 5 4 0 0 180 2 1
-pinseq=0
-T 11742 8292 9 10 1 1 180 1 1
+T 11742 8292 5 8 1 1 180 1 1
 pinlabel=VSS
 T 11892 8342 5 4 1 1 180 8 1
 pinnumber=122
 }
 P 12100 8100 11800 8100 1 0 0
 {
-T 12000 8150 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 8150 5 4 0 0 180 2 1
-pinseq=0
-T 11742 8092 9 10 1 1 180 1 1
-pinlabel=ETXEN/RPD6/RD6
+T 11742 8092 14 8 1 1 180 1 1
+pinlabel=RD6
 T 11892 8142 5 4 1 1 180 8 1
 pinnumber=121
+T 11725 8025 5 3 1 1 0 8 1
+altlabel=ETXEN/RPD6
 }
 P 12100 7900 11800 7900 1 0 0
 {
-T 12000 7950 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 7950 5 4 0 0 180 2 1
-pinseq=0
-T 11742 7892 9 10 1 1 180 1 1
-pinlabel=ETXCLK/RPD7/RD7
+T 11742 7892 14 8 1 1 180 1 1
+pinlabel=RD7
 T 11892 7942 5 4 1 1 180 8 1
 pinnumber=120
+T 11725 7825 5 3 1 1 0 8 1
+altlabel=ETXCLK/RPD7
 }
 P 12100 7700 11800 7700 1 0 0
 {
-T 12000 7750 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 7750 5 4 0 0 180 2 1
-pinseq=0
-T 11742 7692 9 10 1 1 180 1 1
-pinlabel=EMDC/RPD11/RD11
+T 11742 7692 14 8 1 1 180 1 1
+pinlabel=RD11
 T 11892 7742 5 4 1 1 180 8 1
 pinnumber=119
+T 11725 7625 5 3 1 1 0 8 1
+altlabel=EMDC/RPD11
 }
 P 12100 7500 11800 7500 1 0 0
 {
-T 12000 7550 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 7550 5 4 0 0 180 2 1
-pinseq=0
-T 11742 7492 9 10 1 1 180 1 1
-pinlabel=ETXERR/RJ0
+T 11742 7492 9 8 1 1 180 1 1
+pinlabel=RJ0
 T 11892 7542 5 4 1 1 180 8 1
 pinnumber=118
+T 11725 7425 5 3 1 1 0 8 1
+altlabel=ETXERR
 }
 P 12100 7300 11800 7300 1 0 0
 {
-T 12000 7350 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 7350 5 4 0 0 180 2 1
-pinseq=0
-T 11742 7292 9 10 1 1 180 1 1
+T 11742 7292 8 8 1 1 180 1 1
 pinlabel=VDDIO
 T 11892 7342 5 4 1 1 180 8 1
 pinnumber=117
 }
 P 12100 7100 11800 7100 1 0 0
 {
-T 12000 7150 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 7150 5 4 0 0 180 2 1
-pinseq=0
-T 11742 7092 9 10 1 1 180 1 1
+T 11742 7092 8 8 1 1 180 1 1
 pinlabel=VDDCORE
 T 11892 7142 5 4 1 1 180 8 1
 pinnumber=116
 }
 P 12100 6900 11800 6900 1 0 0
 {
-T 12000 6950 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 6950 5 4 0 0 180 2 1
-pinseq=0
-T 11742 6892 9 10 1 1 180 1 1
+T 11742 6892 5 8 1 1 180 1 1
 pinlabel=VSS
 T 11892 6942 5 4 1 1 180 8 1
 pinnumber=115
 }
 P 12100 6700 11800 6700 1 0 0
 {
-T 12000 6750 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 6750 5 4 0 0 180 2 1
-pinseq=0
-T 11742 6692 9 10 1 1 180 1 1
-pinlabel=EMDIO/RJ1
+T 11742 6692 9 8 1 1 180 1 1
+pinlabel=RJ1
 T 11892 6742 5 4 1 1 180 8 1
 pinnumber=114
+T 11725 6625 5 3 1 1 0 8 1
+altlabel=EMDIO
 }
 P 12100 6500 11800 6500 1 0 0
 {
-T 12000 6550 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 6550 5 4 0 0 180 2 1
-pinseq=0
-T 11742 6492 9 10 1 1 180 1 1
-pinlabel=ETXD0/RJ8
+T 11742 6492 9 8 1 1 180 1 1
+pinlabel=RJ8
 T 11892 6542 5 4 1 1 180 8 1
 pinnumber=113
+T 11725 6425 5 3 1 1 0 8 1
+altlabel=ETXD0
 }
 P 12100 6300 11800 6300 1 0 0
 {
-T 12000 6350 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 6350 5 4 0 0 180 2 1
-pinseq=0
-T 11742 6292 9 10 1 1 180 1 1
-pinlabel=ETXD1/RJ9
+T 11742 6292 9 8 1 1 180 1 1
+pinlabel=RJ9
 T 11892 6342 5 4 1 1 180 8 1
 pinnumber=112
+T 11725 6225 5 3 1 1 0 8 1
+altlabel=ETXD1
 }
 P 12100 6100 11800 6100 1 0 0
 {
-T 12000 6150 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 6150 5 4 0 0 180 2 1
-pinseq=0
-T 11742 6092 9 10 1 1 180 1 1
-pinlabel=ERXCLK/EREFCLK/RJ11
+T 11742 6092 9 8 1 1 180 1 1
+pinlabel=RJ11
 T 11892 6142 5 4 1 1 180 8 1
 pinnumber=111
+T 11725 6025 5 3 1 1 0 8 1
+altlabel=ERXCLK/EREFCLK
 }
 P 12100 5900 11800 5900 1 0 0
 {
-T 12000 5950 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 5950 5 4 0 0 180 2 1
-pinseq=0
-T 11742 5892 9 10 1 1 180 1 1
-pinlabel=ETXD2/RH0
+T 11742 5892 9 8 1 1 180 1 1
+pinlabel=RH0
 T 11892 5942 5 4 1 1 180 8 1
 pinnumber=110
+T 11725 5825 5 3 1 1 0 8 1
+altlabel=ETXD2
 }
 P 12100 5700 11800 5700 1 0 0
 {
-T 12000 5750 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 5750 5 4 0 0 180 2 1
-pinseq=0
-T 11742 5692 9 10 1 1 180 1 1
-pinlabel=ETXD3/RH1
+T 11742 5692 9 8 1 1 180 1 1
+pinlabel=RH1
 T 11892 5742 5 4 1 1 180 8 1
 pinnumber=109
+T 11725 5625 5 3 1 1 0 8 1
+altlabel=ETXD3
 }
 P 12100 5500 11800 5500 1 0 0
 {
-T 12000 5550 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 5550 5 4 0 0 180 2 1
-pinseq=0
-T 11742 5492 9 10 1 1 180 1 1
-pinlabel=ERXD0/RH8
+T 11742 5492 9 8 1 1 180 1 1
+pinlabel=RH8
 T 11892 5542 5 4 1 1 180 8 1
 pinnumber=108
+T 11725 5425 5 3 1 1 0 8 1
+altlabel=ERXD0
 }
 P 12100 5300 11800 5300 1 0 0
 {
-T 12000 5350 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 5350 5 4 0 0 180 2 1
-pinseq=0
-T 11742 5292 9 10 1 1 180 1 1
-pinlabel=ERXD3/RH9
+T 11742 5292 9 8 1 1 180 1 1
+pinlabel=RH9
 T 11892 5342 5 4 1 1 180 8 1
 pinnumber=107
+T 11725 5225 5 3 1 1 0 8 1
+altlabel=ERXD3
 }
 P 12100 5100 11800 5100 1 0 0
 {
-T 12000 5150 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 5150 5 4 0 0 180 2 1
-pinseq=0
-T 11742 5092 9 10 1 1 180 1 1
-pinlabel=ECOL/RH10
+T 11742 5092 9 8 1 1 180 1 1
+pinlabel=RH10
 T 11892 5142 5 4 1 1 180 8 1
 pinnumber=106
+T 11725 5025 5 3 1 1 0 8 1
+altlabel=ECOL
 }
 P 12100 4900 11800 4900 1 0 0
 {
-T 12000 4950 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 4950 5 4 0 0 180 2 1
-pinseq=0
-T 11742 4892 9 10 1 1 180 1 1
-pinlabel=ECRS/RH12
+T 11742 4892 9 8 1 1 180 1 1
+pinlabel=RH12
 T 11892 4942 5 4 1 1 180 8 1
 pinnumber=105
+T 11725 4825 5 3 1 1 0 8 1
+altlabel=ECRS
 }
 P 12100 4700 11800 4700 1 0 0
 {
-T 12000 4750 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 4750 5 4 0 0 180 2 1
-pinseq=0
-T 11742 4692 9 10 1 1 180 1 1
-pinlabel=ERXDV/ECRSDV/RH13
+T 11742 4692 9 8 1 1 180 1 1
+pinlabel=RH13
 T 11892 4742 5 4 1 1 180 8 1
 pinnumber=104
+T 11725 4625 5 3 1 1 0 8 1
+altlabel=ERXDV/ECRSDV
 }
 P 12100 4500 11800 4500 1 0 0
 {
-T 12000 4550 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 4550 5 4 0 0 180 2 1
-pinseq=0
-T 11742 4492 9 10 1 1 180 1 1
+T 11742 4492 5 8 1 1 180 1 1
 pinlabel=VSS
 T 11892 4542 5 4 1 1 180 8 1
 pinnumber=103
 }
 P 12100 4300 11800 4300 1 0 0
 {
-T 12000 4350 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 4350 5 4 0 0 180 2 1
-pinseq=0
-T 11742 4292 9 10 1 1 180 1 1
+T 11742 4292 8 8 1 1 180 1 1
 pinlabel=VDDIO
 T 11892 4342 5 4 1 1 180 8 1
 pinnumber=102
 }
 P 12100 4100 11800 4100 1 0 0
 {
-T 12000 4150 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 4150 5 4 0 0 180 2 1
-pinseq=0
-T 11742 4092 9 10 1 1 180 1 1
-pinlabel=ERXD2/RH6
+T 11742 4092 9 8 1 1 180 1 1
+pinlabel=RH6
 T 11892 4142 5 4 1 1 180 8 1
 pinnumber=101
+T 11725 4025 5 3 1 1 0 8 1
+altlabel=ERXD2
 }
 P 12100 3900 11800 3900 1 0 0
 {
-T 12000 3950 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 3950 5 4 0 0 180 2 1
-pinseq=0
-T 11742 3892 9 10 1 1 180 1 1
-pinlabel=ERXD1/RH5
+T 11742 3892 9 8 1 1 180 1 1
+pinlabel=RH5
 T 11892 3942 5 4 1 1 180 8 1
 pinnumber=100
+T 11725 3825 5 3 1 1 0 8 1
+altlabel=ERXD1
 }
 P 12100 3700 11800 3700 1 0 0
 {
-T 12000 3750 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 3750 5 4 0 0 180 2 1
-pinseq=0
-T 11742 3692 9 10 1 1 180 1 1
-pinlabel=EBID2/PMD2/RE2
+T 11742 3692 9 8 1 1 180 1 1
+pinlabel=RE2
 T 11892 3742 5 4 1 1 180 8 1
 pinnumber=99
+T 11725 3625 5 3 1 1 0 8 1
+altlabel=EBID2/PMD2
 }
 P 12100 3500 11800 3500 1 0 0
 {
-T 12000 3550 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 3550 5 4 0 0 180 2 1
-pinseq=0
-T 11742 3492 9 10 1 1 180 1 1
-pinlabel=EBID3/RPE3/PMD3/RE3
+T 11742 3492 14 8 1 1 180 1 1
+pinlabel=RE3
 T 11892 3542 5 4 1 1 180 8 1
 pinnumber=98
+T 11725 3425 5 3 1 1 0 8 1
+altlabel=EBID3/RPE3/PMD3
 }
 P 12100 3300 11800 3300 1 0 0
 {
-T 12000 3350 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 3350 5 4 0 0 180 2 1
-pinseq=0
-T 11742 3292 9 10 1 1 180 1 1
-pinlabel=GD17/EBID9/RPF4/SDA5/PMD9/RF4
+T 11742 3292 14 8 1 1 180 1 1
+pinlabel=RF4
 T 11892 3342 5 4 1 1 180 8 1
 pinnumber=97
+T 11725 3225 6 3 1 1 0 8 1
+altlabel=GD17/EBID9/RPF4/SDA5/PMD9
 }
 P 12100 3100 11800 3100 1 0 0
 {
-T 12000 3150 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 3150 5 4 0 0 180 2 1
-pinseq=0
-T 11742 3092 9 10 1 1 180 1 1
-pinlabel=GD3/EBIA8/RPG0/PMA8/RG0
+T 11742 3092 14 8 1 1 180 1 1
+pinlabel=RG0
 T 11892 3142 5 4 1 1 180 8 1
 pinnumber=96
+T 11725 3025 6 3 1 1 0 8 1
+altlabel=GD3/EBIA8/RPG0/PMA8
 }
 P 12100 2900 11800 2900 1 0 0
 {
-T 12000 2950 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 2950 5 4 0 0 180 2 1
-pinseq=0
-T 11742 2892 9 10 1 1 180 1 1
-pinlabel=GD4/EBIA9/RPG1/PMA9/RG1
+T 11742 2892 14 8 1 1 180 1 1
+pinlabel=RG1
 T 11892 2942 5 4 1 1 180 8 1
 pinnumber=95
+T 11725 2825 6 3 1 1 0 8 1
+altlabel=GD4/EBIA9/RPG1/PMA9
 }
 P 12100 2700 11800 2700 1 0 0
 {
-T 12000 2750 5 4 0 0 180 1 1
-pintype=unknown
-T 12000 2750 5 4 0 0 180 1 1
-pinseq=0
-T 11742 2692 9 10 1 1 180 1 1
+T 11742 2692 5 8 1 1 180 1 1
 pinlabel=VSS
 T 11892 2742 5 4 1 1 180 1 1
 pinnumber=94
 }
 P 12100 2500 11800 2500 1 0 0
 {
-T 12000 2550 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 2550 5 4 0 0 180 2 1
-pinseq=0
-T 11742 2492 9 10 1 1 180 1 1
-pinlabel=ERXERR/RPF3/RF3
+T 11742 2492 14 8 1 1 180 1 1
+pinlabel=RF3
 T 11892 2542 5 4 1 1 180 8 1
 pinnumber=93
+T 11725 2425 5 3 1 1 0 8 1
+altlabel=ERXERR/RPF3
 }
 P 12100 2300 11800 2300 1 0 0
 {
-T 12000 2350 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 2350 5 4 0 0 180 2 1
-pinseq=0
-T 11742 2292 9 10 1 1 180 1 1
-pinlabel=GD21/EBIA23/RH15
+T 11742 2292 9 8 1 1 180 1 1
+pinlabel=RH15
 T 11892 2342 5 4 1 1 180 8 1
 pinnumber=92
+T 11725 2225 6 3 1 1 0 8 1
+altlabel=GD21/EBIA23
 }
 P 12100 2100 11800 2100 1 0 0
 {
-T 12000 2150 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 2150 5 4 0 0 180 2 1
-pinseq=0
-T 11742 2092 9 10 1 1 180 1 1
-pinlabel=GD6/EBIA11/RPF0/PMA11/RF0
+T 11742 2092 14 8 1 1 180 1 1
+pinlabel=RF0
 T 11892 2142 5 4 1 1 180 8 1
 pinnumber=91
+T 11725 2025 6 3 1 1 0 8 1
+altlabel=GD6/EBIA11/RPF0/PMA11
 }
 P 12100 1900 11800 1900 1 0 0
 {
-T 12000 1950 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 1950 5 4 0 0 180 2 1
-pinseq=0
-T 11742 1892 9 10 1 1 180 1 1
-pinlabel=GD5/EBIA10/RPF1/PMA10/RF1
+T 11742 1892 14 8 1 1 180 1 1
+pinlabel=RF1
 T 11892 1942 5 4 1 1 180 8 1
 pinnumber=90
+T 11725 1825 6 3 1 1 0 8 1
+altlabel=GD5/EBIA10/RPF1/PMA10
 }
 P 12100 1700 11800 1700 1 0 0
 {
-T 12000 1750 5 4 0 0 180 2 1
-pintype=unknown
-T 12000 1750 5 4 0 0 180 2 1
-pinseq=0
-T 11742 1692 9 10 1 1 180 1 1
-pinlabel=GD16/EBID8/RPF5/SCL5/PMD8/RF5
+T 11742 1692 14 8 1 1 180 1 1
+pinlabel=RF5
 T 11892 1742 5 4 1 1 180 8 1
 pinnumber=89
+T 11725 1625 6 3 1 1 0 8 1
+altlabel=GD16/EBID8/RPF5/SCL5/PMD8
 }
 P 1800 12100 1800 11800 1 0 0
 {
-T 1750 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 1750 12000 5 4 0 0 90 6 1
-pinseq=0
-T 1808 11742 9 10 1 1 90 7 1
+T 1808 11742 5 8 1 1 90 7 1
 pinlabel=No Connect
 T 1758 11892 5 4 1 1 90 0 1
 pinnumber=176
 }
 P 2000 12100 2000 11800 1 0 0
 {
-T 1950 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 1950 12000 5 4 0 0 90 6 1
-pinseq=0
-T 2008 11742 9 10 1 1 90 7 1
-pinlabel=AN2/C1INB/RB4
+T 2008 11742 9 8 1 1 90 7 1
+pinlabel=RB4
 T 1958 11892 5 4 1 1 90 0 1
 pinnumber=175
+T 2075 11725 5 3 1 1 90 8 1
+altlabel=AN2/C1INB
 }
 P 2200 12100 2200 11800 1 0 0
 {
-T 2150 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 2150 12000 5 4 0 0 90 6 1
-pinseq=0
-T 2208 11742 9 10 1 1 90 7 1
-pinlabel=EBIA5/AN7/PMA5/RA5
+T 2208 11742 9 8 1 1 90 7 1
+pinlabel=RA5
 T 2158 11892 5 4 1 1 90 0 1
 pinnumber=174
+T 2275 11725 5 3 1 1 90 8 1
+altlabel=EBIA5/AN7/PMA5
 }
 P 2400 12100 2400 11800 1 0 0
 {
-T 2350 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 2350 12000 5 4 0 0 90 6 1
-pinseq=0
-T 2408 11742 9 10 1 1 90 7 1
-pinlabel=EBIA7/AN47/HLVDIN/RPB9/PMA7/RB9
+T 2408 11742 14 8 1 1 90 7 1
+pinlabel=RB9
 T 2358 11892 5 4 1 1 90 0 1
 pinnumber=173
+T 2475 11725 5 3 1 1 90 8 1
+altlabel=EBIA7/AN47/HLVDIN/RPB9/PMA7
 }
 P 2600 12100 2600 11800 1 0 0
 {
-T 2550 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 2550 12000 5 4 0 0 90 6 1
-pinseq=0
-T 2608 11742 9 10 1 1 90 7 1
-pinlabel=AN1/C2INB/RPB2/RB2
+T 2608 11742 14 8 1 1 90 7 1
+pinlabel=RB2
 T 2558 11892 5 4 1 1 90 0 1
 pinnumber=172
+T 2675 11725 5 3 1 1 90 8 1
+altlabel=AN1/C2INB/RPB2
 }
 P 2800 12100 2800 11800 1 0 0
 {
-T 2750 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 2750 12000 5 4 0 0 90 6 1
-pinseq=0
-T 2808 11742 9 10 1 1 90 7 1
-pinlabel=AN6/RB12
+T 2808 11742 9 8 1 1 90 7 1
+pinlabel=RB12
 T 2758 11892 5 4 1 1 90 0 1
 pinnumber=171
+T 2875 11725 5 3 1 1 90 8 1
+altlabel=AN6
 }
 P 3000 12100 3000 11800 1 0 0
 {
-T 2950 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 2950 12000 5 4 0 0 90 6 1
-pinseq=0
-T 3008 11742 9 10 1 1 90 7 1
-pinlabel=PGED2/C1INA/AN46/RPB7/RB7
+T 3008 11742 14 8 1 1 90 7 1
+pinlabel=RB7
 T 2958 11892 5 4 1 1 90 0 1
 pinnumber=170
+T 3075 11725 5 3 1 1 90 8 1
+altlabel=PGED2/C1INA/AN46/RPB7
 }
 P 3200 12100 3200 11800 1 0 0
 {
-T 3150 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 3150 12000 5 4 0 0 90 6 1
-pinseq=0
-T 3208 11742 9 10 1 1 90 7 1
-pinlabel=PGED1/AN0/RPB0/CTED2/RB0
+T 3208 11742 14 8 1 1 90 7 1
+pinlabel=RB0
 T 3158 11892 5 4 1 1 90 0 1
 pinnumber=169
+T 3275 11725 5 3 1 1 90 8 1
+altlabel=PGED1/AN0/RPB0/CTED2
 }
 P 3400 12100 3400 11800 1 0 0
 {
-T 3350 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 3350 12000 5 4 0 0 90 6 1
-pinseq=0
-T 3408 11742 9 10 1 1 90 7 1
-pinlabel=AN5/RPB10/RB10
+T 3408 11742 14 8 1 1 90 7 1
+pinlabel=RB10
 T 3358 11892 5 4 1 1 90 0 1
 pinnumber=168
+T 3475 11725 5 3 1 1 90 8 1
+altlabel=AN5/RPB10
 }
 P 3600 12100 3600 11800 1 0 0
 {
-T 3550 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 3550 12000 5 4 0 0 90 6 1
-pinseq=0
-T 3608 11742 9 10 1 1 90 7 1
-pinlabel=AN45/RPB5/RB5
+T 3608 11742 14 8 1 1 90 7 1
+pinlabel=RB5
 T 3558 11892 5 4 1 1 90 0 1
 pinnumber=167
+T 3675 11725 5 3 1 1 90 8 1
+altlabel=AN45/RPB5
 }
 P 3800 12100 3800 11800 1 0 0
 {
-T 3750 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 3750 12000 5 4 0 0 90 6 1
-pinseq=0
-T 3808 11742 9 10 1 1 90 7 1
+T 3808 11742 8 8 1 1 90 7 1
 pinlabel=VBAT
 T 3758 11892 5 4 1 1 90 0 1
 pinnumber=166
 }
 P 4000 12100 4000 11800 1 0 0
 {
-T 3950 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 3950 12000 5 4 0 0 90 6 1
-pinseq=0
-T 4008 11742 9 10 1 1 90 7 1
+T 4008 11742 8 8 1 1 90 7 1
 pinlabel=VDDIO
 T 3958 11892 5 4 1 1 90 0 1
 pinnumber=165
 }
 P 4200 12100 4200 11800 1 0 0
 {
-T 4150 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 4150 12000 5 4 0 0 90 6 1
-pinseq=0
-T 4208 11742 9 10 1 1 90 7 1
-pinlabel=OSC1/CLKI/RC12
+T 4208 11742 9 8 1 1 90 7 1
+pinlabel=RC12
 T 4158 11892 5 4 1 1 90 0 1
 pinnumber=164
+T 4275 11725 8 3 1 1 90 8 1
+altlabel=OSC1/CLKI
 }
 P 4400 12100 4400 11800 1 0 0
 {
-T 4350 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 4350 12000 5 4 0 0 90 6 1
-pinseq=0
-T 4408 11742 9 10 1 1 90 7 1
-pinlabel=OSC2/CLKO/RC15
+T 4408 11742 9 8 1 1 90 7 1
+pinlabel=RC15
 T 4358 11892 5 4 1 1 90 0 1
 pinnumber=163
+T 4475 11725 8 3 1 1 90 8 1
+altlabel=OSC2/CLKO
 }
 P 4600 12100 4600 11800 1 0 0
 {
-T 4550 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 4550 12000 5 4 0 0 90 6 1
-pinseq=0
-T 4608 11742 9 10 1 1 90 7 1
-pinlabel=SOSCI/RPC13/RC13
+T 4608 11742 14 8 1 1 90 7 1
+pinlabel=RC13
 T 4558 11892 5 4 1 1 90 0 1
 pinnumber=162
+T 4675 11725 8 3 1 1 90 8 1
+altlabel=SOSCI/RPC13
 }
 P 4800 12100 4800 11800 1 0 0
 {
-T 4750 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 4750 12000 5 4 0 0 90 6 1
-pinseq=0
-T 4808 11742 9 10 1 1 90 7 1
-pinlabel=SOSCO/RPC14/T1CK/RC14
+T 4808 11742 14 8 1 1 90 7 1
+pinlabel=RC14
 T 4758 11892 5 4 1 1 90 0 1
 pinnumber=161
+T 4875 11725 8 3 1 1 90 8 1
+altlabel=SOSCO/RPC14/T1CK
 }
 P 5000 12100 5000 11800 1 0 0
 {
-T 4950 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 4950 12000 5 4 0 0 90 6 1
-pinseq=0
-T 5008 11742 9 10 1 1 90 7 1
-pinlabel=TCK/AN24/RA1
+T 5008 11742 9 8 1 1 90 7 1
+pinlabel=RA1
 T 4958 11892 5 4 1 1 90 0 1
 pinnumber=160
+T 5075 11725 5 3 1 1 90 8 1
+altlabel=TCK/AN24
 }
 P 5200 12100 5200 11800 1 0 0
 {
-T 5150 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 5150 12000 5 4 0 0 90 6 1
-pinseq=0
-T 5208 11742 9 10 1 1 90 7 1
-pinlabel=AN29/SCK3/RB14
+T 5208 11742 9 8 1 1 90 7 1
+pinlabel=RB14
 T 5158 11892 5 4 1 1 90 0 1
 pinnumber=159
+T 5275 11725 5 3 1 1 90 8 1
+altlabel=AN29/SCK3
 }
 P 5400 12100 5400 11800 1 0 0
 {
-T 5350 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 5350 12000 5 4 0 0 90 6 1
-pinseq=0
-T 5408 11742 9 10 1 1 90 7 1
-pinlabel=AN22/RPD14/RD14
+T 5408 11742 14 8 1 1 90 7 1
+pinlabel=RD14
 T 5358 11892 5 4 1 1 90 0 1
 pinnumber=158
+T 5475 11725 5 3 1 1 90 8 1
+altlabel=AN22/RPD14
 }
 P 5600 12100 5600 11800 1 0 0
 {
-T 5550 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 5550 12000 5 4 0 0 90 6 1
-pinseq=0
-T 5608 11742 9 10 1 1 90 7 1
-pinlabel=AN33/SCK6/RD15
+T 5608 11742 9 8 1 1 90 7 1
+pinlabel=RD15
 T 5558 11892 5 4 1 1 90 0 1
 pinnumber=157
+T 5675 11725 5 3 1 1 90 8 1
+altlabel=AN33/SCK6
 }
 P 5800 12100 5800 11800 1 0 0
 {
-T 5750 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 5750 12000 5 4 0 0 90 6 1
-pinseq=0
-T 5808 11742 9 10 1 1 90 7 1
+T 5808 11742 8 8 1 1 90 7 1
 pinlabel=VDDIO
 T 5758 11892 5 4 1 1 90 0 1
 pinnumber=156
 }
 P 6000 12100 6000 11800 1 0 0
 {
-T 5950 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 5950 12000 5 4 0 0 90 6 1
-pinseq=0
-T 6008 11742 9 10 1 1 90 7 1
+T 6008 11742 8 8 1 1 90 7 1
 pinlabel=VDDIO
 T 5958 11892 5 4 1 1 90 0 1
 pinnumber=155
 }
 P 6200 12100 6200 11800 1 0 0
 {
-T 6150 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 6150 12000 5 4 0 0 90 6 1
-pinseq=0
-T 6208 11742 9 10 1 1 90 7 1
+T 6208 11742 5 8 1 1 90 7 1
 pinlabel=VSS
 T 6158 11892 5 4 1 1 90 0 1
 pinnumber=154
 }
 P 6400 12100 6400 11800 1 0 0
 {
-T 6350 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 6350 12000 5 4 0 0 90 6 1
-pinseq=0
-T 6408 11742 9 10 1 1 90 7 1
+T 6408 11742 5 8 1 1 90 7 1
 pinlabel=VSS
 T 6358 11892 5 4 1 1 90 0 1
 pinnumber=153
 }
 P 6600 12100 6600 11800 1 0 0
 {
-T 6550 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 6550 12000 5 4 0 0 90 6 1
-pinseq=0
-T 6608 11742 9 10 1 1 90 7 1
-pinlabel=EBIRDY3/AN32/RJ2
+T 6608 11742 9 8 1 1 90 7 1
+pinlabel=RJ2
 T 6558 11892 5 4 1 1 90 0 1
 pinnumber=152
+T 6675 11725 5 3 1 1 90 8 1
+altlabel=EBIRDY3/AN32
 }
 P 6800 12100 6800 11800 1 0 0
 {
-T 6750 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 6750 12000 5 4 0 0 90 6 1
-pinseq=0
-T 6808 11742 9 10 1 1 90 7 1
-pinlabel=GD20/EBIA22/RJ3
+T 6808 11742 9 8 1 1 90 7 1
+pinlabel=RJ3
 T 6758 11892 5 4 1 1 90 0 1
 pinnumber=151
+T 6875 11725 6 3 1 1 90 8 1
+altlabel=GD20/EBIA22
 }
 P 7000 12100 7000 11800 1 0 0
 {
-T 6950 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 6950 12000 5 4 0 0 90 6 1
-pinseq=0
-T 7008 11742 9 10 1 1 90 7 1
-pinlabel=VSYNC/EBICS0/RJ4
+T 7008 11742 9 8 1 1 90 7 1
+pinlabel=RJ4
 T 6958 11892 5 4 1 1 90 0 1
 pinnumber=150
+T 7075 11725 6 3 1 1 90 8 1
+altlabel=VSYNC/EBICS0
 }
 P 7200 12100 7200 11800 1 0 0
 {
-T 7150 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 7150 12000 5 4 0 0 90 6 1
-pinseq=0
-T 7208 11742 9 10 1 1 90 7 1
-pinlabel=HSYNC/EBICS1/RJ5
+T 7208 11742 9 8 1 1 90 7 1
+pinlabel=RJ5
 T 7158 11892 5 4 1 1 90 0 1
 pinnumber=149
+T 7275 11725 6 3 1 1 90 8 1
+altlabel=HSYNC/EBICS1
 }
 P 7400 12100 7400 11800 1 0 0
 {
-T 7350 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 7350 12000 5 4 0 0 90 6 1
-pinseq=0
-T 7408 11742 9 10 1 1 90 7 1
-pinlabel=GCLK/EBICS2/RJ6
+T 7408 11742 9 8 1 1 90 7 1
+pinlabel=RJ6
 T 7358 11892 5 4 1 1 90 0 1
 pinnumber=148
+T 7475 11725 6 3 1 1 90 8 1
+altlabel=GCLK/EBICS2
 }
 P 7600 12100 7600 11800 1 0 0
 {
-T 7550 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 7550 12000 5 4 0 0 90 6 1
-pinseq=0
-T 7608 11742 9 10 1 1 90 7 1
-pinlabel=GEN/EBICS3/RJ7
+T 7608 11742 9 8 1 1 90 7 1
+pinlabel=RJ7
 T 7558 11892 5 4 1 1 90 0 1
 pinnumber=147
+T 7675 11725 6 3 1 1 90 8 1
+altlabel=GEN/EBICS3
 }
 P 7800 12100 7800 11800 1 0 0
 {
-T 7750 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 7750 12000 5 4 0 0 90 6 1
-pinseq=0
-T 7808 11742 9 10 1 1 90 7 1
-pinlabel=GD18/EBIBS1/RJ10
+T 7808 11742 9 8 1 1 90 7 1
+pinlabel=RJ10
 T 7758 11892 5 4 1 1 90 0 1
 pinnumber=146
+T 7875 11725 6 3 1 1 90 8 1
+altlabel=GD18/EBIBS1
 }
 P 8000 12100 8000 11800 1 0 0
 {
-T 7950 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 7950 12000 5 4 0 0 90 6 1
-pinseq=0
-T 8008 11742 9 10 1 1 90 7 1
-pinlabel=GD9/EBIBS0/RJ12
+T 8008 11742 9 8 1 1 90 7 1
+pinlabel=RJ12
 T 7958 11892 5 4 1 1 90 0 1
 pinnumber=145
+T 8075 11725 6 3 1 1 90 8 1
+altlabel=GD9/EBIBS0
 }
 P 8200 12100 8200 11800 1 0 0
 {
-T 8150 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 8150 12000 5 4 0 0 90 6 1
-pinseq=0
-T 8208 11742 9 10 1 1 90 7 1
-pinlabel=GD0/EBID13/PMD13/RJ13
+T 8208 11742 9 8 1 1 90 7 1
+pinlabel=RJ13
 T 8158 11892 5 4 1 1 90 0 1
 pinnumber=144
+T 8275 11725 6 3 1 1 90 8 1
+altlabel=GD0/EBID13/PMD13
 }
 P 8400 12100 8400 11800 1 0 0
 {
-T 8350 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 8350 12000 5 4 0 0 90 6 1
-pinseq=0
-T 8408 11742 9 10 1 1 90 7 1
-pinlabel=GD8/EBID11/PMD11/RJ14
+T 8408 11742 9 8 1 1 90 7 1
+pinlabel=RJ14
 T 8358 11892 5 4 1 1 90 0 1
 pinnumber=143
+T 8475 11725 6 3 1 1 90 8 1
+altlabel=GD8/EBID11/PMD11
 }
 P 8600 12100 8600 11800 1 0 0
 {
-T 8550 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 8550 12000 5 4 0 0 90 6 1
-pinseq=0
-T 8608 11742 9 10 1 1 90 7 1
-pinlabel=EBIA0/PMA0/RJ15
+T 8608 11742 9 8 1 1 90 7 1
+pinlabel=RJ15
 T 8558 11892 5 4 1 1 90 0 1
 pinnumber=142
+T 8675 11725 5 3 1 1 90 8 1
+altlabel=EBIA0/PMA0
 }
 P 8800 12100 8800 11800 1 0 0
 {
-T 8750 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 8750 12000 5 4 0 0 90 6 1
-pinseq=0
-T 8808 11742 9 10 1 1 90 7 1
-pinlabel=\_SDWP\_/EBIRP/RH2
+T 8808 11742 9 8 1 1 90 7 1
+pinlabel=RH2
 T 8758 11892 5 4 1 1 90 0 1
 pinnumber=141
+T 8875 11725 5 3 1 1 90 8 1
+altlabel=\_SDWP\_/EBIRP
 }
 P 9000 12100 9000 11800 1 0 0
 {
-T 8950 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 8950 12000 5 4 0 0 90 6 1
-pinseq=0
-T 9008 11742 9 10 1 1 90 7 1
-pinlabel=AN35/RH3
+T 9008 11742 9 8 1 1 90 7 1
+pinlabel=RH3
 T 8958 11892 5 4 1 1 90 0 1
 pinnumber=140
+T 9075 11725 5 3 1 1 90 8 1
+altlabel=AN35
 }
 P 9200 12100 9200 11800 1 0 0
 {
-T 9150 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 9150 12000 5 4 0 0 90 6 1
-pinseq=0
-T 9208 11742 9 10 1 1 90 7 1
-pinlabel=EBIA4/AN36/PMA4/RH7
+T 9208 11742 9 8 1 1 90 7 1
+pinlabel=RH7
 T 9158 11892 5 4 1 1 90 0 1
 pinnumber=139
+T 9275 11725 5 3 1 1 90 8 1
+altlabel=EBIA4/AN36/PMA4
 }
 P 9400 12100 9400 11800 1 0 0
 {
-T 9350 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 9350 12000 5 4 0 0 90 6 1
-pinseq=0
-T 9408 11742 9 10 1 1 90 7 1
-pinlabel=EBIRDY2/AN37/RH11
+T 9408 11742 9 8 1 1 90 7 1
+pinlabel=RH11
 T 9358 11892 5 4 1 1 90 0 1
 pinnumber=138
+T 9475 11725 5 3 1 1 90 8 1
+altlabel=EBIRDY2/AN37
 }
 P 9600 12100 9600 11800 1 0 0
 {
-T 9550 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 9550 12000 5 4 0 0 90 6 1
-pinseq=0
-T 9608 11742 9 10 1 1 90 7 1
-pinlabel=GD23/EBIA16/RK0
+T 9608 11742 9 8 1 1 90 7 1
+pinlabel=RK0
 T 9558 11892 5 4 1 1 90 0 1
 pinnumber=137
+T 9675 11725 6 3 1 1 90 8 1
+altlabel=GD23/EBIA16
 }
 P 9800 12100 9800 11800 1 0 0
 {
-T 9750 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 9750 12000 5 4 0 0 90 6 1
-pinseq=0
-T 9808 11742 9 10 1 1 90 7 1
-pinlabel=EBIA1/AN38/PMA1/RK1
+T 9808 11742 9 8 1 1 90 7 1
+pinlabel=RK1
 T 9758 11892 5 4 1 1 90 0 1
 pinnumber=136
+T 9875 11725 5 3 1 1 90 8 1
+altlabel=EBIA1/AN38/PMA1
 }
 P 10000 12100 10000 11800 1 0 0
 {
-T 9950 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 9950 12000 5 4 0 0 90 6 1
-pinseq=0
-T 10008 11742 9 10 1 1 90 7 1
-pinlabel=EBIA3/AN11/PMA3/RK2
+T 10008 11742 9 8 1 1 90 7 1
+pinlabel=RK2
 T 9958 11892 5 4 1 1 90 0 1
 pinnumber=135
+T 10075 11725 5 3 1 1 90 8 1
+altlabel=EBIA3/AN11/PMA3
 }
 P 10200 12100 10200 11800 1 0 0
 {
-T 10150 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 10150 12000 5 4 0 0 90 6 1
-pinseq=0
-T 10208 11742 9 10 1 1 90 7 1
-pinlabel=GD12/EBIA17/RK3
+T 10208 11742 9 8 1 1 90 7 1
+pinlabel=RK3
 T 10158 11892 5 4 1 1 90 0 1
 pinnumber=134
+T 10275 11725 6 3 1 1 90 8 1
+altlabel=GD12/EBIA17
 }
 P 10400 12100 10400 11800 1 0 0
 {
-T 10350 12000 5 4 0 0 90 6 1
-pintype=unknown
-T 10350 12000 5 4 0 0 90 6 1
-pinseq=0
-T 10408 11742 9 10 1 1 90 7 1
-pinlabel=GD13/EBIA18/RK4
+T 10408 11742 9 8 1 1 90 7 1
+pinlabel=RK4
 T 10358 11892 5 4 1 1 90 0 1
 pinnumber=133
+T 10475 11725 6 3 1 1 90 8 1
+altlabel=GD13/EBIA18
 }
 L 300 11300 800 11800 3 10 1 0 -1 -1
 T 5900 6400 8 10 1 1 0 4 1
@@ -1989,3 +1489,7 @@ T 3600 17800 8 10 0 0 0 0 1
 footprint=PIC32MZ2064DAG176T-I-2J
 T 3600 17600 8 10 0 0 0 0 1
 value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2310792.pdf

@@ -54,3 +54,7 @@ T -100 2200 8 10 0 0 0 0 1
 description=Tactile Switch, Non Illuminated, 15 V, 20 Ma, 1.6 N, Smd, Evqpt Series
 T -100 2400 8 10 0 0 0 0 1
 value=1.6N
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1821219.pdf

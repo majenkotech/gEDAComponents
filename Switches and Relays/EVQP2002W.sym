@@ -54,3 +54,7 @@ T -100 2200 8 10 0 0 0 0 1
 description=Tactile Switch, EVQP2 Series, Top Actuated, SMD, Rectangular Button, 100 gf, 20mA at 15VDC
 T -100 2400 8 10 0 0 0 0 1
 value=100gf
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2244381.pdf

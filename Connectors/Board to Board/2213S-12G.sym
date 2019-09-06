@@ -136,3 +136,7 @@ T 200 3700 5 10 0 0 0 0 1
 footprint=2213S-12G
 T 200 3500 5 10 0 0 0 0 1
 description=Board-To-Board Connector, Vertical, 2.54 mm, 12 Contacts, Header, 2213S Series, Through Hole
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1697537.pdf

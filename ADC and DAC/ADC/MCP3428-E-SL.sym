@@ -170,3 +170,9 @@ T 400 2900 8 10 0 0 0 0 1
 footprint=MCP3428-E-SL
 T 400 3100 8 10 0 0 0 0 1
 description=Analogue to Digital Converter, Programmable, 16 bit, 15 SPS, Single, 2.7 V, 5.5 V, SOIC
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

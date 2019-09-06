@@ -329,3 +329,7 @@ T 1000 4200 5 10 0 0 0 0 1
 footprint=PIC32MX270F256B-I-ML
 T 2900 100 8 4 1 1 0 0 1
 footprint=PIC32MX270F256B-I-ML
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

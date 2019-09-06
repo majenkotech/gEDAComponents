@@ -49,3 +49,7 @@ T 600 2400 8 10 0 0 0 0 1
 footprint=TPSB476K006R0250
 T 700 500 8 10 1 1 0 6 1
 value=47uF
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2068142.pdf

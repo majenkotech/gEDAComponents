@@ -1,0 +1,42 @@
+v 20150930 2
+L 300 0 300 400 3 0 1 0 -1 -1
+L 300 200 600 0 3 0 1 0 -1 -1
+L 600 0 600 400 3 0 1 0 -1 -1
+L 600 400 300 200 3 0 1 0 -1 -1
+P 0 200 300 200 1 0 0
+{
+T 100 250 5 10 0 0 0 0 1
+pintype=unknown
+T 208 242 5 10 1 1 0 6 1
+pinnumber=1
+}
+P 900 200 600 200 1 0 0
+{
+T 800 250 5 10 0 0 0 6 1
+pintype=unknown
+T 692 250 5 10 1 1 0 0 1
+pinnumber=2
+}
+L 300 0 400 0 3 0 1 0 -1 -1
+T 500 500 8 10 1 1 0 3 1
+refdes=DT?
+T 500 5700 5 10 0 0 0 0 1
+manufacturer=NEXPERIA
+T 500 5700 5 10 0 0 0 0 1
+device=PTVS3V3S1UR,115
+T 500 5700 5 10 0 0 0 0 1
+manufacturer_part_number=PTVS3V3S1UR,115
+T 500 5700 5 10 0 0 0 0 1
+footprint=PTVS3V3S1UR-115
+T 500 5700 5 10 0 0 0 0 1
+value=3.3V
+T 500 5700 5 10 0 0 0 0 1
+voltage=8V
+T 500 5700 5 10 0 0 0 0 1
+description=TVS Diode, PTVS3 Series, Unidirectional, 3.3 V, 8 V, SOD-123, 2 Pins
+T 500 5700 5 10 0 0 0 0 1
+vendor=Farnell
+T 500 5700 5 10 0 0 0 0 1
+vendor_part_number=1829253
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1670937.pdf

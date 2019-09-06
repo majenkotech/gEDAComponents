@@ -114,3 +114,7 @@ T 200 4900 8 10 0 0 0 0 1
 vendor_part_number=1593463
 T 200 4100 8 10 0 0 0 0 1
 value=8
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1662126.pdf

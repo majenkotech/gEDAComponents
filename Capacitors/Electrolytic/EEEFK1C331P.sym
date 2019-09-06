@@ -49,3 +49,7 @@ T 600 2400 8 10 0 0 0 0 1
 footprint=EEEFK1C331P
 T 700 500 8 10 1 1 0 6 1
 value=330µF
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2002520.pdf

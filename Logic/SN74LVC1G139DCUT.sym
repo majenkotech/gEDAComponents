@@ -78,3 +78,7 @@ pinlabel=VCC
 T 950 2092 5 10 1 1 90 0 1
 pinnumber=8
 }
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=SN74LVC1G139&&fileType=pdf

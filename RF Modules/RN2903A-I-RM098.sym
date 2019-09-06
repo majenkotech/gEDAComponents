@@ -533,3 +533,9 @@ T 100 5800 8 10 0 0 0 0 1
 footprint=RN2903A-I-RM098
 T 100 5600 8 10 0 0 0 0 1
 description=Lora Txrx Module, 12.5kbps, 18.5dbm
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2282782.pdf

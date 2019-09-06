@@ -168,8 +168,11 @@ T 500 3000 5 10 0 0 0 0 1
 vendor=Farnell
 T 500 2600 5 10 0 0 0 0 2
 vendor_part_number=2492470
-
 T 500 2600 5 10 0 0 0 0 1
 description=Synchronous Buck (Step Down) Switching Regulator, Fixed, 3V-17V In, 1.8V And 2A Out, QFN-16
 T 500 3600 5 10 0 0 0 0 1
 value=1.8V
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

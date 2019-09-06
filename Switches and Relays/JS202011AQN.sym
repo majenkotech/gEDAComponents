@@ -85,3 +85,9 @@ T 3200 2300 8 10 0 0 0 0 1
 value=DPST
 T 3200 2100 8 10 0 0 0 0 1
 footprint=JS202011AQN
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+description=DPDT Right Angle MicroMiniature Slide Switch
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1839850.pdf

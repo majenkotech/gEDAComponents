@@ -172,3 +172,7 @@ T 1500 2900 8 10 1 1 0 0 1
 refdes=U?
 T 800 2900 8 10 1 1 0 6 1
 device=ADXL345BCCZ
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1877606.pdf

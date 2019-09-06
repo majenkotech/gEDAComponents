@@ -82,3 +82,7 @@ T 2700 1500 8 10 0 0 0 0 1
 value=NA
 T 1100 1500 8 10 1 1 0 3 1
 device=EMC1001-AFZQ-TR
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1754634.pdf

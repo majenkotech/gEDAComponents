@@ -117,3 +117,7 @@ T 1500 1900 8 10 1 1 0 0 1
 refdes=U?
 T 1200 1900 8 10 1 1 0 6 1
 device=LMZ21701SILT
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1865505.pdf

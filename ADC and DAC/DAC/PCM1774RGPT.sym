@@ -250,3 +250,7 @@ T 400 3400 5 10 0 0 0 0 1
 footprint=PCM1774RGPT
 T 400 3200 5 10 0 0 0 0 1
 value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

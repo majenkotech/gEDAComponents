@@ -159,3 +159,7 @@ T 300 4700 8 10 0 0 0 0 1
 manufacturer_part_number=74LVC245ABQ
 T 300 4900 8 10 0 0 0 0 1
 value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1724712.pdf

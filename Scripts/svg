@@ -1,0 +1,208 @@
+#!/bin/bash
+
+# Output a default footprint - a box with a cross in it.
+# It can probably be simplified
+
+notfound() {
+    echo "li:pcb-rnd-subcircuit-v6 {"
+    echo " ha:subc.40 {"
+    echo "  ha:data {"
+    echo "   li:layers {"
+    echo "    ha:top-silk {"
+    echo "     lid = 0"
+    echo "     ha:type {"
+    echo "      silk = 1"
+    echo "      top = 1"
+    echo "     }"
+    echo "     li:objects {"
+    echo "      ha:line.22 {"
+    echo "       clearance = 40.0mil"
+    echo "       y2 = 70.0mm"
+    echo "       thickness = 10.0mil"
+    echo "       x1 = 29.0mm"
+    echo "       x2 = 29.0mm"
+    echo "       ha:flags {"
+    echo "        clearline = 1"
+    echo "       }"
+    echo "       y1 = 61.0mm"
+    echo "      }"
+    echo "      ha:line.25 {"
+    echo "       clearance = 40.0mil"
+    echo "       y2 = 70.0mm"
+    echo "       thickness = 10.0mil"
+    echo "       x1 = 29.0mm"
+    echo "       x2 = 38.0mm"
+    echo "       ha:flags {"
+    echo "        clearline = 1"
+    echo "       }"
+    echo "       y1 = 70.0mm"
+    echo "      }"
+    echo "      ha:line.28 {"
+    echo "       clearance = 40.0mil"
+    echo "       y2 = 61.0mm"
+    echo "       thickness = 10.0mil"
+    echo "       x1 = 38.0mm"
+    echo "       x2 = 38.0mm"
+    echo "       ha:flags {"
+    echo "        clearline = 1"
+    echo "       }"
+    echo "       y1 = 70.0mm"
+    echo "      }"
+    echo "      ha:line.31 {"
+    echo "       clearance = 40.0mil"
+    echo "       y2 = 61.0mm"
+    echo "       thickness = 10.0mil"
+    echo "       x1 = 38.0mm"
+    echo "       x2 = 29.0mm"
+    echo "       ha:flags {"
+    echo "        clearline = 1"
+    echo "       }"
+    echo "       y1 = 61.0mm"
+    echo "      }"
+    echo "      ha:line.34 {"
+    echo "       clearance = 40.0mil"
+    echo "       y2 = 68.0mm"
+    echo "       thickness = 10.0mil"
+    echo "       x1 = 31.0mm"
+    echo "       x2 = 36.0mm"
+    echo "       ha:flags {"
+    echo "        clearline = 1"
+    echo "       }"
+    echo "       y1 = 63.0mm"
+    echo "      }"
+    echo "      ha:line.37 {"
+    echo "       clearance = 40.0mil"
+    echo "       y2 = 63.0mm"
+    echo "       thickness = 10.0mil"
+    echo "       x1 = 31.0mm"
+    echo "       x2 = 36.0mm"
+    echo "       ha:flags {"
+    echo "        clearline = 1"
+    echo "       }"
+    echo "       y1 = 68.0mm"
+    echo "      }"
+    echo "     }"
+    echo "     ha:combining {"
+    echo "      auto = 1"
+    echo "     }"
+    echo "    }"
+    echo "    ha:subc-aux {"
+    echo "     lid = 1"
+    echo "     ha:type {"
+    echo "      top = 1"
+    echo "      misc = 1"
+    echo "      virtual = 1"
+    echo "     }"
+    echo "     li:objects {"
+    echo "      ha:line.41 {"
+    echo "       clearance = 0.0"
+    echo "       y2 = 65.5mm"
+    echo "       thickness = 0.1mm"
+    echo "       ha:attributes {"
+    echo "        subc-role = origin"
+    echo "       }"
+    echo "       x1 = 33.5mm"
+    echo "       x2 = 33.5mm"
+    echo "       y1 = 65.5mm"
+    echo "      }"
+    echo "      ha:line.44 {"
+    echo "       clearance = 0.0"
+    echo "       y2 = 65.5mm"
+    echo "       thickness = 0.1mm"
+    echo "       ha:attributes {"
+    echo "        subc-role = x"
+    echo "       }"
+    echo "       x1 = 33.5mm"
+    echo "       x2 = 34.5mm"
+    echo "       y1 = 65.5mm"
+    echo "      }"
+    echo "      ha:line.47 {"
+    echo "       clearance = 0.0"
+    echo "       y2 = 66.5mm"
+    echo "       thickness = 0.1mm"
+    echo "       ha:attributes {"
+    echo "        subc-role = y"
+    echo "       }"
+    echo "       x1 = 33.5mm"
+    echo "       x2 = 33.5mm"
+    echo "       ha:flags {"
+    echo "       }"
+    echo "       y1 = 65.5mm"
+    echo "      }"
+    echo "     }"
+    echo "    }"
+    echo "   }"
+    echo "  }"
+    echo "  uid = 35Ybq6SfhspFCFPW9U0AAAAB"
+    echo " }"
+    echo "}"
+
+    exit 0
+}
+
+help() {
+    echo "@@example svg(filename)"
+    echo "@@purpose Convert an svg file into a footprint"
+    echo "@@desc Convert an svg file into a silk-only footprint for"
+    echo "@@desc loading company logos and other artwork"
+    echo "@@params filename"
+    echo "@@param:filename svg filename"
+}
+
+# Convert the key=value into a pair of individual values
+
+PARAMS=`echo $* | tr '=' ' '`
+ARGS=($PARAMS)
+
+case ${ARGS[0]} in
+    --help)
+        help
+        exit 0
+        ;;
+esac
+
+# Prefefined temporary filenames
+
+SVG=${ARGS[1]}
+BASE=$(basename "$SVG" .svg)
+EPS=/tmp/$$.eps
+PCB=/tmp/$$.pcb
+LHT=/tmp/$$.lht
+SCR=/tmp/$$.scr
+
+# Send the default footprint if the svg hasn't been specified
+if [ "x$SVG" = "x" ]; then
+    notfound
+fi
+
+# Send the default footprint if the svg file can't be found
+if [ ! -f "$SVG" ]; then
+    notfound
+fi
+
+# Convert to EPS first
+inkscape -E $EPS "$SVG" || notfound
+
+# Then convert to PCB format
+pstoedit -q -f "pcb" -ssp $EPS $PCB || notfound
+
+# Now pass it through pcb-rng to turn it into a footprint.
+
+echo "query(select, '@.layer.position != TOP')" > $SCR      # Select anything not on the top layer
+echo "delete(selected)" >> $SCR                             # Delete it
+echo "query(select, '@')" >> $SCR                           # Select all
+echo "selectlayer(silk)" >> $SCR                            # Switch to the "silk" layer
+echo "movetocurrentlayer(selected)" >> $SCR                 # Move everything to silk
+echo "query(select, '@')" >> $SCR                           # Select all
+echo "cursor(pan, -1000, -1000, mm)" >> $SCR                # Move the cursor to the bottom left
+echo "pastebuffer(clear)" >> $SCR                           # Empty the paste buffer
+echo "pastebuffer(addselected)" >> $SCR                     # Copy
+echo "pastebuffer(convertsubc)" >> $SCR                     # Convert to subcircuit
+echo "saveto(pastebuffer, '$LHT', lihata)" >> $SCR          # Save to file
+echo "q!" >> $SCR                                           # Quit
+pcb-rnd --gui batch $PCB < $SCR > /dev/null || notfound
+
+# Now output it.
+cat $LHT
+
+rm $EPS $PCB $SCR $LHT

@@ -481,3 +481,9 @@ pintype=pas
 T 1200 350 5 8 1 1 180 6 1
 pinnumber=40
 }
+T 500 5700 5 10 0 0 0 0 1
+value=40
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

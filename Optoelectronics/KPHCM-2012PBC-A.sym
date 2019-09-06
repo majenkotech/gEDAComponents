@@ -43,3 +43,7 @@ T 100 600 8 10 0 0 0 0 1
 description=LED, Low Power, Blue, 470 nm, 3.3 V, 20 mA, 80 mcd
 T 100 1800 8 10 0 0 0 0 1
 value=Blue
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/147072.pdf

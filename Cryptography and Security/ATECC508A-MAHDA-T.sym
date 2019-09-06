@@ -60,3 +60,9 @@ T 1000 1600 8 10 0 0 0 0 1
 description=Cryptographic Co-processor with Secure Hardware-based Key Storage
 T 1000 2600 8 10 0 0 0 0 1
 footprint=ATECC508A-MAHDA-T
+T 500 5700 5 10 0 0 0 0 1
+value=
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

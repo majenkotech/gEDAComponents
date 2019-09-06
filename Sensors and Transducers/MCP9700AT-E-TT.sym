@@ -49,3 +49,9 @@ T 300 2300 8 10 0 0 0 0 1
 footprint=MCP9700AT-E-TT
 T 300 2100 8 10 0 0 0 0 1
 description=Temperature Sensor IC, AEC-Q100, Voltage, 
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/488304.pdf

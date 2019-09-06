@@ -89,3 +89,9 @@ T 1200 2300 8 10 0 0 0 0 1
 footprint=MJ4435-R
 T 1200 2100 8 10 0 0 0 0 1
 description=Phone Audio Connector, Jack, 3.5 mm, 3 Contacts, PCB Mount, Plastic Body, Silver Plated Contacts
+T 500 5700 5 10 0 0 0 0 1
+value=Stereo
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1898427.pdf

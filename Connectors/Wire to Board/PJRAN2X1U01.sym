@@ -93,3 +93,7 @@ T 1800 4500 8 10 0 0 0 0 1
 value=
 T 1700 4300 8 10 0 0 0 0 1
 footprint=PJRAN2X1U01
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://www.mouser.co.uk/datasheet/2/393/pjran2x1u__x_series_cd-479092.pdf

@@ -92,3 +92,7 @@ P 700 200 700 0 1 0 1
 T 650 100 5 10 0 0 90 6 1
 pinnumber=8
 }
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/137809.pdf

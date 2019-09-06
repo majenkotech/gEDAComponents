@@ -1,0 +1,33 @@
+v 20150930 2
+V 200 400 100 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+P 200 0 200 300 1 0 0
+{
+T 150 100 5 10 0 0 90 0 1
+pintype=unknown
+T 150 100 5 10 0 0 90 0 1
+pinseq=0
+T 150 100 5 10 0 1 90 0 1
+pinnumber=1
+}
+T 200 600 8 10 1 1 0 3 1
+refdes=TP?
+T 700 600 8 10 0 0 0 0 1
+footprint=TestPoint
+T 500 5700 5 10 0 0 0 0 1
+manufacturer=
+T 500 5700 5 10 0 0 0 0 1
+device=TestPoint
+T 500 5700 5 10 0 0 0 0 1
+manufacturer_part_number=TestPoint
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+description=SMD Test Point Pad
+T 500 5700 5 10 0 0 0 0 1
+vendor=unknown
+T 500 5700 5 10 0 0 0 0 1
+vendor_part_number=unknown
+T 500 5700 5 10 0 0 0 0 1
+documentation=

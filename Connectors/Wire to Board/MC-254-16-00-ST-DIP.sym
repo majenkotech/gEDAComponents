@@ -174,3 +174,7 @@ T 400 4600 5 10 0 0 0 0 1
 footprint=MC-254-16-00-ST-DIP
 T 400 4400 5 10 0 0 0 0 1
 description=Wire-To-Board Connector, 2.54 mm, 16 Contacts, Header, Through Hole, 2 Rows
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2602723.pdf

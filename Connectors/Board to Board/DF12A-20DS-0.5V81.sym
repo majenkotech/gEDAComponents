@@ -252,3 +252,7 @@ T 200 5300 5 10 0 0 0 0 1
 footprint=DF12A-20DS-0.5V81
 T 200 5100 5 10 0 0 0 0 1
 description=Board-To-Board Connector, 0.5 mm, 20 Contacts, Receptacle, DF12 Series, Surface Mount, 2 Rows
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1824815.pdf

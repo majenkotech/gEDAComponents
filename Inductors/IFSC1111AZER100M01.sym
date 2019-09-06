@@ -35,13 +35,13 @@ A 592 100 4 180 180 3 0 0 0 -1 -1
 T 200 300 8 10 1 1 0 0 1
 refdes=L?
 T 200 1100 5 10 0 0 0 0 1
-description=Power Inductor (SMD), 10 µH, 800 mA, Shielded, 520 mA, IFSC-1111AZ-01 Series, 2.9mm x 2.9mm x 1mm
+description=Power Inductor (SMD), 10 uH, 800 mA, Shielded, 520 mA, IFSC-1111AZ-01 Series, 2.9mm x 2.9mm x 1mm
 T 200 900 5 10 0 0 0 0 1
 numslots=0
 T 200 1300 5 10 0 0 0 0 1
 symversion=0.1
-T 200 1500 5 10 0 0 0 0 1
-value=10uF
+T 500 300 5 10 1 1 0 0 1
+value=10uH
 T 200 1700 5 10 0 0 0 0 1
 vendor=Farnell
 T 200 1900 5 10 0 0 0 0 1
@@ -52,3 +52,7 @@ T 200 2100 5 10 0 0 0 0 1
 manufacturer=VISHAY
 T 200 2300 5 10 0 0 0 0 1
 manufacturer_part_number=IFSC1111AZER100M01
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2112290.pdf

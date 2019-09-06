@@ -69,3 +69,7 @@ T 300 2500 5 10 0 0 0 0 1
 manufacturer=ABRACON
 T 300 2300 5 10 0 0 0 0 1
 manufacturer_part_number=ASEMB-8.000MHZ-LY-T
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

@@ -62,3 +62,7 @@ T 0 2100 8 10 0 0 0 0 1
 footprint=ABMM2-20.000MHZ-E2-T
 T 0 1900 8 10 0 0 0 0 1
 value=20MHz
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1750519.pdf

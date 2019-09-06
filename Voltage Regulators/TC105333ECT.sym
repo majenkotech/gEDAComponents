@@ -73,3 +73,7 @@ T 900 2500 8 10 0 0 0 0 1
 description=PFM/PWM Step-Down DC/DC Controller - 3.3V
 T 1500 0 8 10 1 1 0 0 1
 value=3.3V
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

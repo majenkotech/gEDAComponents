@@ -114,3 +114,7 @@ T 200 4900 8 10 0 0 0 0 1
 vendor_part_number=19-0057
 T 200 4100 8 10 0 0 0 0 1
 value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://www.rapidonline.com/pdf/19-0081.pdf

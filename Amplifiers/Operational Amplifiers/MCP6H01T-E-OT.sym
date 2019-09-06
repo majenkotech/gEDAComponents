@@ -82,3 +82,7 @@ T 700 2400 8 10 0 0 0 0 1
 value=
 T 700 2600 8 10 0 0 0 0 1
 footprint=MCP6H01T-E-OT
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://www.mouser.com/ds/2/268/22243D-71458.pdf

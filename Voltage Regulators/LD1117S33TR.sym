@@ -62,3 +62,7 @@ T 500 1900 8 10 0 0 0 0 1
 description=Fixed LDO Voltage Regulator, 4.75V to 15V, 1.1V Dropout, 3.3Vout, 800mAout, SOT-223-3
 T 500 1700 8 10 0 0 0 0 1
 footprint=LD1117S33TR
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

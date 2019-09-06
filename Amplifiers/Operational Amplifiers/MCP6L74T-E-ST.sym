@@ -172,3 +172,7 @@ pinnumber=11
 T 2500 450 5 10 0 0 0 6 1
 pinseq=0
 }
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://www.mouser.co.uk/datasheet/2/268/22145a-78244.pdf

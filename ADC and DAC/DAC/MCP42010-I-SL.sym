@@ -196,3 +196,9 @@ T 1900 4100 8 10 0 0 0 0 1
 description=Digital Potentiometer Ics 256 Step Spi 10kohm
 T 1900 3900 8 10 0 0 0 0 1
 footprint=MCP42010-I-SL
+T 500 5700 5 10 0 0 0 0 1
+value=10k
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://www.mouser.co.uk/datasheet/2/268/11195c-64695.pdf

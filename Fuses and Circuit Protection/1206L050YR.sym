@@ -37,3 +37,7 @@ T 900 1900 8 10 0 0 0 0 1
 footprint=1206L050YR
 T 500 500 8 10 1 1 0 0 1
 value=500mA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/48531.pdf

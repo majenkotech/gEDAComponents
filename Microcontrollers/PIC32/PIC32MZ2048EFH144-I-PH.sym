@@ -1600,3 +1600,11 @@ T 4200 11900 8 10 0 0 0 0 1
 description=MICROCHIP  PIC32MZ2048EFH144-I/PH  32 Bit Microcontroller, Floating Point Unit, PIC32, 200 MHz, 2 MB, 512 KB, 144 Pins, TQFP
 T 4200 11700 8 10 0 0 0 0 1
 footprint=PIC32MZ2048EFH144-I-PH
+T 500 5700 5 10 0 0 0 0 1
+device=PIC32MZ2048EFH144-I/PH
+T 500 5700 5 10 0 0 0 0 1
+value=
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1959521.pdf

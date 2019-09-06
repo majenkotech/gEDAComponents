@@ -239,3 +239,7 @@ T 1400 4000 8 10 0 0 0 0 1
 footprint=MCP2200-I-MQ
 T 1400 3800 8 10 0 0 0 0 1
 value=
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2133266.pdf

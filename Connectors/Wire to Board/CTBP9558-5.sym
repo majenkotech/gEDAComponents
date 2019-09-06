@@ -69,12 +69,16 @@ V 250 400 50 6 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 P 0 200 200 200 1 0 0
 {
 T 200 250 5 8 0 1 0 6 1
-pinnumber=4
+pinnumber=5
 T 200 150 5 8 0 1 0 8 1
-pinseq=4
+pinseq=5
 T 350 200 5 8 0 1 0 2 1
 pintype=pas
 T 350 200 9 8 1 1 0 1 1
 pinlabel=5
 }
 V 250 200 50 6 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2163014.pdf

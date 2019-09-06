@@ -52,3 +52,7 @@ T 1600 2200 8 10 0 0 0 0 1
 vendor_part_number=2510411
 T 1600 2400 8 10 0 0 0 0 1
 description=Operational Amplifier, 1 Amplifier, 2.5 MHz, 6 V/µs, 4V to 32V, SOT-23, 5 Pins
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/242173.pdf

@@ -43,3 +43,7 @@ T 100 600 8 10 0 0 0 0 1
 description=LED, Low Power, Red, 630 nm, 1.95 V, 20 mA, 80 mcd
 T 100 1800 8 10 0 0 0 0 1
 value=Red
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1860692.pdf

@@ -305,3 +305,9 @@ T 400 2900 8 10 0 0 0 0 1
 footprint=TLC59116IRHBR
 T 400 3100 8 10 0 0 0 0 1
 description=LED DRIVER, 16 OUT, PWM, 17V/120mA, VQFN-32
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

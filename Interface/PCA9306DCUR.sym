@@ -94,3 +94,19 @@ T 1300 1100 8 10 1 1 0 0 1
 refdes=U?
 T 300 1100 8 10 1 1 0 0 1
 device=PCA9306DCUR
+T 500 5700 5 10 0 0 0 0 1
+manufacturer=TEXAS INSTRUMENTS
+T 500 5700 5 10 0 0 0 0 1
+manufacturer_part_number=PCA9306DCUR
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+description=I2C LEVEL TRANSLATOR, 2 INPUT, 64MA, 1.5NS, 0-5V, VSSOP-8
+T 500 5700 5 10 0 0 0 0 1
+vendor=Farnell
+T 500 5700 5 10 0 0 0 0 1
+vendor_part_number=2436689
+T 500 5700 5 10 0 0 0 0 1
+documentation=

@@ -192,3 +192,9 @@ T 500 2200 8 10 0 0 0 0 1
 footprint=RN4871-V-RM118
 T 500 2000 8 10 0 0 0 0 1
 description=Bluetooth® Low Energy v4.2Module W/Antenna, 2.442Mhz, 0.1Dbi
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2151205.pdf

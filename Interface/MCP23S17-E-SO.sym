@@ -324,3 +324,9 @@ T 4800 4600 8 10 0 0 0 0 1
 vendor_part_number=1332093
 T 4800 4400 8 10 0 0 0 0 1
 description=16BIT EXPANDER, I/O, SPI I/F, SMD
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

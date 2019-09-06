@@ -47,3 +47,7 @@ T 750 1400 8 10 0 0 0 0 1
 footprint=1N5819HW-7-F
 T 750 1250 8 10 0 0 0 0 1
 value=1A
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

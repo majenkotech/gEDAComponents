@@ -62,3 +62,7 @@ T 300 0 8 10 1 1 0 0 1
 value=3.3V
 T 300 1900 8 10 0 0 0 0 1
 footprint=IMA0105S3V3
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

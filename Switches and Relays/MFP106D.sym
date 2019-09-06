@@ -39,3 +39,7 @@ T 700 1500 8 10 0 0 0 0 1
 value=NA
 T 700 1300 8 10 0 0 0 0 1
 footprint=MFP106D
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1714671.pdf

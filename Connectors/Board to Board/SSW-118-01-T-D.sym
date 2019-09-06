@@ -435,3 +435,9 @@ T 400 9200 8 10 0 0 0 0 1
 footprint=SSW-118-01-T-D
 T 400 9400 8 10 0 0 0 0 1
 description=SAMTEC  SSW-118-01-T-D  Board-To-Board Connector, SSW Series, 36 Contacts, Receptacle, 2.54 mm, Through Hole, 2 Rows
+T 500 5700 5 10 0 0 0 0 1
+value=36
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2051027.pdf

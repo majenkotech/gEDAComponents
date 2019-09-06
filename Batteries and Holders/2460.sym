@@ -45,3 +45,9 @@ T 300 2200 8 10 0 0 0 0 1
 vendor_part_number=1702629
 T 500 0 8 10 1 1 0 0 1
 value=1.5V
+T 500 5700 5 10 0 0 0 0 1
+footprint=2460
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1703957.pdf

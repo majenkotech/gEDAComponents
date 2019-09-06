@@ -106,3 +106,7 @@ T 300 3500 8 10 0 0 0 0 1
 footprint=MCP4822-E-SN
 T 300 3300 8 10 0 0 0 0 1
 value=
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

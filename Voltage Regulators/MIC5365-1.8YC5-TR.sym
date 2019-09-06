@@ -73,3 +73,7 @@ T 900 2500 8 10 0 0 0 0 1
 description=LDO Voltage Regulator 1.8V SC-70
 T 1500 0 8 10 1 1 0 0 1
 value=1.8V
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf

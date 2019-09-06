@@ -424,3 +424,7 @@ T 6300 4300 8 10 0 0 0 0 1
 vendor=Mouser
 T 6300 2800 8 10 0 0 0 0 1
 value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

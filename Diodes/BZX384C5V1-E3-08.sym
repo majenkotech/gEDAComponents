@@ -43,3 +43,7 @@ T 400 300 8 10 1 1 0 6 1
 value=5.1V
 T 600 2600 8 10 0 0 0 0 1
 footprint=BZX384C5V1-E3-08
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2239828.pdf

@@ -1,0 +1,30 @@
+v 20150930 2
+V 200 300 200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 0 0 8 10 0 1 0 0 1
+class=IO
+T 0 0 8 10 0 1 0 0 1
+pins=1
+T 0 0 8 10 0 1 0 0 1
+device=M4HOLEP
+T 0 0 8 10 0 1 0 0 1
+nobom=1
+T 200 600 8 10 1 1 0 4 1
+refdes=H?
+T 500 5700 5 10 0 0 0 0 1
+manufacturer=
+T 500 5700 5 10 0 0 0 0 1
+manufacturer_part_number=M4HOLEP
+T 500 5700 5 10 0 0 0 0 1
+footprint=M4HOLEP
+T 500 5700 5 10 0 0 0 0 1
+value=4mm
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+description=M4 Mounting Hole (Plated)
+T 500 5700 5 10 0 0 0 0 1
+vendor=unknown
+T 500 5700 5 10 0 0 0 0 1
+vendor_part_number=unknown
+T 500 5700 5 10 0 0 0 0 1
+documentation=

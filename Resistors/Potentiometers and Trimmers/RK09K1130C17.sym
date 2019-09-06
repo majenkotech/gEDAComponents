@@ -46,3 +46,7 @@ T 800 2300 8 10 0 0 0 0 1
 description=Alps Electric Rk09k Series Carbon Film Potentiometer With A 6 Mm Dia. Shaft, 10kÎ©, Â±20%, 0.05w
 T 400 600 5 10 1 1 0 6 1
 value=10K
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

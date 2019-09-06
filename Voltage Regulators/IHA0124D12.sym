@@ -73,3 +73,7 @@ pinlabel=COM
 T 1842 642 5 4 1 1 0 0 1
 pinnumber=6
 }
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://docs-emea.rs-online.com/webdocs/1547/0900766b81547026.pdf

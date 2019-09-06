@@ -43,3 +43,7 @@ T 100 600 8 10 0 0 0 0 1
 description=Led, Yellow, Smd, 2 Ma, 1.85 V, 590 Nm 0603
 T 100 1800 8 10 0 0 0 0 1
 value=Yellow
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2579953.pdf

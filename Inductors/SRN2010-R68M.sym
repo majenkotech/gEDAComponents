@@ -52,3 +52,7 @@ T 200 2100 5 10 0 0 0 0 1
 manufacturer=BOURNS
 T 200 2300 5 10 0 0 0 0 1
 manufacturer_part_number=SRN2010-R68M
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

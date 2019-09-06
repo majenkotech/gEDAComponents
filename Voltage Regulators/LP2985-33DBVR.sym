@@ -75,3 +75,7 @@ T 1200 2200 8 10 0 0 0 0 1
 vendor=Farnell
 T 1200 2000 8 10 0 0 0 0 1
 vendor_part_number=2395925
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LP2985-33&fileType=pdf

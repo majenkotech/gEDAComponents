@@ -60,3 +60,7 @@ T 3100 2800 8 10 0 1 0 0 1
 vendor=Farnell
 T 3300 2000 8 10 0 1 0 0 1
 vendor_part_number=2509963
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/578457.pdf

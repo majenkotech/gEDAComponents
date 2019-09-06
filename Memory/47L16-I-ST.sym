@@ -106,3 +106,7 @@ T 200 1600 8 10 0 0 0 0 1
 value=16kbit
 T 200 1400 8 10 0 0 0 0 1
 footprint=47L16-I-ST
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2174084.pdf

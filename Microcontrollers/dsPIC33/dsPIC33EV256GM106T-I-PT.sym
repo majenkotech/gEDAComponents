@@ -839,3 +839,7 @@ pinseq=0
 T 1500 350 5 6 1 1 90 1 1
 pinlabel=VSS
 }
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://www.mouser.co.uk/datasheet/2/268/70005144e-1314001.pdf

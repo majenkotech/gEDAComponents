@@ -64,3 +64,9 @@ T 1100 1800 8 10 1 1 0 6 1
 device=G5LA-1-12DC
 T 2000 2300 8 10 0 0 0 0 1
 footprint=G5LA-1-12DC
+T 500 5700 5 10 0 0 0 0 1
+value=10A
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1685544.pdf

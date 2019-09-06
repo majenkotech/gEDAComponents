@@ -40,3 +40,9 @@ T 300 2400 5 10 0 0 0 0 1
 vendor=Farnell
 T 300 2200 5 10 0 0 0 0 1
 vendor_part_number=2506932
+T 500 5700 5 10 0 0 0 0 1
+value=1kV
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2325965.pdf

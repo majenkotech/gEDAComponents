@@ -40,7 +40,7 @@ T 200 900 5 10 0 0 0 0 1
 numslots=0
 T 200 1300 5 10 0 0 0 0 1
 symversion=0.1
-T 200 1500 5 10 0 0 0 0 1
+T 500 300 5 10 1 1 0 0 1
 value=10uH
 T 200 1700 5 10 0 0 0 0 1
 vendor=Farnell
@@ -52,3 +52,7 @@ T 200 2100 5 10 0 0 0 0 1
 manufacturer=BOURNS
 T 200 2300 5 10 0 0 0 0 1
 manufacturer_part_number=SRR7032-100M
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1723203.pdf

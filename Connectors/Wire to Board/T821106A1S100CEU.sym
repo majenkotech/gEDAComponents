@@ -91,3 +91,7 @@ T 400 2800 8 10 0 0 0 0 1
 vendor_part_number=2215302
 T 400 2000 8 10 0 0 0 0 1
 value=3x2
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1648843.pdf

@@ -194,3 +194,7 @@ T 100 3400 8 10 0 0 0 0 1
 footprint=Si8902B-A01-GS
 T 100 3200 8 10 0 0 0 0 1
 value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://www.silabs.com/documents/public/data-sheets/Si8900-1-2.pdf

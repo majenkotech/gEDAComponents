@@ -252,3 +252,7 @@ T 200 5300 5 10 0 0 0 0 1
 footprint=M20-9981046
 T 200 5100 5 10 0 0 0 0 1
 description=Board-To-Board Connector, M20 Series, 20 Contacts, Header, 2.54 mm, Through Hole, 2 Rows
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1712126.pdf

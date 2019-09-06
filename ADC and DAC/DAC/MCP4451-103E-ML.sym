@@ -239,3 +239,7 @@ T 1900 4200 8 10 0 0 0 0 1
 description=Digital Potentiometer Ics 10k I2cquad Ch Pot 8bit Volatile Memory
 T 1900 4000 8 10 0 0 0 0 1
 footprint=MCP4451-103E-ML
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://www.mouser.co.uk/datasheet/2/268/22267A_MCP4431-79218.pdf

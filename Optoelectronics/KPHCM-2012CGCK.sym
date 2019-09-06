@@ -43,3 +43,7 @@ T 100 600 8 10 0 0 0 0 1
 description=LED, Low Power, Green, 570 nm, 2.1 V, 20 mA, 50 mcd
 T 100 1800 8 10 0 0 0 0 1
 value=Green
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1695276.pdf

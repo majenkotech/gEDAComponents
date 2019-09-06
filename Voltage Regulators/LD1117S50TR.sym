@@ -62,3 +62,7 @@ T 500 1900 8 10 0 0 0 0 1
 description=REG, LDO, 5V, 0.95A, SOT-223
 T 500 1700 8 10 0 0 0 0 1
 footprint=LD1117S50TR
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1776449.pdf

@@ -52,3 +52,7 @@ T 1600 2200 8 10 0 0 0 0 1
 vendor_part_number=1230458
 T 1600 2400 8 10 0 0 0 0 1
 description=Operational Amplifier, Single, 1 Amplifier, 350 Khz, 0.16 V/µs, 1.8v To 5.5v, Soic, 8 Pins
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=OPA333&fileType=pdf

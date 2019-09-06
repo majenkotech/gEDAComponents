@@ -106,3 +106,7 @@ T 700 1300 8 10 1 1 0 6 1
 value=16Mb
 T 200 3100 8 10 0 0 0 0 1
 footprint=SST26VF016B-104V-SN
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://www.mouser.co.uk/datasheet/2/268/20005262C-766505.pdf

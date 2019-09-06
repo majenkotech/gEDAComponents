@@ -54,3 +54,7 @@ T -100 2200 8 10 0 0 0 0 1
 description=Tactile Switch, Non Illuminated, 32 V, 50 mA, 2 N, Solder
 T -100 2400 8 10 0 0 0 0 1
 value=2N
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1736852.pdf

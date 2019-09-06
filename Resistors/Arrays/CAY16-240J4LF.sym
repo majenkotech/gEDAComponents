@@ -94,3 +94,7 @@ T 100 1800 8 10 0 0 0 0 1
 manufacturer=BOURNS
 T 100 1600 8 10 0 0 0 0 1
 description=RESISTOR, ISO RES ARRAY 4RES, 24 OHM 5%, 1206
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

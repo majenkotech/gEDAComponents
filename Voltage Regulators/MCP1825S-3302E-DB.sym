@@ -62,3 +62,7 @@ T 400 2500 8 10 0 0 0 0 1
 footprint=MCP1825S-3302E-DB
 T 400 2700 8 10 0 0 0 0 1
 description=REG, LDO, 3.3V, 500MA, SOT223
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/514217.pdf

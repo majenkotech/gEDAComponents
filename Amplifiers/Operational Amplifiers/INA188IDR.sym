@@ -69,3 +69,7 @@ pinnumber=5
 }
 T 725 275 9 4 1 0 90 5 1
 Ref
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=INA188&&fileType=pdf

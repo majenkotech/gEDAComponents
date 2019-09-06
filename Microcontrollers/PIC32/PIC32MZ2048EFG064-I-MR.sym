@@ -474,3 +474,7 @@ T 800 6200 5 10 0 0 0 0 1
 description=PIC32MZ2048EFG064
 T 800 6000 5 10 0 0 0 0 1
 value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

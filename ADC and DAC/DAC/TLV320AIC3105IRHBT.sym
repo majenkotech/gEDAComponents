@@ -314,3 +314,9 @@ T 2300 5200 8 10 0 0 0 0 1
 vendor_part_number=2383090
 T 2300 5000 8 10 0 0 0 0 1
 footprint=TLV320AIC3105IRHBT
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1887643.pdf

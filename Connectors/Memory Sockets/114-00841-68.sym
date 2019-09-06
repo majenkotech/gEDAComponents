@@ -1,0 +1,156 @@
+v 20150930 2
+B 300 300 1600 1800 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 1900 300 1900 1 0 0
+{
+T 0 1900 5 10 0 0 0 0 1
+pintype=unknown
+T 355 1895 5 10 1 1 0 0 1
+pinlabel=NC1
+T 205 1945 5 10 1 1 0 6 1
+pinnumber=1
+T 0 1900 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1700 300 1700 1 0 0
+{
+T 0 1700 5 10 0 0 0 0 1
+pintype=unknown
+T 355 1695 5 10 1 1 0 0 1
+pinlabel=CS
+T 205 1745 5 10 1 1 0 6 1
+pinnumber=2
+T 0 1700 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1500 300 1500 1 0 0
+{
+T 0 1500 5 10 0 0 0 0 1
+pintype=unknown
+T 355 1495 5 10 1 1 0 0 1
+pinlabel=DI
+T 205 1545 5 10 1 1 0 6 1
+pinnumber=3
+T 0 1500 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1300 300 1300 1 0 0
+{
+T 0 1300 5 10 0 0 0 0 1
+pintype=unknown
+T 355 1295 5 10 1 1 0 0 1
+pinlabel=VDD
+T 205 1345 5 10 1 1 0 6 1
+pinnumber=4
+T 0 1300 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1100 300 1100 1 0 0
+{
+T 0 1100 5 10 0 0 0 0 1
+pintype=unknown
+T 355 1095 5 10 1 1 0 0 1
+pinlabel=CLK
+T 205 1145 5 10 1 1 0 6 1
+pinnumber=5
+T 0 1100 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 900 300 900 1 0 0
+{
+T 0 900 5 10 0 0 0 0 1
+pintype=unknown
+T 355 895 5 10 1 1 0 0 1
+pinlabel=VSS
+T 205 945 5 10 1 1 0 6 1
+pinnumber=6
+T 0 900 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 700 300 700 1 0 0
+{
+T 0 700 5 10 0 0 0 0 1
+pintype=unknown
+T 355 695 5 10 1 1 0 0 1
+pinlabel=DO
+T 205 745 5 10 1 1 0 6 1
+pinnumber=7
+T 0 700 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 500 300 500 1 0 0
+{
+T 0 500 5 10 0 0 0 0 1
+pintype=unknown
+T 355 495 5 10 1 1 0 0 1
+pinlabel=RSV
+T 205 545 5 10 1 1 0 6 1
+pinnumber=8
+T 0 500 5 10 0 0 0 0 1
+pinseq=0
+}
+P 900 0 900 300 1 0 0
+{
+T 900 0 5 10 0 0 90 0 1
+pintype=unknown
+T 900 355 5 10 1 1 90 0 1
+pinlabel=GND
+T 850 205 5 10 1 1 90 6 1
+pinnumber=9
+T 900 0 5 10 0 0 90 0 1
+pinseq=0
+}
+P 1100 0 1100 300 1 0 0
+{
+T 1100 0 5 10 0 0 90 0 1
+pintype=unknown
+T 1100 355 5 10 1 1 90 0 1
+pinlabel=GND
+T 1050 205 5 10 1 1 90 6 1
+pinnumber=10
+T 1100 0 5 10 0 0 90 0 1
+pinseq=0
+}
+P 1300 0 1300 300 1 0 0
+{
+T 1300 0 5 10 0 0 90 0 1
+pintype=unknown
+T 1300 355 5 10 1 1 90 0 1
+pinlabel=GND
+T 1250 205 5 10 1 1 90 6 1
+pinnumber=11
+T 1300 0 5 10 0 0 90 0 1
+pinseq=0
+}
+P 1500 0 1500 300 1 0 0
+{
+T 1500 0 5 10 0 0 90 0 1
+pintype=unknown
+T 1500 355 5 10 1 1 90 0 1
+pinlabel=GND
+T 1450 205 5 10 1 1 90 6 1
+pinnumber=12
+T 1500 0 5 10 0 0 90 0 1
+pinseq=0
+}
+T 1200 2200 8 10 1 1 0 6 1
+device=114-00841-68
+T 1600 2200 8 10 1 1 0 0 1
+refdes=SD?
+T 200 3800 5 10 0 0 0 0 1
+vendor=Farnell
+T 200 3600 5 10 0 0 0 0 1
+vendor_part_number=2666772
+T 200 3400 5 10 0 0 0 0 1
+manufacturer=AMPHENOL
+T 200 3200 5 10 0 0 0 0 1
+manufacturer_part_number=114-00841-68
+T 200 3000 5 10 0 0 0 0 1
+description=Memory Socket, None Push, Micro SD, 8 Contacts, Copper Alloy, Gold Plated Contacts
+T 200 2800 5 10 0 0 0 0 1
+footprint=114-00841-68
+T 200 2600 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.newark.com/pdfs/datasheets/Amphenol/11400841.pdf

@@ -60,3 +60,9 @@ T 300 1400 8 10 0 0 0 0 1
 footprint=GA1A12S202
 T 300 1200 8 10 0 0 0 0 1
 description=Ambient Light Sensor
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

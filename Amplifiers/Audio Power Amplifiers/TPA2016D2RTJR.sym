@@ -210,3 +210,7 @@ T 800 4200 5 10 0 0 0 0 1
 value=NA
 T 800 4000 5 10 0 0 0 0 1
 footprint=TPA2016D2RTJR
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=

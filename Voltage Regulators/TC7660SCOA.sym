@@ -106,3 +106,7 @@ T 200 2700 8 10 0 0 0 0 1
 description=Dc-dc Charge Pump, Doubler/inv, Soic-8
 T 200 2900 8 10 0 0 0 0 1
 value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2125136.pdf

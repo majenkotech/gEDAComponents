@@ -81,3 +81,7 @@ T 500 2400 8 10 0 0 0 0 1
 description=REG, BUCK, ADJ 0.9-5V, 3A, USIP-8
 T 500 3600 8 10 0 0 0 0 1
 value=ADJ
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2037571.pdf

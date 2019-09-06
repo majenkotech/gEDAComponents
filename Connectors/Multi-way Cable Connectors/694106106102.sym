@@ -45,3 +45,7 @@ T 1000 800 8 10 0 0 0 0 1
 footprint=694106106102
 T 1000 600 8 10 0 0 0 0 1
 value=5A
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/cad/2130966.pdf

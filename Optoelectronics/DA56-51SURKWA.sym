@@ -180,7 +180,7 @@ g
 T 1575 425 9 10 1 0 0 0 1
 dp
 T 300 4350 5 10 0 0 0 0 1
-documentation=http://www.kingbright-led.com/data/spec/SA52-11EWA.pdf
+documentation=http://www.farnell.com/datasheets/1519770.pdf
 L 2000 1650 2050 1700 3 0 0 0 -1 -1
 L 2050 1700 2675 1700 3 0 0 0 -1 -1
 L 2675 1700 2725 1650 3 0 0 0 -1 -1
@@ -328,3 +328,15 @@ pinnumber=7
 T 3150 600 9 8 1 1 0 6 1
 pinlabel=g2
 }
+T 500 5700 5 10 0 0 0 0 1
+manufacturer=KINGBRIGHT
+T 500 5700 5 10 0 0 0 0 1
+manufacturer_part_number=DA56-51SURKWA
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+vendor=Farnell
+T 500 5700 5 10 0 0 0 0 1
+vendor_part_number=2079871

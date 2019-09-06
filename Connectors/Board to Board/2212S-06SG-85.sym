@@ -90,3 +90,7 @@ T 300 4200 8 10 0 0 0 0 1
 vendor_part_number=1593462
 T 300 3400 8 10 0 0 0 0 1
 value=6
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1662126.pdf

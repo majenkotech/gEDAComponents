@@ -231,3 +231,7 @@ pinlabel=20
 T 1600 550 5 8 0 1 0 0 1
 pintype=pas
 }
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2571078.pdf

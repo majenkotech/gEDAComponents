@@ -533,3 +533,9 @@ T 100 5800 8 10 0 0 0 0 1
 footprint=RN2483-I-RM101
 T 100 5600 8 10 0 0 0 0 1
 description=LORA TRANSCEIVER MOD, 433/868MHZ, 14DBM
+T 500 5700 5 10 0 0 0 0 1
+value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1947946.pdf

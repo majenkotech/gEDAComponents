@@ -138,3 +138,7 @@ T 1300 3000 8 10 0 0 0 0 1
 vendor_part_number=649-91601-310LF
 T 1300 2200 8 10 0 0 0 0 1
 value=10
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.mouser.com/ds/2/18/bus-12-055-946221.pdf

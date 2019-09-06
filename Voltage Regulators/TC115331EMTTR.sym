@@ -82,3 +82,9 @@ T 2100 1800 8 10 0 0 0 0 1
 vendor=Mouser
 T 300 0 8 10 1 1 0 0 1
 value=3.3V
+T 500 5700 5 10 0 0 0 0 1
+footprint=TC115331EMTTR
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://ww1.microchip.com/downloads/en/DeviceDoc/21361D.pdf

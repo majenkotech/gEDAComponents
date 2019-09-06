@@ -207,3 +207,9 @@ T 1900 4100 8 10 0 0 0 0 1
 description=Digital Potentiometer ICs Dual 8B V SPI POT
 T 1900 3900 8 10 0 0 0 0 1
 footprint=MCP4251-103E-ML
+T 500 5700 5 10 0 0 0 0 1
+value=10KΩ
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://ww1.microchip.com/downloads/en/DeviceDoc/22060b.pdf

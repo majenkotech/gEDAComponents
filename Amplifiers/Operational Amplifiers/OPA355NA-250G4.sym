@@ -90,3 +90,9 @@ T 600 1300 8 10 0 0 0 0 1
 footprint=OPA355NA-250G4
 T 600 1100 8 10 0 0 0 0 1
 value=
+T 500 5700 5 10 0 0 0 0 1
+manufacturer_part_number=OPA355NA/250G4
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1862492.pdf

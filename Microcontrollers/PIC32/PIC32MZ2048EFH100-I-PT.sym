@@ -1321,3 +1321,7 @@ T 800 9300 8 10 0 0 0 0 1
 description=32 Bit Microcontroller, Floating Point Unit, PIC32, 200 MHz, 2 MB, 512 KB, 100 Pins, TQFP
 T 800 9100 8 10 0 0 0 0 1
 value=NA
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/1959521.pdf

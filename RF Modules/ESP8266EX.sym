@@ -382,3 +382,7 @@ T 2900 6500 8 10 0 0 0 0 1
 description=Rf System On A Chip - Soc Smd Ic Esp8266ex, Qfn32-pin, 5x5mm
 T 2900 6300 8 10 0 0 0 0 1
 footprint=ESP8266EX
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=https://www.mouser.co.uk/datasheet/2/891/0a-esp8266ex_datasheet_en-1223899.pdf
