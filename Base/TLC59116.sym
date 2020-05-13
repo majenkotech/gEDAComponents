@@ -1,0 +1,307 @@
+v 20150930 2
+B 500 300 2800 2800 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+P 200 2400 500 2400 1 0 0
+{
+T 300 2450 5 10 0 0 0 0 1
+pintype=unknown
+T 555 2395 9 10 1 1 0 0 1
+pinlabel=A2
+T 405 2445 5 10 1 1 0 6 1
+pinnumber=1
+}
+P 200 2200 500 2200 1 0 0
+{
+T 300 2250 5 10 0 0 0 0 1
+pintype=unknown
+T 555 2195 9 10 1 1 0 0 1
+pinlabel=A3
+T 405 2245 5 10 1 1 0 6 1
+pinnumber=2
+}
+P 200 2000 500 2000 1 0 0
+{
+T 300 2050 5 10 0 0 0 0 1
+pintype=unknown
+T 555 1995 9 10 1 1 0 0 1
+pinlabel=\_OUT0\_
+T 405 2045 5 10 1 1 0 6 1
+pinnumber=3
+}
+P 200 1800 500 1800 1 0 0
+{
+T 300 1850 5 10 0 0 0 0 1
+pintype=unknown
+T 555 1795 9 10 1 1 0 0 1
+pinlabel=\_OUT1\_
+T 405 1845 5 10 1 1 0 6 1
+pinnumber=4
+}
+P 200 1600 500 1600 1 0 0
+{
+T 300 1650 5 10 0 0 0 0 1
+pintype=unknown
+T 555 1595 9 10 1 1 0 0 1
+pinlabel=\_OUT2\_
+T 405 1645 5 10 1 1 0 6 1
+pinnumber=5
+}
+P 1200 0 1200 300 1 0 0
+{
+T 1150 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1205 355 9 10 1 1 90 0 1
+pinlabel=\_OUT5\_
+T 1155 205 5 10 1 1 90 6 1
+pinnumber=9
+}
+P 1400 0 1400 300 1 0 0
+{
+T 1350 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1405 355 9 10 1 1 90 0 1
+pinlabel=\_OUT6\_
+T 1355 205 5 10 1 1 90 6 1
+pinnumber=10
+}
+P 1600 0 1600 300 1 0 0
+{
+T 1550 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1605 355 9 10 1 1 90 0 1
+pinlabel=\_OUT7\_
+T 1555 205 5 10 1 1 90 6 1
+pinnumber=11
+}
+P 1800 0 1800 300 1 0 0
+{
+T 1750 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1805 355 9 10 1 1 90 0 1
+pinlabel=NC
+T 1755 205 5 10 1 1 90 6 1
+pinnumber=12
+}
+P 2000 0 2000 300 1 0 0
+{
+T 1950 100 5 10 0 0 90 0 1
+pintype=unknown
+T 2005 355 9 10 1 1 90 0 1
+pinlabel=NC
+T 1955 205 5 10 1 1 90 6 1
+pinnumber=13
+}
+P 3600 2400 3300 2400 1 0 0
+{
+T 3500 2450 5 10 0 0 0 6 1
+pintype=unknown
+T 3245 2395 9 10 1 1 0 6 1
+pinlabel=\_RESET\_
+T 3395 2445 5 10 1 1 0 0 1
+pinnumber=24
+}
+P 3600 2200 3300 2200 1 0 0
+{
+T 3500 2250 5 10 0 0 0 6 1
+pintype=unknown
+T 3245 2195 9 10 1 1 0 6 1
+pinlabel=GND
+T 3395 2245 5 10 1 1 0 0 1
+pinnumber=23
+}
+P 3600 2000 3300 2000 1 0 0
+{
+T 3500 2050 5 10 0 0 0 6 1
+pintype=unknown
+T 3245 1995 9 10 1 1 0 6 1
+pinlabel=\_OUT15\_
+T 3395 2045 5 10 1 1 0 0 1
+pinnumber=22
+}
+P 3600 1800 3300 1800 1 0 0
+{
+T 3500 1850 5 10 0 0 0 6 1
+pintype=unknown
+T 3245 1795 9 10 1 1 0 6 1
+pinlabel=\_OUT14\_
+T 3395 1845 5 10 1 1 0 0 1
+pinnumber=21
+}
+P 3600 1600 3300 1600 1 0 0
+{
+T 3500 1650 5 10 0 0 0 6 1
+pintype=unknown
+T 3245 1595 9 10 1 1 0 6 1
+pinlabel=\_OUT13\_
+T 3395 1645 5 10 1 1 0 0 1
+pinnumber=20
+}
+P 1200 3400 1200 3100 1 0 0
+{
+T 1150 3300 5 10 0 0 90 6 1
+pintype=unknown
+T 1205 3045 9 10 1 1 90 6 1
+pinlabel=A1
+T 1155 3195 5 10 1 1 90 0 1
+pinnumber=32
+}
+P 1400 3400 1400 3100 1 0 0
+{
+T 1350 3300 5 10 0 0 90 6 1
+pintype=unknown
+T 1405 3045 9 10 1 1 90 6 1
+pinlabel=A0
+T 1355 3195 5 10 1 1 90 0 1
+pinnumber=31
+}
+P 1600 3400 1600 3100 1 0 0
+{
+T 1550 3300 5 10 0 0 90 6 1
+pintype=unknown
+T 1605 3045 9 10 1 1 90 6 1
+pinlabel=REXT
+T 1555 3195 5 10 1 1 90 0 1
+pinnumber=30
+}
+P 1800 3400 1800 3100 1 0 0
+{
+T 1750 3300 5 10 0 0 90 6 1
+pintype=unknown
+T 1805 3045 9 10 1 1 90 6 1
+pinlabel=NC
+T 1755 3195 5 10 1 1 90 0 1
+pinnumber=29
+}
+P 2000 3400 2000 3100 1 0 0
+{
+T 1950 3300 5 10 0 0 90 6 1
+pintype=unknown
+T 2005 3045 9 10 1 1 90 6 1
+pinlabel=NC
+T 1955 3195 5 10 1 1 90 0 1
+pinnumber=28
+}
+L 500 2800 800 3100 3 0 1 0 -1 -1
+T 2800 3200 8 10 1 1 0 0 1
+refdes=U?
+T 0 3200 8 10 1 1 0 0 1
+device=TCL59116
+P 200 1400 500 1400 1 0 0
+{
+T 300 1450 5 10 0 0 0 0 1
+pintype=unknown
+T 555 1395 9 10 1 1 0 0 1
+pinlabel=\_OUT3\_
+T 405 1445 5 10 1 1 0 6 1
+pinnumber=6
+}
+P 200 1200 500 1200 1 0 0
+{
+T 300 1250 5 10 0 0 0 0 1
+pintype=unknown
+T 555 1195 9 10 1 1 0 0 1
+pinlabel=GND
+T 405 1245 5 10 1 1 0 6 1
+pinnumber=7
+}
+P 200 1000 500 1000 1 0 0
+{
+T 300 1050 5 10 0 0 0 0 1
+pintype=unknown
+T 555 995 9 10 1 1 0 0 1
+pinlabel=\_OUT4\_
+T 405 1045 5 10 1 1 0 6 1
+pinnumber=8
+}
+P 2200 0 2200 300 1 0 0
+{
+T 2150 100 5 10 0 0 90 0 1
+pintype=unknown
+T 2205 355 9 10 1 1 90 0 1
+pinlabel=\_OUT8\_
+T 2155 205 5 10 1 1 90 6 1
+pinnumber=14
+}
+P 2400 0 2400 300 1 0 0
+{
+T 2350 100 5 10 0 0 90 0 1
+pintype=unknown
+T 2405 355 9 10 1 1 90 0 1
+pinlabel=\_OUT9\_
+T 2355 205 5 10 1 1 90 6 1
+pinnumber=15
+}
+P 2600 0 2600 300 1 0 0
+{
+T 2550 100 5 10 0 0 90 0 1
+pintype=unknown
+T 2605 355 9 10 1 1 90 0 1
+pinlabel=\_OUT10\_
+T 2555 205 5 10 1 1 90 6 1
+pinnumber=16
+}
+P 3600 1400 3300 1400 1 0 0
+{
+T 3500 1450 5 10 0 0 0 6 1
+pintype=unknown
+T 3245 1395 9 10 1 1 0 6 1
+pinlabel=\_OUT12\_
+T 3395 1445 5 10 1 1 0 0 1
+pinnumber=19
+}
+P 3600 1200 3300 1200 1 0 0
+{
+T 3500 1250 5 10 0 0 0 6 1
+pintype=unknown
+T 3245 1195 9 10 1 1 0 6 1
+pinlabel=GND
+T 3395 1245 5 10 1 1 0 0 1
+pinnumber=18
+}
+P 3600 1000 3300 1000 1 0 0
+{
+T 3500 1050 5 10 0 0 0 6 1
+pintype=unknown
+T 3245 995 9 10 1 1 0 6 1
+pinlabel=\_OUT11\_
+T 3395 1045 5 10 1 1 0 0 1
+pinnumber=17
+}
+P 2200 3400 2200 3100 1 0 0
+{
+T 2150 3300 5 10 0 0 90 6 1
+pintype=unknown
+T 2155 3195 5 10 1 1 90 0 1
+pinnumber=27
+T 2205 3045 9 10 1 1 90 6 1
+pinlabel=VCC
+}
+P 2400 3400 2400 3100 1 0 0
+{
+T 2350 3300 5 10 0 0 90 6 1
+pintype=unknown
+T 2405 3045 9 10 1 1 90 6 1
+pinlabel=SDA
+T 2355 3195 5 10 1 1 90 0 1
+pinnumber=26
+}
+P 2600 3400 2600 3100 1 0 0
+{
+T 2550 3300 5 10 0 0 90 6 1
+pintype=unknown
+T 2605 3045 9 10 1 1 90 6 1
+pinlabel=SCL
+T 2555 3195 5 10 1 1 90 0 1
+pinnumber=25
+}
+T 400 2700 8 10 0 0 0 0 1
+manufacturer=TI
+T 400 2500 8 10 0 0 0 0 1
+manufacturer_part_number=TLC59116
+T 400 2300 8 10 0 0 0 0 1
+vendor=UNKNOWN
+T 400 2100 8 10 0 0 0 0 1
+vendor_part_number=UNKNOWN
+T 400 2900 8 10 0 0 0 0 1
+footprint=VQFN32_5x5
+T 400 3100 8 10 0 0 0 0 1
+description=PWM LED Driver

@@ -1,0 +1,25 @@
+
+Element["" "" "" "" 111.3500mm 69.7500mm 0.0000 0.0000 0 100 ""]
+(
+	Pad[-1.8500mm -2.4000mm -1.8500mm -2.0000mm 0.6000mm 0.3500mm 0.6500mm  "" "3" "square"]
+	Pad[1.8500mm -2.4000mm 1.8500mm -2.0000mm 0.6000mm 0.3500mm 0.6500mm  "" "4" "square"]
+	Pad[-1.8500mm 2.0000mm -1.8500mm 2.4000mm 0.6000mm 0.3500mm 0.6500mm  "" "1" "square,edge2"]
+	Pad[1.8500mm 2.0000mm 1.8500mm 2.4000mm 0.6000mm 0.3500mm 0.6500mm  "" "2" "square,edge2"]
+	Pad[-2.5250mm -0.2750mm -2.5250mm 0.2750mm 0.4500mm 0.3500mm 0.5000mm  "" "G" "square"]
+	Pad[2.5250mm -0.2750mm 2.5250mm 0.2750mm 0.4500mm 0.3500mm 0.5000mm  "" "G" "square"]
+	ElementLine [-1.4500mm -2.5000mm 1.4500mm -2.5000mm 0.1500mm]
+	ElementLine [-1.4500mm 2.5000mm 1.4500mm 2.5000mm 0.1500mm]
+	ElementLine [-2.5000mm -0.6000mm -2.5000mm -2.2500mm 0.1500mm]
+	ElementLine [-2.5000mm -2.2500mm -2.2500mm -2.5000mm 0.1500mm]
+	ElementLine [-2.5000mm 0.6000mm -2.5000mm 2.2500mm 0.1500mm]
+	ElementLine [-2.5000mm 2.2500mm -2.2500mm 2.5000mm 0.1500mm]
+	ElementLine [2.5000mm -0.6000mm 2.5000mm -2.2500mm 0.1500mm]
+	ElementLine [2.5000mm -2.2500mm 2.2500mm -2.5000mm 0.1500mm]
+	ElementLine [2.5000mm 0.6000mm 2.5000mm 2.2500mm 0.1500mm]
+	ElementLine [2.5000mm 2.2500mm 2.2500mm 2.5000mm 0.1500mm]
+	ElementArc [0.0000 0.0000 1.6000mm 1.6000mm 180 90 0.1500mm]
+	ElementArc [0.0000 0.0000 1.6000mm 1.6000mm 90 90 0.1500mm]
+	ElementArc [0.0000 0.0000 1.6000mm 1.6000mm 0 90 0.1500mm]
+	ElementArc [0.0000 0.0000 1.6000mm 1.6000mm 270 90 0.1500mm]
+
+)

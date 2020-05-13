@@ -1,0 +1,27 @@
+Element["" "" "" "" 2800.00mil 2200.00mil -184.00mil 60.00mil 0 100 ""]
+(
+    Pin[-400.00mil -300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "18" "edge2"]
+    Pin[-300.00mil -300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "17" "edge2"]
+    Pin[-200.00mil -300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "16" "edge2"]
+    Pin[-100.00mil -300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "15" "edge2"]
+    Pin[0.0000 -300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "14" "edge2"]
+    Pin[100.00mil -300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "13" "edge2"]
+    Pin[200.00mil -300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "12" "edge2"]
+    Pin[300.00mil -300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "11" "edge2"]
+    Pin[400.00mil -300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "10" "edge2"]
+    Pin[-400.00mil 300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "1" "edge2"]
+    Pin[-300.00mil 300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "2" "edge2"]
+    Pin[-200.00mil 300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "3" "edge2"]
+    Pin[-100.00mil 300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "4" "edge2"]
+    Pin[0.0000 300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "5" "edge2"]
+    Pin[100.00mil 300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "6" "edge2"]
+    Pin[200.00mil 300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "7" "edge2"]
+    Pin[300.00mil 300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "8" "edge2"]
+    Pin[400.00mil 300.00mil 60.00mil 30.00mil 62.00mil 38.00mil "" "9" "edge2"]
+    ElementLine [-492.00mil -335.00mil -492.00mil 335.00mil 0.1500mm]
+    ElementLine [-492.00mil 335.00mil 492.00mil 335.00mil 0.1500mm]
+    ElementLine [492.00mil 335.00mil 492.00mil -335.00mil 0.1500mm]
+    ElementLine [492.00mil -335.00mil -492.00mil -335.00mil 0.1500mm]
+
+    )
+

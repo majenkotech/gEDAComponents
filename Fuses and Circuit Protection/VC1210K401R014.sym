@@ -1,0 +1,44 @@
+v 20191003 2
+P 0 300 300 300 1 0 0
+{
+T 100 350 5 10 0 0 0 0 1
+pintype=unknown
+T 208 350 5 10 1 1 0 6 1
+pinnumber=1
+T 100 350 5 10 0 0 0 0 1
+pinseq=0
+}
+B 300 100 1000 400 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+L 400 0 1000 600 3 10 1 0 -1 -1
+L 1000 600 1200 600 3 10 1 0 -1 -1
+P 1600 300 1300 300 1 0 0
+{
+T 1500 350 5 10 0 0 0 6 1
+pintype=unknown
+T 1392 350 5 10 1 1 0 0 1
+pinnumber=2
+T 1500 350 5 10 0 0 0 6 1
+pinseq=0
+}
+T 300 600 8 10 1 1 0 0 1
+refdes=R?
+T 500 5700 5 10 0 0 0 0 1
+manufacturer=KEMET
+T 500 5700 5 10 0 0 0 0 1
+device=VC1210K401R014
+T 500 5700 5 10 0 0 0 0 1
+manufacturer_part_number=VC1210K401R014
+T 500 5700 5 10 0 0 0 0 1
+footprint=VC1210K401R014
+T 500 5700 5 10 0 0 0 0 1
+value=38V
+T 500 5700 5 10 0 0 0 0 1
+voltage=18V
+T 500 5700 5 10 0 0 0 0 1
+description=TVS Varistor, 14 V, 18 V, VC Series, 38 V, 1210 [3225 Metric], Multilayer Varistor (MLV)
+T 500 5700 5 10 0 0 0 0 1
+vendor=Farnell
+T 500 5700 5 10 0 0 0 0 1
+vendor_part_number=2717732
+T 500 5700 5 10 0 0 0 0 1
+documentation=

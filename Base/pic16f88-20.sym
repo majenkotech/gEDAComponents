@@ -1,0 +1,236 @@
+v 20150930 2
+P -6800 49600 -6500 49600 1 0 0
+{
+T -6700 49650 5 10 0 0 0 0 1
+pintype=unknown
+T -6592 49642 5 4 1 1 0 6 1
+pinnumber=1
+T -6700 49650 5 10 0 0 0 0 1
+pinseq=0
+T -6400 49575 5 8 1 1 0 0 1
+pinlabel=RA2
+T -6400 49575 9 4 1 1 0 2 1
+alternate=AN2/CVREF/VREF-
+}
+P -6800 49400 -6500 49400 1 0 0
+{
+T -6700 49450 5 10 0 0 0 0 1
+pintype=unknown
+T -6700 49450 5 10 0 0 0 0 1
+pinseq=0
+T -6592 49442 5 4 1 1 0 6 1
+pinnumber=2
+T -6400 49375 5 8 1 1 0 0 1
+pinlabel=RA3
+T -6400 49375 9 4 1 1 0 2 1
+alternate=AN3/VREF+/C1OUT
+}
+P -6800 49200 -6500 49200 1 0 0
+{
+T -6700 49250 5 10 0 0 0 0 1
+pintype=unknown
+T -6700 49250 5 10 0 0 0 0 1
+pinseq=0
+T -6592 49242 5 4 1 1 0 6 1
+pinnumber=3
+T -6400 49175 5 8 1 1 0 0 1
+pinlabel=RA4
+T -6400 49175 9 4 1 1 0 2 1
+alternate=AN4/T0CKI/C2OUT
+}
+P -6800 49000 -6500 49000 1 0 0
+{
+T -6700 49050 5 10 0 0 0 0 1
+pintype=unknown
+T -6700 49050 5 10 0 0 0 0 1
+pinseq=0
+T -6592 49042 5 4 1 1 0 6 1
+pinnumber=4
+T -6400 48975 5 8 1 1 0 0 1
+pinlabel=RA5
+T -6400 48975 9 4 1 1 0 2 1
+alternate=\_MCLR\_/VPP
+}
+P -6800 48800 -6500 48800 1 0 0
+{
+T -6700 48850 5 10 0 0 0 0 1
+pintype=unknown
+T -6700 48850 5 10 0 0 0 0 1
+pinseq=0
+T -6592 48842 5 4 1 1 0 6 1
+pinnumber=5
+T -6400 48775 5 8 1 1 0 0 1
+pinlabel=VSS
+T -6400 48775 9 4 1 1 0 2 1
+alternate=GND
+}
+P -6800 48600 -6500 48600 1 0 0
+{
+T -6700 48650 5 10 0 0 0 0 1
+pintype=unknown
+T -6700 48650 5 10 0 0 0 0 1
+pinseq=0
+T -6592 48642 5 4 1 1 0 6 1
+pinnumber=6
+T -6400 48575 5 8 1 1 0 0 1
+pinlabel=RB0
+T -6400 48575 9 4 1 1 0 2 1
+alternate=INT/CCP1
+}
+P -6800 48400 -6500 48400 1 0 0
+{
+T -6700 48450 5 10 0 0 0 0 1
+pintype=unknown
+T -6700 48450 5 10 0 0 0 0 1
+pinseq=0
+T -6592 48442 5 4 1 1 0 6 1
+pinnumber=7
+T -6400 48375 5 8 1 1 0 0 1
+pinlabel=RB1
+T -6400 48375 9 4 1 1 0 2 1
+alternate=SDI/SDA
+}
+P -6800 48200 -6500 48200 1 0 0
+{
+T -6700 48250 5 10 0 0 0 0 1
+pintype=unknown
+T -6700 48250 5 10 0 0 0 0 1
+pinseq=0
+T -6592 48242 5 4 1 1 0 6 1
+pinnumber=8
+T -6400 48175 5 8 1 1 0 0 1
+pinlabel=RB2
+T -6400 48175 9 4 1 1 0 2 1
+alternate=SDO/RX/DT
+}
+P -6800 48000 -6500 48000 1 0 0
+{
+T -6700 48050 5 10 0 0 0 0 1
+pintype=unknown
+T -6700 48050 5 10 0 0 0 0 1
+pinseq=0
+T -6592 48042 5 4 1 1 0 6 1
+pinnumber=9
+T -6400 47975 5 8 1 1 0 0 1
+pinlabel=RB3
+T -6400 47975 9 4 1 1 0 2 1
+alternate=PGM/CCP1
+}
+P -4700 49600 -5000 49600 1 0 0
+{
+T -4800 49650 5 10 0 0 0 6 1
+pintype=unknown
+T -4800 49650 5 10 0 0 0 6 1
+pinseq=0
+T -4908 49642 5 4 1 1 0 0 1
+pinnumber=18
+T -5100 49575 5 8 1 1 0 6 1
+pinlabel=RA1
+T -5100 49575 9 4 1 1 0 8 1
+alternate=AN1
+}
+P -4700 49400 -5000 49400 1 0 0
+{
+T -4800 49450 5 10 0 0 0 6 1
+pintype=unknown
+T -4800 49450 5 10 0 0 0 6 1
+pinseq=0
+T -4908 49442 5 4 1 1 0 0 1
+pinnumber=17
+T -5100 49375 5 8 1 1 0 6 1
+pinlabel=RA0
+T -5100 49375 9 4 1 1 0 8 1
+alternate=AN0
+}
+P -4700 49200 -5000 49200 1 0 0
+{
+T -4800 49250 5 10 0 0 0 6 1
+pintype=unknown
+T -4800 49250 5 10 0 0 0 6 1
+pinseq=0
+T -4908 49242 5 4 1 1 0 0 1
+pinnumber=16
+T -5100 49175 5 8 1 1 0 6 1
+pinlabel=RA7
+T -5100 49175 9 4 1 1 0 8 1
+alternate=OSC1/CLKI
+}
+P -4700 49000 -5000 49000 1 0 0
+{
+T -4800 49050 5 10 0 0 0 6 1
+pintype=unknown
+T -4800 49050 5 10 0 0 0 6 1
+pinseq=0
+T -4908 49042 5 4 1 1 0 0 1
+pinnumber=15
+T -5100 48975 5 8 1 1 0 6 1
+pinlabel=RA6
+T -5100 48975 9 4 1 1 0 8 1
+alternate=OSC2/CLKO
+}
+P -4700 48800 -5000 48800 1 0 0
+{
+T -4800 48850 5 10 0 0 0 6 1
+pintype=unknown
+T -4800 48850 5 10 0 0 0 6 1
+pinseq=0
+T -4908 48842 5 4 1 1 0 0 1
+pinnumber=14
+T -5100 48775 5 8 1 1 0 6 1
+pinlabel=VDD
+T -5100 48775 9 4 1 1 0 8 1
+alternate=+5V
+}
+P -4700 48600 -5000 48600 1 0 0
+{
+T -4800 48650 5 10 0 0 0 6 1
+pintype=unknown
+T -4800 48650 5 10 0 0 0 6 1
+pinseq=0
+T -4908 48642 5 4 1 1 0 0 1
+pinnumber=13
+T -5100 48575 5 8 1 1 0 6 1
+pinlabel=RB7
+T -5100 48575 9 4 1 1 0 8 1
+alternate=AN6/PGD/T1OSI
+}
+P -4700 48400 -5000 48400 1 0 0
+{
+T -4800 48450 5 10 0 0 0 6 1
+pintype=unknown
+T -4800 48450 5 10 0 0 0 6 1
+pinseq=0
+T -4908 48442 5 4 1 1 0 0 1
+pinnumber=12
+T -5100 48375 5 8 1 1 0 6 1
+pinlabel=RB6
+T -5100 48375 9 4 1 1 0 8 1
+alternate=AN5/PGC/T1OSO/T1CKI
+}
+P -4700 48200 -5000 48200 1 0 0
+{
+T -4800 48250 5 10 0 0 0 6 1
+pintype=unknown
+T -4800 48250 5 10 0 0 0 6 1
+pinseq=0
+T -4908 48242 5 4 1 1 0 0 1
+pinnumber=11
+T -5100 48175 5 8 1 1 0 6 1
+pinlabel=RB5
+T -5100 48175 9 4 1 1 0 8 1
+alternate=\_SS\_/TX/CK
+}
+P -4700 48000 -5000 48000 1 0 0
+{
+T -4800 48050 5 10 0 0 0 6 1
+pintype=unknown
+T -4800 48050 5 10 0 0 0 6 1
+pinseq=0
+T -4908 48042 5 4 1 1 0 0 1
+pinnumber=10
+T -5100 47975 5 8 1 1 0 6 1
+pinlabel=RB4
+T -5100 47975 9 4 1 1 0 8 1
+alternate=SCK/SCL
+}
+B -6500 47800 1500 2000 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1

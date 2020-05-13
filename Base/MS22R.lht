@@ -1,0 +1,396 @@
+li:pcb-rnd-subcircuit-v6 {
+ ha:subc.24263 {
+  ha:attributes {
+   refdes = U0
+  }
+  ha:data {
+   li:padstack_prototypes {
+    ha:ps_proto_v6.0 {
+     htop = 0
+     hdia = 1.0mm
+     li:shape {
+      ha:ps_shape_v4 {
+       clearance = -1.0mm
+       ha:ps_circ {
+        x = 0.0
+        y = 0.0
+        dia = 1.7mm
+       }
+       ha:layer_mask {
+        copper = 1
+        top = 1
+       }
+       ha:combining {
+       }
+      }
+      ha:ps_shape_v4 {
+       clearance = 0.0
+       ha:ps_circ {
+        x = 0.0
+        y = 0.0
+        dia = 1.7mm
+       }
+       ha:layer_mask {
+        bottom = 1
+        copper = 1
+       }
+       ha:combining {
+       }
+      }
+      ha:ps_shape_v4 {
+       clearance = 0.0
+       ha:ps_circ {
+        x = 0.0
+        y = 0.0
+        dia = 2.2mm
+       }
+       ha:layer_mask {
+        copper = 1
+        intern = 1
+       }
+       ha:combining {
+       }
+      }
+      ha:ps_shape_v4 {
+       clearance = 0.0
+       ha:ps_circ {
+        x = 0.0
+        y = 0.0
+        dia = 2.3524mm
+       }
+       ha:layer_mask {
+        top = 1
+        mask = 1
+       }
+       ha:combining {
+        sub = 1
+        auto = 1
+       }
+      }
+      ha:ps_shape_v4 {
+       clearance = 0.0
+       ha:ps_circ {
+        x = 0.0
+        y = 0.0
+        dia = 2.3524mm
+       }
+       ha:layer_mask {
+        bottom = 1
+        mask = 1
+       }
+       ha:combining {
+        sub = 1
+        auto = 1
+       }
+      }
+     }
+     hbottom = 0
+     hplated = 1
+    }
+   }
+   li:objects {
+    ha:padstack_ref.24257 {
+     smirror = 0
+     ha:attributes {
+      term = 1
+      name = 1
+     }
+     proto = 0
+     xmirror = 0
+     x = 49.5mm
+     rot = 90.000000
+     y = 98.2mm
+     li:thermal {
+     }
+     ha:flags {
+      clearline = 1
+     }
+     clearance = 6.0mil
+    }
+    ha:padstack_ref.24258 {
+     smirror = 0
+     ha:attributes {
+      term = 2
+      name = 2
+     }
+     proto = 0
+     xmirror = 0
+     x = 52.0mm
+     rot = 90.000000
+     y = 98.2mm
+     li:thermal {
+     }
+     ha:flags {
+      clearline = 1
+     }
+     clearance = 6.0mil
+    }
+    ha:padstack_ref.24259 {
+     smirror = 0
+     ha:attributes {
+      term = 3
+      name = 3
+     }
+     proto = 0
+     xmirror = 0
+     x = 54.5mm
+     rot = 90.000000
+     y = 98.2mm
+     li:thermal {
+     }
+     ha:flags {
+      clearline = 1
+     }
+     clearance = 6.0mil
+    }
+    ha:padstack_ref.24260 {
+     smirror = 0
+     ha:attributes {
+      term = 4
+      name = 4
+     }
+     proto = 0
+     xmirror = 0
+     x = 54.5mm
+     rot = 90.000000
+     y = 95.0mm
+     li:thermal {
+     }
+     ha:flags {
+      clearline = 1
+     }
+     clearance = 6.0mil
+    }
+    ha:padstack_ref.24261 {
+     smirror = 0
+     ha:attributes {
+      term = 5
+      name = 5
+     }
+     proto = 0
+     xmirror = 0
+     x = 52.0mm
+     rot = 90.000000
+     y = 95.0mm
+     li:thermal {
+     }
+     ha:flags {
+      clearline = 1
+     }
+     clearance = 6.0mil
+    }
+    ha:padstack_ref.24262 {
+     smirror = 0
+     ha:attributes {
+      term = 6
+      name = 6
+     }
+     proto = 0
+     xmirror = 0
+     x = 49.5mm
+     rot = 90.000000
+     y = 95.0mm
+     li:thermal {
+     }
+     ha:flags {
+      clearline = 1
+     }
+     clearance = 6.0mil
+    }
+   }
+   li:layers {
+    ha:top-silk {
+     lid = 0
+     ha:type {
+      silk = 1
+      top = 1
+     }
+     li:objects {
+      ha:line.24229 {
+       clearance = 0.0
+       y2 = 94.7mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 56.8mm
+       x2 = 56.8mm
+       ha:flags {
+       }
+       y1 = 98.4mm
+      }
+      ha:line.24232 {
+       clearance = 0.0
+       y2 = 94.7mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 47.2mm
+       x2 = 47.2mm
+       ha:flags {
+       }
+       y1 = 98.4mm
+      }
+      ha:line.24235 {
+       clearance = 0.0
+       y2 = 98.4mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 47.2mm
+       x2 = 1.9015748in
+       ha:flags {
+       }
+       y1 = 98.4mm
+      }
+      ha:line.24238 {
+       clearance = 0.0
+       y2 = 94.7mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 47.2mm
+       x2 = 1.9015748in
+       ha:flags {
+       }
+       y1 = 94.7mm
+      }
+      ha:line.24241 {
+       clearance = 0.0
+       y2 = 98.4mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 56.8mm
+       x2 = 55.7mm
+       ha:flags {
+       }
+       y1 = 98.4mm
+      }
+      ha:line.24244 {
+       clearance = 0.0
+       y2 = 94.7mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 56.8mm
+       x2 = 55.7mm
+       ha:flags {
+       }
+       y1 = 94.7mm
+      }
+      ha:line.24247 {
+       clearance = 0.3mm
+       y2 = 92.5mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 49.5mm
+       x2 = 49.5mm
+       ha:flags {
+        clearline = 1
+       }
+       y1 = 93.5mm
+      }
+      ha:line.24250 {
+       clearance = 0.3mm
+       y2 = 92.5mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 49.5mm
+       x2 = 51.5mm
+       ha:flags {
+        clearline = 1
+       }
+       y1 = 92.5mm
+      }
+      ha:line.24253 {
+       clearance = 0.3mm
+       y2 = 93.5mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 51.5mm
+       x2 = 51.5mm
+       ha:flags {
+        clearline = 1
+       }
+       y1 = 92.5mm
+      }
+      ha:text.24256 {
+       scale = 100
+       ha:attributes {
+       }
+       x = 55.1mm
+       y = 93.6mm
+       rot = 180.000000
+       string = %a.parent.refdes%
+       fid = 0
+       ha:flags {
+        dyntext = 1
+        floater = 1
+       }
+      }
+     }
+     ha:combining {
+      auto = 1
+     }
+    }
+    ha:subc-aux {
+     lid = 1
+     ha:type {
+      top = 1
+      misc = 1
+      virtual = 1
+     }
+     li:objects {
+      ha:line.24264 {
+       clearance = 0.0
+       y2 = 96.5mm
+       thickness = 0.1mm
+       ha:attributes {
+        subc-role = origin
+       }
+       x1 = 52.0mm
+       x2 = 52.0mm
+       ha:flags {
+       }
+       y1 = 96.5mm
+      }
+      ha:line.24267 {
+       clearance = 0.0
+       y2 = 96.5mm
+       thickness = 0.1mm
+       ha:attributes {
+        subc-role = x
+       }
+       x1 = 52.0mm
+       x2 = 53.0mm
+       ha:flags {
+       }
+       y1 = 96.5mm
+      }
+      ha:line.24270 {
+       clearance = 0.0
+       y2 = 97.5mm
+       thickness = 0.1mm
+       ha:attributes {
+        subc-role = y
+       }
+       x1 = 52.0mm
+       x2 = 52.0mm
+       ha:flags {
+       }
+       y1 = 96.5mm
+      }
+     }
+     ha:combining {
+     }
+    }
+   }
+  }
+  uid = I2jZgyK6g+BuY6+Okl0AAACg
+  ha:flags {
+  }
+ }
+}

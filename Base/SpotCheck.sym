@@ -1,0 +1,7 @@
+v 20191003 2
+T 0 0 9 10 1 0 0 0 1
+SpotCheck Logo
+T 0 400 8 10 0 1 0 0 1
+footprint=CE
+T 0 300 8 10 1 1 0 0 1
+refdes=LOGO?

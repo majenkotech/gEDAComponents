@@ -44,6 +44,6 @@ value=0.1uF
 T 150 150 5 4 0 1 0 8 1
 footprint=0603CAP100N
 T 300 100 5 8 1 1 0 2 1
-voltage=
+voltage=6.3V
 T 500 5700 5 10 0 0 0 0 1
 documentation=

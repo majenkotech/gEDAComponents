@@ -1,0 +1,35 @@
+
+Element["" "" "" "" 60.2900mm 65.1100mm 0.0000 0.0000 0 100 ""]
+(
+	Pad[2.2500mm -2.4500mm 2.2500mm -1.1500mm 0.3000mm 11.82mil 13.78mil  "" "1" "square"]
+	Pad[2.2500mm 1.1500mm 2.2500mm 2.4500mm 0.3000mm 11.82mil 13.78mil  "" "2" "square,edge2"]
+	Pad[1.7500mm -2.4500mm 1.7500mm -1.1500mm 0.3000mm 11.82mil 13.78mil  "" "3" "square"]
+	Pad[1.7500mm 1.1500mm 1.7500mm 2.4500mm 0.3000mm 11.82mil 13.78mil  "" "4" "square,edge2"]
+	Pad[1.2500mm -2.4500mm 1.2500mm -1.1500mm 0.3000mm 11.82mil 13.78mil  "" "5" "square"]
+	Pad[1.2500mm 1.1500mm 1.2500mm 2.4500mm 0.3000mm 11.82mil 13.78mil  "" "6" "square,edge2"]
+	Pad[0.7500mm -2.4500mm 0.7500mm -1.1500mm 0.3000mm 11.82mil 13.78mil  "" "7" "square"]
+	Pad[0.7500mm 1.1500mm 0.7500mm 2.4500mm 0.3000mm 11.82mil 13.78mil  "" "8" "square,edge2"]
+	Pad[0.2500mm -2.4500mm 0.2500mm -1.1500mm 0.3000mm 11.82mil 13.78mil  "" "9" "square"]
+	Pad[0.2500mm 1.1500mm 0.2500mm 2.4500mm 0.3000mm 11.82mil 13.78mil  "" "10" "square,edge2"]
+	Pad[-0.2500mm -2.4500mm -0.2500mm -1.1500mm 0.3000mm 11.82mil 13.78mil  "" "11" "square"]
+	Pad[-0.2500mm 1.1500mm -0.2500mm 2.4500mm 0.3000mm 11.82mil 13.78mil  "" "12" "square,edge2"]
+	Pad[-0.7500mm -2.4500mm -0.7500mm -1.1500mm 0.3000mm 11.82mil 13.78mil  "" "13" "square"]
+	Pad[-0.7500mm 1.1500mm -0.7500mm 2.4500mm 0.3000mm 11.82mil 13.78mil  "" "14" "square,edge2"]
+	Pad[-1.2500mm -2.4500mm -1.2500mm -1.1500mm 0.3000mm 11.82mil 13.78mil  "" "15" "square"]
+	Pad[-1.2500mm 1.1500mm -1.2500mm 2.4500mm 0.3000mm 11.82mil 13.78mil  "" "16" "square,edge2"]
+	Pad[-1.7500mm -2.4500mm -1.7500mm -1.1500mm 0.3000mm 11.82mil 13.78mil  "" "17" "square"]
+	Pad[-1.7500mm 1.1500mm -1.7500mm 2.4500mm 0.3000mm 11.82mil 13.78mil  "" "18" "square,edge2"]
+	Pad[-2.2500mm -2.4500mm -2.2500mm -1.1500mm 0.3000mm 11.82mil 13.78mil  "" "19" "square"]
+	Pad[-2.2500mm 1.1500mm -2.2500mm 2.4500mm 0.3000mm 11.82mil 13.78mil  "" "20" "square,edge2"]
+
+	Pin[-3.3000mm -1.5000mm 0.7116mm 12.00mil 0.6140mm 0.6100mm "" "H" "edge2"]
+	Pin[3.3000mm -1.5000mm 0.7116mm 12.00mil 0.6140mm 0.6100mm "" "H" "edge2"]
+
+	ElementLine [3.6800mm -1.9800mm 3.6800mm 1.9800mm 5.91mil]
+	ElementLine [-3.6800mm 1.9800mm -3.6800mm -1.9800mm 5.91mil]
+	ElementLine [-3.6800mm -1.9800mm -2.4800mm -1.9800mm 5.91mil]
+	ElementLine [-3.6800mm 1.9800mm -2.4800mm 1.9800mm 5.91mil]
+	ElementLine [3.6800mm 1.9800mm 2.4800mm 1.9800mm 5.91mil]
+	ElementLine [3.6800mm -1.9800mm 2.4800mm -1.9800mm 5.91mil]
+
+)
