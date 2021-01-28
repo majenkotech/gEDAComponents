@@ -1,0 +1,221 @@
+v 20150930 2
+B 400 300 1900 1900 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+P 100 1700 400 1700 1 0 0
+{
+T 200 1750 5 10 0 0 0 0 1
+pintype=unknown
+T 458 1692 9 8 1 1 0 1 1
+pinlabel=RST
+T 308 1742 5 4 1 1 0 6 1
+pinnumber=1
+
+}
+P 100 1500 400 1500 1 0 0
+{
+T 200 1550 5 10 0 0 0 0 1
+pintype=unknown
+T 458 1492 9 8 1 1 0 1 1
+pinlabel=TxLED
+T 308 1542 5 4 1 1 0 6 1
+pinnumber=2
+
+}
+P 100 1300 400 1300 1 0 0
+{
+T 200 1350 5 10 0 0 0 0 1
+pintype=unknown
+T 458 1292 9 8 1 1 0 1 1
+pinlabel=RxLED
+T 308 1342 5 4 1 1 0 6 1
+pinnumber=3
+
+}
+P 100 1100 400 1100 1 0 0
+{
+T 200 1150 5 10 0 0 0 0 1
+pintype=unknown
+T 458 1092 9 8 1 1 0 1 1
+pinlabel=GP5
+T 308 1142 5 4 1 1 0 6 1
+pinnumber=4
+
+}
+P 100 900 400 900 1 0 0
+{
+T 200 950 5 10 0 0 0 0 1
+pintype=unknown
+T 458 892 9 8 1 1 0 1 1
+pinlabel=GP4
+T 308 942 5 4 1 1 0 6 1
+pinnumber=5
+
+}
+P 1000 0 1000 300 1 0 0
+{
+T 950 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1008 358 9 8 1 1 90 1 1
+pinlabel=GP3
+T 958 208 5 4 1 1 90 6 1
+pinnumber=6
+
+}
+P 1200 0 1200 300 1 0 0
+{
+T 1150 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1208 358 9 8 1 1 90 1 1
+pinlabel=TX
+T 1158 208 5 4 1 1 90 6 1
+pinnumber=7
+
+}
+P 1400 0 1400 300 1 0 0
+{
+T 1350 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1408 358 9 8 1 1 90 1 1
+pinlabel=RTS
+T 1358 208 5 4 1 1 90 6 1
+pinnumber=8
+
+}
+P 1600 0 1600 300 1 0 0
+{
+T 1550 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1608 358 9 8 1 1 90 1 1
+pinlabel=RX
+T 1558 208 5 4 1 1 90 6 1
+pinnumber=9
+
+}
+P 1800 0 1800 300 1 0 0
+{
+T 1750 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1808 358 9 8 1 1 90 1 1
+pinlabel=CTS
+T 1758 208 5 4 1 1 90 6 1
+pinnumber=10
+
+}
+P 2600 900 2300 900 1 0 0
+{
+T 2500 950 5 10 0 0 0 6 1
+pintype=unknown
+T 2242 892 9 8 1 1 0 7 1
+pinlabel=GP2
+T 2392 942 5 4 1 1 0 0 1
+pinnumber=11
+
+}
+P 2600 1100 2300 1100 1 0 0
+{
+T 2500 1150 5 10 0 0 0 6 1
+pintype=unknown
+T 2242 1092 9 8 1 1 0 7 1
+pinlabel=GP1
+T 2392 1142 5 4 1 1 0 0 1
+pinnumber=12
+
+}
+P 2600 1300 2300 1300 1 0 0
+{
+T 2500 1350 5 10 0 0 0 6 1
+pintype=unknown
+T 2242 1292 9 8 1 1 0 7 1
+pinlabel=GP0
+T 2392 1342 5 4 1 1 0 0 1
+pinnumber=13
+
+}
+P 2600 1500 2300 1500 1 0 0
+{
+T 2500 1550 5 10 0 0 0 6 1
+pintype=unknown
+T 2242 1492 9 8 1 1 0 7 1
+pinlabel=VUSB
+T 2392 1542 5 4 1 1 0 0 1
+pinnumber=14
+
+}
+P 2600 1700 2300 1700 1 0 0
+{
+T 2500 1750 5 10 0 0 0 6 1
+pintype=unknown
+T 2242 1692 9 8 1 1 0 7 1
+pinlabel=D-
+T 2392 1742 5 4 1 1 0 0 1
+pinnumber=15
+
+}
+P 1800 2500 1800 2200 1 0 0
+{
+T 1750 2400 5 10 0 0 270 2 1
+pintype=unknown
+T 1808 2158 9 8 1 1 90 7 1
+pinlabel=D+
+T 1742 2308 5 4 1 1 90 0 1
+pinnumber=16
+
+}
+P 1600 2500 1600 2200 1 0 0
+{
+T 1550 2400 5 10 0 0 270 2 1
+pintype=unknown
+T 1608 2158 9 8 1 1 90 7 1
+pinlabel=VSS
+T 1542 2308 5 4 1 1 90 0 1
+pinnumber=17
+
+}
+P 1400 2500 1400 2200 1 0 0
+{
+T 1350 2400 5 10 0 0 270 2 1
+pintype=unknown
+T 1408 2158 9 8 1 1 90 7 1
+pinlabel=VDD
+T 1342 2308 5 4 1 1 90 0 1
+pinnumber=18
+
+}
+P 1200 2500 1200 2200 1 0 0
+{
+T 1150 2400 5 10 0 0 270 2 1
+pintype=unknown
+T 1208 2158 9 8 1 1 90 7 1
+pinlabel=OSC1
+T 1142 2308 5 4 1 1 90 0 1
+pinnumber=19
+
+}
+P 1000 2500 1000 2200 1 0 0
+{
+T 950 2400 5 10 0 0 270 2 1
+pintype=unknown
+T 1008 2158 9 8 1 1 90 7 1
+pinlabel=OSC2
+T 942 2308 5 4 1 1 90 0 1
+pinnumber=20
+
+}
+L 400 1800 900 2200 3 10 1 0 -1 -1
+T 800 2300 8 10 1 1 0 6 1
+device=MCP2200
+T 2000 2300 8 10 1 1 0 0 1
+refdes=U?
+T 1400 5000 8 10 0 0 0 0 1
+vendor=Farnell
+T 1400 4800 8 10 0 0 0 0 1
+vendor_part_number=2456842
+T 1400 4600 8 10 0 0 0 0 1
+manufacturer=MICROCHIP
+T 1400 4400 8 10 0 0 0 0 1
+manufacturer_part_number=DSPIC33EV256GM106-I/MR
+T 1400 4200 8 10 0 0 0 0 1
+description=Digital Signal Controller, dsPIC33EV Series, 70 MHz, 256 KB, 53 I/O's, CAN, I2C, SPI, UART, 1.8 V
+T 1400 4000 8 10 0 0 0 0 1
+footprint=DSPIC33EV256GM106-I-MR
+T 1400 3800 8 10 0 0 0 0 1
+value=na

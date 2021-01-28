@@ -1,5 +1,5 @@
-li:pcb-rnd-subcircuit-v6 {
- ha:subc.609 {
+li:pcb-rnd-subcircuit-v7 {
+ ha:subc.691 {
   ha:attributes {
    refdes = U0
   }
@@ -31,14 +31,14 @@ li:pcb-rnd-subcircuit-v6 {
       ha:ps_shape_v4 {
        clearance = 0.0
        li:ps_poly {
-        0.403479mm
-        -0.528447mm
-        -0.403479mm
-        -0.528447mm
-        -0.403479mm
-        0.528447mm
-        0.403479mm
-        0.528447mm
+        0.524904mm
+        -0.649872mm
+        -0.524904mm
+        -0.649872mm
+        -0.524904mm
+        0.649872mm
+        0.524904mm
+        0.649872mm
        }
        ha:layer_mask {
         top = 1
@@ -75,39 +75,39 @@ li:pcb-rnd-subcircuit-v6 {
     }
    }
    li:objects {
-    ha:padstack_ref.632 {
+    ha:padstack_ref.714 {
      smirror = 0
      ha:attributes {
       term = 1
      }
      proto = 0
      xmirror = 0
-     x = 47.350014mm
+     x = 1.60441in
      rot = 0.000000
-     y = 69.75mm
+     y = 1.13in
      li:thermal {
      }
      ha:flags {
       clearline = 1
      }
-     clearance = 0.14mm
+     clearance = 0.3mm
     }
-    ha:padstack_ref.633 {
+    ha:padstack_ref.715 {
      smirror = 0
      ha:attributes {
       term = 2
      }
      proto = 0
      xmirror = 0
-     x = 48.649986mm
+     x = 42.051986mm
      rot = 0.000000
-     y = 69.75mm
+     y = 1.13in
      li:thermal {
      }
      ha:flags {
       clearline = 1
      }
-     clearance = 0.14mm
+     clearance = 0.3mm
     }
    }
    li:layers {
@@ -118,64 +118,64 @@ li:pcb-rnd-subcircuit-v6 {
       top = 1
      }
      li:objects {
-      ha:line.610 {
+      ha:line.692 {
        clearance = 0.3mm
-       y2 = 69.0mm
+       y2 = 27.952mm
        thickness = 0.15mm
        ha:attributes {
        }
-       x1 = 46.75mm
-       x2 = 49.25mm
+       x1 = 40.152mm
+       x2 = 42.652mm
        ha:flags {
         clearline = 1
        }
-       y1 = 69.0mm
+       y1 = 27.952mm
       }
-      ha:line.613 {
+      ha:line.695 {
        clearance = 0.3mm
-       y2 = 70.5mm
+       y2 = 29.452mm
        thickness = 0.15mm
        ha:attributes {
        }
-       x1 = 49.25mm
-       x2 = 49.25mm
+       x1 = 42.652mm
+       x2 = 42.652mm
        ha:flags {
         clearline = 1
        }
-       y1 = 69.0mm
+       y1 = 27.952mm
       }
-      ha:line.616 {
+      ha:line.698 {
        clearance = 0.3mm
-       y2 = 70.5mm
+       y2 = 29.452mm
        thickness = 0.15mm
        ha:attributes {
        }
-       x1 = 49.25mm
-       x2 = 46.75mm
+       x1 = 42.652mm
+       x2 = 40.152mm
        ha:flags {
         clearline = 1
        }
-       y1 = 70.5mm
+       y1 = 29.452mm
       }
-      ha:line.619 {
+      ha:line.701 {
        clearance = 0.3mm
-       y2 = 69.0mm
+       y2 = 27.952mm
        thickness = 0.15mm
        ha:attributes {
        }
-       x1 = 46.75mm
-       x2 = 46.75mm
+       x1 = 40.152mm
+       x2 = 40.152mm
        ha:flags {
         clearline = 1
        }
-       y1 = 70.5mm
+       y1 = 29.452mm
       }
-      ha:text.622 {
+      ha:text.704 {
        scale = 64
        ha:attributes {
        }
-       x = 1.9507874in
-       y = 69.3mm
+       x = 42.952mm
+       y = 28.252mm
        rot = 0.000000
        string = %a.parent.refdes%
        fid = 0
@@ -197,44 +197,44 @@ li:pcb-rnd-subcircuit-v6 {
       virtual = 1
      }
      li:objects {
-      ha:line.623 {
+      ha:line.705 {
        clearance = 0.0
-       y2 = 69.75mm
+       y2 = 1.13in
        thickness = 0.1mm
        ha:attributes {
         subc-role = origin
        }
-       x1 = 48.0mm
-       x2 = 48.0mm
+       x1 = 1.63in
+       x2 = 1.63in
        ha:flags {
        }
-       y1 = 69.75mm
+       y1 = 1.13in
       }
-      ha:line.626 {
+      ha:line.708 {
        clearance = 0.0
-       y2 = 69.75mm
+       y2 = 1.13in
        thickness = 0.1mm
        ha:attributes {
         subc-role = x
        }
-       x1 = 48.0mm
-       x2 = 49.0mm
+       x1 = 1.63in
+       x2 = 42.402mm
        ha:flags {
        }
-       y1 = 69.75mm
+       y1 = 1.13in
       }
-      ha:line.629 {
+      ha:line.711 {
        clearance = 0.0
-       y2 = 70.75mm
+       y2 = 29.702mm
        thickness = 0.1mm
        ha:attributes {
         subc-role = y
        }
-       x1 = 48.0mm
-       x2 = 48.0mm
+       x1 = 1.63in
+       x2 = 1.63in
        ha:flags {
        }
-       y1 = 69.75mm
+       y1 = 1.13in
       }
      }
      ha:combining {
@@ -245,5 +245,7 @@ li:pcb-rnd-subcircuit-v6 {
   uid = UoxCnhNoALKaoELuyLEAAAAS
   ha:flags {
   }
+ }
+ ha:pixmaps {
  }
 }

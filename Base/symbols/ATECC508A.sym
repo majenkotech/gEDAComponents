@@ -1,0 +1,58 @@
+v 20150930 2
+B 400 0 1000 1200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+P 100 300 400 300 1 0 0
+{
+T 200 350 5 10 0 0 0 0 1
+pintype=unknown
+T 455 295 9 10 1 1 0 0 1
+pinlabel=GND
+T 305 345 5 10 1 1 0 6 1
+pinnumber=4
+
+}
+P 1700 900 1400 900 1 0 0
+{
+T 1600 950 5 10 0 0 0 6 1
+pintype=unknown
+
+T 1345 895 9 10 1 1 0 6 1
+pinlabel=VCC
+T 1495 945 5 10 1 1 0 0 1
+pinnumber=8
+}
+P 1700 500 1400 500 1 0 0
+{
+T 1600 550 5 10 0 0 0 6 1
+pintype=unknown
+
+T 1345 495 9 10 1 1 0 6 1
+pinlabel=SCL
+T 1495 545 5 10 1 1 0 0 1
+pinnumber=6
+}
+P 1700 300 1400 300 1 0 0
+{
+T 1600 350 5 10 0 0 0 6 1
+pintype=unknown
+
+T 1345 295 9 10 1 1 0 6 1
+pinlabel=SDA
+T 1495 345 5 10 1 1 0 0 1
+pinnumber=5
+}
+T 1100 1300 8 10 1 1 0 0 1
+refdes=U?
+T 1000 1300 8 10 1 1 0 6 1
+device=ATECC508A
+T 1000 2400 8 10 0 0 0 0 1
+vendor=unknown
+T 1000 2200 8 10 0 0 0 0 1
+vendor_part_number=unknown
+T 1000 2000 8 10 0 0 0 0 1
+manufacturer=unknown
+T 1000 1800 8 10 0 0 0 0 1
+manufacturer_part_number=unknown
+T 1000 1600 8 10 0 0 0 0 1
+description=unknown
+T 1000 2600 8 10 0 0 0 0 1
+footprint=unknown

@@ -81,7 +81,7 @@ refdes=RP?
 T 100 -1200 8 10 0 1 0 0 1
 footprint=CAY16-330J4LF
 T 300 1300 8 10 1 1 0 0 1
-value=33Ω
+value=33R
 T 850 100 8 4 1 1 0 5 1
 device=CAY16-330J4LF
 T 100 2400 8 10 0 0 0 0 1

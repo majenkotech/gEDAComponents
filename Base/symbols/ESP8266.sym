@@ -1,0 +1,351 @@
+v 20150930 2
+P 0 2700 300 2700 1 0 0
+{
+T 100 2750 5 10 0 0 0 0 1
+pintype=unknown
+T 358 2692 9 8 1 1 0 1 1
+pinlabel=VDDA
+T 208 2742 5 4 1 1 0 6 1
+pinnumber=1
+
+}
+P 0 2500 300 2500 1 0 0
+{
+T 100 2550 5 10 0 0 0 0 1
+pintype=unknown
+T 358 2492 9 8 1 1 0 1 1
+pinlabel=LNA
+T 208 2542 5 4 1 1 0 6 1
+pinnumber=2
+
+}
+P 0 2300 300 2300 1 0 0
+{
+T 100 2350 5 10 0 0 0 0 1
+pintype=unknown
+T 358 2292 9 8 1 1 0 1 1
+pinlabel=VDD3P3
+T 208 2342 5 4 1 1 0 6 1
+pinnumber=3
+
+}
+P 0 2100 300 2100 1 0 0
+{
+T 100 2150 5 10 0 0 0 0 1
+pintype=unknown
+T 358 2092 9 8 1 1 0 1 1
+pinlabel=VDD3P3
+T 208 2142 5 4 1 1 0 6 1
+pinnumber=4
+
+}
+P 0 1900 300 1900 1 0 0
+{
+T 100 1950 5 10 0 0 0 0 1
+pintype=unknown
+T 358 1892 9 8 1 1 0 1 1
+pinlabel=VDD_RTC
+T 208 1942 5 4 1 1 0 6 1
+pinnumber=5
+
+}
+P 0 1700 300 1700 1 0 0
+{
+T 100 1750 5 10 0 0 0 0 1
+pintype=unknown
+T 358 1692 9 8 1 1 0 1 1
+pinlabel=TOUT
+T 208 1742 5 4 1 1 0 6 1
+pinnumber=6
+
+}
+P 0 1500 300 1500 1 0 0
+{
+T 100 1550 5 10 0 0 0 0 1
+pintype=unknown
+T 358 1492 9 8 1 1 0 1 1
+pinlabel=CHIP_EN
+T 208 1542 5 4 1 1 0 6 1
+pinnumber=7
+
+}
+P 0 1300 300 1300 1 0 0
+{
+T 100 1350 5 10 0 0 0 0 1
+pintype=unknown
+T 358 1292 9 8 1 1 0 1 1
+pinlabel=XPD_DCDC/16
+T 208 1342 5 4 1 1 0 6 1
+pinnumber=8
+
+}
+P 1300 0 1300 300 1 0 0
+{
+T 1250 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1300 358 9 8 1 1 90 1 1
+pinlabel=MTMS/14
+T 1250 208 5 4 1 1 90 6 1
+pinnumber=9
+
+}
+P 1500 0 1500 300 1 0 0
+{
+T 1450 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1500 358 9 8 1 1 90 1 1
+pinlabel=MTDI/12
+T 1450 208 5 4 1 1 90 6 1
+pinnumber=10
+
+}
+P 1700 0 1700 300 1 0 0
+{
+T 1650 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1700 358 9 8 1 1 90 1 1
+pinlabel=VDDPST
+T 1650 208 5 4 1 1 90 6 1
+pinnumber=11
+
+}
+P 1900 0 1900 300 1 0 0
+{
+T 1850 100 5 10 0 0 90 0 1
+pintype=unknown
+T 1900 358 9 8 1 1 90 1 1
+pinlabel=MTCK/13
+T 1850 208 5 4 1 1 90 6 1
+pinnumber=12
+
+}
+P 2100 0 2100 300 1 0 0
+{
+T 2050 100 5 10 0 0 90 0 1
+pintype=unknown
+
+T 2100 358 9 8 1 1 90 1 1
+pinlabel=MTDO15
+T 2050 208 5 4 1 1 90 6 1
+pinnumber=13
+}
+P 2300 0 2300 300 1 0 0
+{
+T 2250 100 5 10 0 0 90 0 1
+pintype=unknown
+
+T 2300 358 9 8 1 1 90 1 1
+pinlabel=GPIO2
+T 2250 208 5 4 1 1 90 6 1
+pinnumber=14
+}
+P 2500 0 2500 300 1 0 0
+{
+T 2450 100 5 10 0 0 90 0 1
+pintype=unknown
+
+T 2500 358 9 8 1 1 90 1 1
+pinlabel=GPIO0
+T 2450 208 5 4 1 1 90 6 1
+pinnumber=15
+}
+P 2700 0 2700 300 1 0 0
+{
+T 2650 100 5 10 0 0 90 0 1
+pintype=unknown
+
+T 2700 358 9 8 1 1 90 1 1
+pinlabel=GPIO4
+T 2650 208 5 4 1 1 90 6 1
+pinnumber=16
+}
+P 4000 1300 3700 1300 1 0 0
+{
+T 3900 1350 5 10 0 0 0 6 1
+pintype=unknown
+T 3642 1292 9 8 1 1 0 7 1
+pinlabel=VDDPST
+T 3792 1342 5 4 1 1 0 0 1
+pinnumber=17
+
+}
+P 4000 1500 3700 1500 1 0 0
+{
+T 3900 1550 5 10 0 0 0 6 1
+pintype=unknown
+T 3642 1492 9 8 1 1 0 7 1
+pinlabel=SD_DATA_2
+T 3792 1542 5 4 1 1 0 0 1
+pinnumber=18
+
+}
+P 4000 1700 3700 1700 1 0 0
+{
+T 3900 1750 5 10 0 0 0 6 1
+pintype=unknown
+T 3642 1692 9 8 1 1 0 7 1
+pinlabel=SD_DATA_3
+T 3792 1742 5 4 1 1 0 0 1
+pinnumber=19
+
+}
+P 4000 1900 3700 1900 1 0 0
+{
+T 3900 1950 5 10 0 0 0 6 1
+pintype=unknown
+T 3642 1892 9 8 1 1 0 7 1
+pinlabel=SD_CMD
+T 3792 1942 5 4 1 1 0 0 1
+pinnumber=20
+
+}
+P 4000 2100 3700 2100 1 0 0
+{
+T 3900 2150 5 10 0 0 0 6 1
+pintype=unknown
+T 3642 2092 9 8 1 1 0 7 1
+pinlabel=SD_CLK
+T 3792 2142 5 4 1 1 0 0 1
+pinnumber=21
+
+}
+P 4000 2300 3700 2300 1 0 0
+{
+T 3900 2350 5 10 0 0 0 6 1
+pintype=unknown
+T 3642 2292 9 8 1 1 0 7 1
+pinlabel=SD_DATA_0
+T 3792 2342 5 4 1 1 0 0 1
+pinnumber=22
+
+}
+P 4000 2500 3700 2500 1 0 0
+{
+T 3900 2550 5 10 0 0 0 6 1
+pintype=unknown
+T 3642 2492 9 8 1 1 0 7 1
+pinlabel=SD_DATA_1
+T 3792 2542 5 4 1 1 0 0 1
+pinnumber=23
+
+}
+P 4000 2700 3700 2700 1 0 0
+{
+T 3900 2750 5 10 0 0 0 6 1
+pintype=unknown
+T 3642 2692 9 8 1 1 0 7 1
+pinlabel=GPIO5
+T 3792 2742 5 4 1 1 0 0 1
+pinnumber=24
+
+}
+P 2700 4000 2700 3700 1 0 0
+{
+T 2650 3900 5 10 0 0 90 6 1
+pintype=unknown
+T 2700 3642 9 8 1 1 90 7 1
+pinlabel=U0RXD
+T 2650 3792 5 4 1 1 90 0 1
+pinnumber=25
+
+}
+P 2500 4000 2500 3700 1 0 0
+{
+T 2450 3900 5 10 0 0 90 6 1
+pintype=unknown
+T 2500 3642 9 8 1 1 90 7 1
+pinlabel=O0TXD
+T 2450 3792 5 4 1 1 90 0 1
+pinnumber=26
+
+}
+P 2300 4000 2300 3700 1 0 0
+{
+T 2250 3900 5 10 0 0 90 6 1
+pintype=unknown
+T 2300 3642 9 8 1 1 90 7 1
+pinlabel=XTAL_OUT
+T 2250 3792 5 4 1 1 90 0 1
+pinnumber=27
+
+}
+P 2100 4000 2100 3700 1 0 0
+{
+T 2050 3900 5 10 0 0 90 6 1
+pintype=unknown
+T 2100 3642 9 8 1 1 90 7 1
+pinlabel=XTAL_IN
+T 2050 3792 5 4 1 1 90 0 1
+pinnumber=28
+
+}
+P 1900 4000 1900 3700 1 0 0
+{
+T 1850 3900 5 10 0 0 90 6 1
+pintype=unknown
+T 1900 3642 9 8 1 1 90 7 1
+pinlabel=VDDD
+T 1850 3792 5 4 1 1 90 0 1
+pinnumber=29
+
+}
+P 1700 4000 1700 3700 1 0 0
+{
+T 1650 3900 5 10 0 0 90 6 1
+pintype=unknown
+T 1700 3642 9 8 1 1 90 7 1
+pinlabel=VDDA
+T 1650 3792 5 4 1 1 90 0 1
+pinnumber=30
+
+}
+P 1500 4000 1500 3700 1 0 0
+{
+T 1450 3900 5 10 0 0 90 6 1
+pintype=unknown
+T 1500 3642 9 8 1 1 90 7 1
+pinlabel=RES12K
+T 1450 3792 5 4 1 1 90 0 1
+pinnumber=31
+
+}
+P 1300 4000 1300 3700 1 0 0
+{
+T 1250 3900 5 10 0 0 90 6 1
+pintype=unknown
+T 1300 3642 9 8 1 1 90 7 1
+pinlabel=EXT_RSTB
+T 1250 3792 5 4 1 1 90 0 1
+pinnumber=32
+
+}
+P 3200 0 3200 300 1 0 0
+{
+T 3150 100 5 10 0 0 90 0 1
+pintype=GND
+T 3200 358 9 10 1 1 90 0 1
+pinlabel=GND
+T 3150 208 5 4 1 1 90 6 1
+pinnumber=EP
+
+}
+B 300 300 3400 3400 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+L 300 3200 800 3700 3 10 1 0 -1 -1
+T 3100 3800 8 10 1 1 0 0 1
+refdes=U?
+T 2000 2000 8 10 1 1 0 4 1
+device=ESP8266EX
+T 2900 7500 8 10 0 0 0 0 1
+vendor=Mouser
+T 2900 7300 8 10 0 0 0 0 1
+vendor_part_number=356-ESP8266EX
+T 2900 7100 8 10 0 0 0 0 1
+manufacturer=Espressif Systems
+T 2900 6900 8 10 0 0 0 0 1
+manufacturer_part_number=ESP8266EX
+T 2900 6700 8 10 0 0 0 0 1
+value=NA
+T 2900 6500 8 10 0 0 0 0 1
+description=Rf System On A Chip - Soc Smd Ic Esp8266ex, Qfn32-pin, 5x5mm
+T 2900 6300 8 10 0 0 0 0 1
+footprint=ESP8266EX

@@ -1,0 +1,359 @@
+v 20200319 2
+B 300 300 3000 2900 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 2600 300 2600 1 0 0
+{
+T 0 2600 5 10 0 0 0 0 1
+pintype=unknown
+T 350 2600 5 8 1 1 0 1 1
+pinlabel=RB0
+T 205 2645 5 4 1 1 0 6 1
+pinnumber=1
+
+T 350 2525 5 2 1 1 0 1 1
+graphical=PGED1/AN2/C2IN-/RP0/CN4
+}
+P 0 2300 300 2300 1 0 0
+{
+T 0 2300 5 10 0 0 0 0 1
+pintype=unknown
+T 350 2300 5 8 1 1 0 1 1
+pinlabel=RB1
+T 205 2345 5 4 1 1 0 6 1
+pinnumber=2
+
+T 350 2225 5 2 1 1 0 1 1
+graphical=PGEC1/AN3/C2IN+/RP1/CN5
+}
+P 0 2000 300 2000 1 0 0
+{
+T 0 2000 5 10 0 0 0 0 1
+pintype=unknown
+T 350 2000 5 8 1 1 0 1 1
+pinlabel=RB2
+T 205 2045 5 4 1 1 0 6 1
+pinnumber=3
+
+T 350 1925 5 2 1 1 0 1 1
+graphical=AN4/C1IN-/RP2/CN6
+}
+P 0 1700 300 1700 1 0 0
+{
+T 0 1700 5 10 0 0 0 0 1
+pintype=unknown
+T 350 1700 5 8 1 1 0 1 1
+pinlabel=RB3
+T 205 1745 5 4 1 1 0 6 1
+pinnumber=4
+
+T 350 1625 5 2 1 1 0 1 1
+graphical=AN5/C1IN+/RP3/CN7
+}
+P 0 1400 300 1400 1 0 0
+{
+T 0 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 350 1400 5 8 1 1 0 1 1
+pinlabel=VSS
+T 205 1445 5 4 1 1 0 6 1
+pinnumber=5
+
+}
+P 0 1100 300 1100 1 0 0
+{
+T 0 1100 5 10 0 0 0 0 1
+pintype=unknown
+T 350 1100 5 8 1 1 0 1 1
+pinlabel=RA2
+T 205 1145 5 4 1 1 0 6 1
+pinnumber=6
+
+T 350 1025 5 2 1 1 0 1 1
+graphical=OSC1/CLKI/CN30
+}
+P 0 800 300 800 1 0 0
+{
+T 0 800 5 10 0 0 0 0 1
+pintype=unknown
+T 350 800 5 8 1 1 0 1 1
+pinlabel=RA3
+T 205 845 5 4 1 1 0 6 1
+pinnumber=7
+
+T 350 725 5 2 1 1 0 1 1
+graphical=OSC2/CLKO/CN29/PMA0
+}
+P 900 0 900 300 1 0 0
+{
+T 900 0 5 10 0 0 90 0 1
+pintype=unknown
+
+T 900 350 5 8 1 1 90 1 1
+pinlabel=RB4
+T 850 205 5 4 1 1 90 6 1
+pinnumber=8
+T 975 350 5 2 1 1 90 1 1
+graphical=SOSCI/RP4/CN1/PMBE
+}
+P 1200 0 1200 300 1 0 0
+{
+T 1200 0 5 10 0 0 90 0 1
+pintype=unknown
+
+T 1200 350 5 8 1 1 90 1 1
+pinlabel=RA4
+T 1150 205 5 4 1 1 90 6 1
+pinnumber=9
+T 1275 350 5 2 1 1 90 1 1
+graphical=SOSCO/T1CK/CN0/PMA1
+}
+P 1500 0 1500 300 1 0 0
+{
+T 1500 0 5 10 0 0 90 0 1
+pintype=unknown
+
+T 1500 350 5 8 1 1 90 1 1
+pinlabel=VDD
+T 1450 205 5 4 1 1 90 6 1
+pinnumber=10
+}
+P 1800 0 1800 300 1 0 0
+{
+T 1800 0 5 10 0 0 90 0 1
+pintype=unknown
+
+T 1800 350 5 8 1 1 90 1 1
+pinlabel=RB5
+T 1750 205 5 4 1 1 90 6 1
+pinnumber=11
+T 1875 350 5 2 1 1 90 1 1
+graphical=PGED3/ASDA1/RP5/CN27/PMD7
+}
+P 2100 0 2100 300 1 0 0
+{
+T 2100 0 5 10 0 0 90 0 1
+pintype=unknown
+
+T 2100 350 5 8 1 1 90 1 1
+pinlabel=RB6
+T 2050 205 5 4 1 1 90 6 1
+pinnumber=12
+T 2175 350 5 2 1 1 90 1 1
+graphical=PGEC3/ASCL1/RP6/CN24/PMD6
+}
+P 2400 0 2400 300 1 0 0
+{
+T 2400 0 5 10 0 0 90 0 1
+pintype=unknown
+
+T 2400 350 5 8 1 1 90 1 1
+pinlabel=RB7
+T 2350 205 5 4 1 1 90 6 1
+pinnumber=13
+T 2475 350 5 2 1 1 90 1 1
+graphical=INT0/RP7/CN23/PMD5
+}
+P 2700 0 2700 300 1 0 0
+{
+T 2700 0 5 10 0 0 90 0 1
+pintype=unknown
+
+T 2700 350 5 8 1 1 90 1 1
+pinlabel=RB8
+T 2650 205 5 4 1 1 90 6 1
+pinnumber=14
+T 2775 350 5 2 1 1 90 1 1
+graphical=TCK/SCL1/RP8/CN22/PMD4
+}
+P 3600 800 3300 800 1 0 0
+{
+T 3600 800 5 10 0 0 180 0 1
+pintype=unknown
+
+T 3250 800 5 8 1 1 0 7 1
+pinlabel=RB9
+T 3395 845 5 4 1 1 0 0 1
+pinnumber=15
+T 3250 750 5 2 1 1 0 8 1
+graphical=TDO/SDA1/RP9/CN21/PMD3
+}
+P 3600 1100 3300 1100 1 0 0
+{
+T 3600 1100 5 10 0 0 180 0 1
+pintype=unknown
+
+T 3250 1100 5 8 1 1 0 7 1
+pinlabel=VSS
+T 3395 1145 5 4 1 1 0 0 1
+pinnumber=16
+}
+P 3600 1400 3300 1400 1 0 0
+{
+T 3600 1400 5 10 0 0 180 0 1
+pintype=unknown
+
+T 3250 1400 5 8 1 1 0 7 1
+pinlabel=VCAP
+T 3395 1445 5 4 1 1 0 0 1
+pinnumber=17
+}
+P 3600 1700 3300 1700 1 0 0
+{
+T 3600 1700 5 10 0 0 180 0 1
+pintype=unknown
+
+T 3250 1700 5 8 1 1 0 7 1
+pinlabel=RB10
+T 3395 1745 5 4 1 1 0 0 1
+pinnumber=18
+T 3250 1625 5 2 1 1 0 7 1
+graphical=PGED2/TDI/RP10/CN16/PMD2
+}
+P 3600 2000 3300 2000 1 0 0
+{
+T 3600 2000 5 10 0 0 180 0 1
+pintype=unknown
+
+T 3250 2000 5 8 1 1 0 7 1
+pinlabel=RB11
+T 3395 2045 5 4 1 1 0 0 1
+pinnumber=19
+T 3250 1925 5 2 1 1 0 7 1
+graphical=PGEC2/TMS/RP11/CN15/PMD1
+}
+P 3600 2300 3300 2300 1 0 0
+{
+T 3600 2300 5 10 0 0 180 0 1
+pintype=unknown
+
+T 3250 2300 5 8 1 1 0 7 1
+pinlabel=RB12
+T 3395 2345 5 4 1 1 0 0 1
+pinnumber=20
+T 3250 2225 5 2 1 1 0 7 1
+graphical=AN12/DAC1RP/RP12/CN14/PMD0
+}
+P 3600 2600 3300 2600 1 0 0
+{
+T 3600 2600 5 10 0 0 180 0 1
+pintype=unknown
+
+T 3250 2600 5 8 1 1 0 7 1
+pinlabel=RB13
+T 3395 2645 5 4 1 1 0 0 1
+pinnumber=21
+T 3250 2525 5 2 1 1 0 7 1
+graphical=AN11/DAC1RN/RP13/CN13/PMRD
+}
+P 2700 3500 2700 3200 1 0 0
+{
+T 2700 3500 5 10 0 0 270 0 1
+pintype=unknown
+
+T 2700 3150 5 8 1 1 90 7 1
+pinlabel=RB14
+T 2650 3295 5 4 1 1 90 0 1
+pinnumber=22
+T 2775 3150 5 2 1 1 90 7 1
+graphical=AN10/DAC1LP/RTCC/RP14/CN12/PMWR
+}
+P 2400 3500 2400 3200 1 0 0
+{
+T 2400 3500 5 10 0 0 270 0 1
+pintype=unknown
+
+T 2400 3150 5 8 1 1 90 7 1
+pinlabel=RB15
+T 2350 3295 5 4 1 1 90 0 1
+pinnumber=23
+T 2475 3150 5 2 1 1 90 7 1
+graphical=AN9/DAC1LN/RP15/CN11/PMCS1
+}
+P 2100 3500 2100 3200 1 0 0
+{
+T 2100 3500 5 10 0 0 270 0 1
+pintype=unknown
+
+T 2100 3150 5 8 1 1 90 7 1
+pinlabel=AVSS
+T 2050 3295 5 4 1 1 90 0 1
+pinnumber=24
+}
+P 1800 3500 1800 3200 1 0 0
+{
+T 1800 3500 5 10 0 0 270 0 1
+pintype=unknown
+
+T 1800 3150 5 8 1 1 90 7 1
+pinlabel=AVDD
+T 1750 3295 5 4 1 1 90 0 1
+pinnumber=25
+}
+P 1500 3500 1500 3200 1 0 0
+{
+T 1500 3500 5 10 0 0 270 0 1
+pintype=unknown
+
+T 1500 3150 5 8 1 1 90 7 1
+pinlabel=\_MCLR\_
+T 1450 3295 5 4 1 1 90 0 1
+pinnumber=26
+}
+P 1200 3500 1200 3200 1 0 0
+{
+T 1200 3500 5 10 0 0 270 0 1
+pintype=unknown
+
+T 1200 3150 5 8 1 1 90 7 1
+pinlabel=RA0
+T 1150 3295 5 4 1 1 90 0 1
+pinnumber=27
+T 1275 3150 5 2 1 1 90 7 1
+graphical=AN0/VREF+/CN2
+}
+P 900 3500 900 3200 1 0 0
+{
+T 900 3500 5 10 0 0 270 0 1
+pintype=unknown
+
+T 900 3150 5 8 1 1 90 7 1
+pinlabel=RA1
+T 850 3295 5 4 1 1 90 0 1
+pinnumber=28
+T 975 3150 5 2 1 1 90 7 1
+graphical=AN1/VREF-/CN3
+}
+L 300 3000 500 3200 3 0 0 0 -1 -1
+T 1000 1700 8 10 1 1 0 0 1
+device=dsPIC33FJ128GP802
+T 3000 3300 8 10 1 1 0 0 1
+refdes=U?
+T 1000 5400 5 10 0 0 0 0 1
+vendor=Farnell
+T 1000 5200 5 10 0 0 0 0 1
+vendor_part_number=2456847
+T 1000 5000 5 10 0 0 0 0 1
+manufacturer=MICROCHIP
+T 1000 4800 5 10 0 0 0 0 1
+manufacturer_part_number=PIC32MX270F256B-I/ML
+T 1000 4600 5 10 0 0 0 0 1
+description=PIC32MX2, 256K/64K, USB, QFN-28
+T 1000 4400 5 10 0 0 0 0 1
+value=NA
+T 1000 4200 5 10 0 0 0 0 1
+footprint=PIC32MX270F256B-I-ML
+T 3200 200 8 4 0 1 0 0 1
+footprint=PIC32MX270F256B-I-ML
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=
+P 3100 0 3100 300 1 0 0
+{
+T 3150 100 5 10 0 0 270 6 1
+pintype=unknown
+T 3100 342 5 8 1 1 90 1 1
+pinlabel=GND
+T 3050 -8 5 4 1 1 90 0 1
+pinnumber=EP
+
+}

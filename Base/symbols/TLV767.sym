@@ -1,0 +1,89 @@
+v 20200319 2
+B 300 200 1400 800 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+P 2000 800 1700 800 1 0 0
+{
+T 1900 850 5 10 0 0 0 6 1
+pintype=unknown
+T 1645 795 9 8 1 1 0 7 1
+pinlabel=VIN
+T 1795 845 5 4 1 1 0 0 1
+pinnumber=6
+}
+P 2000 600 1700 600 1 0 0
+{
+T 1900 650 5 10 0 0 0 6 1
+pintype=unknown
+T 1645 595 9 8 1 1 0 7 1
+pinlabel=GND
+T 1795 645 5 4 1 1 0 0 1
+pinnumber=5
+}
+P 2000 400 1700 400 1 0 0
+{
+T 1900 450 5 10 0 0 0 6 1
+pintype=unknown
+T 1645 395 9 8 1 1 0 7 1
+pinlabel=EN
+T 1795 445 5 4 1 1 0 0 1
+pinnumber=4
+}
+P 0 800 300 800 1 0 0
+{
+T 100 850 5 10 0 0 0 0 1
+pintype=unknown
+T 355 795 9 8 1 1 0 1 1
+pinlabel=VOUT
+T 205 845 5 4 1 1 0 6 1
+pinnumber=1
+}
+P 0 400 300 400 1 0 0
+{
+T 100 450 5 10 0 0 0 0 1
+pintype=unknown
+T 355 395 9 8 1 1 0 1 1
+pinlabel=GND
+T 205 445 5 4 1 1 0 6 1
+pinnumber=3
+}
+T 1500 1100 8 10 1 1 0 0 1
+refdes=U?
+T 1000 1100 8 10 1 1 0 6 1
+device=LP2985-33DBVR
+T -800 -1700 8 10 0 1 0 0 1
+footprint=LP2985-33DBVR
+T 1300 0 8 10 1 1 0 0 1
+value=3.3V
+T 1200 3000 8 10 0 0 0 0 1
+footprint=LP2985-33DBVR
+T 1200 2800 8 10 0 0 0 0 1
+description=Fixed Ldo Voltage Regulator, 2.2v To 16v, 280mv Dropout, 3.3vout, 150maout, Sot-23-5
+T 1200 2600 8 10 0 0 0 0 1
+manufacturer=Texas Instruments
+T 1200 2400 8 10 0 0 0 0 1
+manufacturer_part_number=LP2985-33DBVR
+T 1200 2200 8 10 0 0 0 0 1
+vendor=Farnell
+T 1200 2000 8 10 0 0 0 0 1
+vendor_part_number=2395925
+T 500 5700 5 10 0 0 0 0 1
+voltage=
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LP2985-33&fileType=pdf
+P 0 600 300 600 1 0 0
+{
+T 100 650 5 10 0 0 0 0 1
+pintype=unknown
+T 355 595 9 8 1 1 0 1 1
+pinlabel=SNS
+T 205 645 5 4 1 1 0 6 1
+pinnumber=2
+}
+P 1000 -100 1000 200 1 0 0
+{
+T 1050 0 5 10 0 0 270 6 1
+pintype=unknown
+T 995 255 9 8 1 1 270 7 1
+pinlabel=GND
+T 1045 105 5 4 1 1 270 0 1
+pinnumber=EP
+}

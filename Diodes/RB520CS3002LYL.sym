@@ -1,0 +1,49 @@
+v 20150930 2
+L 200 300 200 100 3 0 0 0 -1 -1
+L 200 300 400 200 3 0 0 0 -1 -1
+L 400 200 200 100 3 0 0 0 -1 -1
+L 400 250 400 150 3 0 0 0 -1 -1
+P 0 200 100 200 1 0 0
+{
+T 0 250 5 8 0 1 0 0 1
+pinnumber=2
+T 0 250 5 8 0 1 0 0 1
+pinlabel=2
+T 0 250 5 8 0 1 0 0 1
+pintype=pas
+}
+P 600 200 500 200 1 0 0
+{
+T 500 250 5 8 0 1 0 0 1
+pinnumber=1
+T 500 250 5 8 0 1 0 0 1
+pinlabel=1
+T 500 250 5 8 0 1 0 0 1
+pintype=pas
+}
+L 500 200 400 200 3 0 0 0 -1 -1
+L 200 200 100 200 3 0 0 0 -1 -1
+T 200 400 8 10 1 1 0 0 1
+refdes=D?
+A 350 250 50 0 90 3 0 1 0 -1 -1
+A 450 150 50 180 90 3 0 1 0 -1 -1
+T 750 950 8 10 0 0 0 0 1
+vendor=Farnell
+T 300 50 8 4 1 1 0 5 1
+device=RB520CS3002LYL
+T 750 800 8 10 0 0 0 0 1
+vendor_part_number=2777480
+T 750 650 8 10 0 0 0 0 1
+manufacturer=NEXPERIA
+T 750 500 8 10 0 0 0 0 1
+manufacturer_part_number=RB520CS3002LYL
+T 750 1100 8 10 0 0 0 0 1
+description=Schottky Rectifier, 30 V, 200 mA, Single, DFN1006, 2 Pins, 450 mV
+T 750 1400 8 10 0 0 0 0 1
+footprint=RB520CS3002LYL
+T 750 1250 8 10 0 0 0 0 1
+value=450mV
+T 500 5700 5 10 0 0 0 0 1
+voltage=200mA
+T 500 5700 5 10 0 0 0 0 1
+documentation=http://www.farnell.com/datasheets/2341419.pdf

@@ -1,0 +1,80 @@
+v 20150930 2
+B 400 400 1000 900 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 1000 400 1000 1 0 0
+{
+T 0 1000 5 10 0 0 0 0 1
+pintype=unknown
+T 455 995 5 10 1 1 0 0 1
+pinlabel=Vin
+T 305 1045 5 10 1 1 0 6 1
+pinnumber=5
+
+}
+P 1800 1000 1400 1000 1 0 0
+{
+T 1800 1000 5 10 0 0 180 0 1
+pintype=unknown
+T 1345 995 5 10 1 1 0 6 1
+pinlabel=BOOST
+T 1495 1045 5 10 1 1 0 0 1
+pinnumber=1
+
+}
+P 900 0 900 400 1 0 0
+{
+T 900 0 5 10 0 0 90 0 1
+pintype=unknown
+T 900 455 5 10 1 1 90 0 1
+pinlabel=GND
+T 850 305 5 10 1 1 90 6 1
+pinnumber=2
+
+}
+P 1800 750 1400 750 1 0 0
+{
+T 1800 750 5 10 0 0 180 0 1
+pintype=unknown
+T 1345 745 5 10 1 1 0 6 1
+pinlabel=SW
+T 1495 795 5 10 1 1 0 0 1
+pinnumber=6
+
+}
+P 0 750 400 750 1 0 0
+{
+T 0 750 5 10 0 0 0 0 1
+pintype=unknown
+T 455 745 5 10 1 1 0 0 1
+pinlabel=EN
+T 305 795 5 10 1 1 0 6 1
+pinnumber=4
+
+}
+T 1100 1400 8 10 1 1 0 6 1
+device=MCP16301
+T 1200 1400 8 10 1 1 0 0 1
+refdes=U?
+T 1500 400 8 10 0 1 0 0 1
+value=3.3V
+T 400 2700 8 10 0 0 0 0 1
+vendor=Farnell
+T 400 2500 8 10 0 0 0 0 1
+vendor_part_number=1202826
+T 400 2300 8 10 0 0 0 0 1
+manufacturer=STMICROELECTRONICS
+T 400 2100 8 10 0 0 0 0 1
+manufacturer_part_number=LD1117S33TR
+T 400 1900 8 10 0 0 0 0 1
+description=Fixed LDO Voltage Regulator, 4.75V to 15V, 1.1V Dropout, 3.3Vout, 800mAout, SOT-223-3
+T 400 1700 8 10 0 0 0 0 1
+footprint=LD1117S33TR
+P 1800 500 1400 500 1 0 0
+{
+T 1800 500 5 10 0 0 180 0 1
+pintype=unknown
+T 1345 495 5 10 1 1 0 6 1
+pinlabel=Vfb
+T 1495 545 5 10 1 1 0 0 1
+pinnumber=3
+
+}

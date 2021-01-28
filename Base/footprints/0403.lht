@@ -1,0 +1,251 @@
+li:pcb-rnd-subcircuit-v7 {
+ ha:subc.434 {
+  ha:attributes {
+   refdes = U0
+  }
+  ha:data {
+   li:padstack_prototypes {
+    ha:ps_proto_v6.0 {
+     htop = 0
+     hdia = 0.0
+     li:shape {
+      ha:ps_shape_v4 {
+       clearance = 24.0mil
+       li:ps_poly {
+        -0.52mm
+        -0.17mm
+        0.5mm
+        -0.17mm
+        0.5mm
+        0.19mm
+        -0.52mm
+        0.19mm
+       }
+       ha:layer_mask {
+        copper = 1
+        top = 1
+       }
+       ha:combining {
+       }
+      }
+      ha:ps_shape_v4 {
+       clearance = 0.6mm
+       li:ps_poly {
+        -0.5mm
+        -0.15mm
+        0.48mm
+        -0.15mm
+        0.48mm
+        0.17mm
+        -0.5mm
+        0.17mm
+       }
+       ha:layer_mask {
+        top = 1
+        paste = 1
+       }
+       ha:combining {
+        auto = 1
+       }
+      }
+      ha:ps_shape_v4 {
+       clearance = 24.0mil
+       li:ps_poly {
+        -0.67mm
+        -0.32mm
+        0.65mm
+        -0.32mm
+        0.65mm
+        0.34mm
+        -0.67mm
+        0.34mm
+       }
+       ha:layer_mask {
+        top = 1
+        mask = 1
+       }
+       ha:combining {
+        sub = 1
+        auto = 1
+       }
+      }
+     }
+     hbottom = 0
+     hplated = 0
+    }
+   }
+   li:objects {
+    ha:padstack_ref.457 {
+     smirror = 0
+     ha:attributes {
+      term = 1
+     }
+     proto = 0
+     xmirror = 0
+     x = 51.045mm
+     rot = 90.000000
+     y = 1.9in
+     li:thermal {
+     }
+     ha:flags {
+      clearline = 1
+     }
+     clearance = 0.3mm
+    }
+    ha:padstack_ref.458 {
+     smirror = 0
+     ha:attributes {
+      term = 2
+     }
+     proto = 0
+     xmirror = 0
+     x = 51.865mm
+     rot = 90.000000
+     y = 1.9in
+     li:thermal {
+     }
+     ha:flags {
+      clearline = 1
+     }
+     clearance = 0.3mm
+    }
+   }
+   li:layers {
+    ha:top-silk {
+     lid = 0
+     ha:type {
+      silk = 1
+      top = 1
+     }
+     li:objects {
+      ha:line.435 {
+       clearance = 0.6mm
+       y2 = 49.01mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 50.645mm
+       x2 = 52.285mm
+       ha:flags {
+        clearline = 1
+       }
+       y1 = 49.01mm
+      }
+      ha:line.438 {
+       clearance = 0.6mm
+       y2 = 47.53mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 52.285mm
+       x2 = 52.285mm
+       ha:flags {
+        clearline = 1
+       }
+       y1 = 49.01mm
+      }
+      ha:line.441 {
+       clearance = 0.6mm
+       y2 = 47.53mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 52.285mm
+       x2 = 50.645mm
+       ha:flags {
+        clearline = 1
+       }
+       y1 = 47.53mm
+      }
+      ha:line.444 {
+       clearance = 0.6mm
+       y2 = 49.01mm
+       thickness = 0.15mm
+       ha:attributes {
+       }
+       x1 = 50.645mm
+       x2 = 50.645mm
+       ha:flags {
+        clearline = 1
+       }
+       y1 = 47.53mm
+      }
+      ha:text.447 {
+       scale = 64
+       ha:attributes {
+       }
+       x = 52.57742mm
+       y = 47.80966mm
+       rot = 360.000000
+       string = %a.parent.refdes%
+       fid = 0
+       ha:flags {
+        dyntext = 1
+        floater = 1
+       }
+      }
+     }
+     ha:combining {
+      auto = 1
+     }
+    }
+    ha:subc-aux {
+     lid = 1
+     ha:type {
+      top = 1
+      misc = 1
+      virtual = 1
+     }
+     li:objects {
+      ha:line.448 {
+       clearance = 0.0
+       y2 = 1.9in
+       thickness = 0.1mm
+       ha:attributes {
+        subc-role = origin
+       }
+       x1 = 51.435mm
+       x2 = 51.435mm
+       ha:flags {
+       }
+       y1 = 1.9in
+      }
+      ha:line.451 {
+       clearance = 0.0
+       y2 = 47.26mm
+       thickness = 0.1mm
+       ha:attributes {
+        subc-role = x
+       }
+       x1 = 51.435mm
+       x2 = 51.435mm
+       ha:flags {
+       }
+       y1 = 1.9in
+      }
+      ha:line.454 {
+       clearance = 0.0
+       y2 = 1.9in
+       thickness = 0.1mm
+       ha:attributes {
+        subc-role = y
+       }
+       x1 = 51.435mm
+       x2 = 52.435mm
+       ha:flags {
+       }
+       y1 = 1.9in
+      }
+     }
+     ha:combining {
+     }
+    }
+   }
+  }
+  uid = JTIuCmZJwl/PDQ3fk04AAAAB
+  ha:flags {
+  }
+ }
+ ha:pixmaps {
+ }
+}

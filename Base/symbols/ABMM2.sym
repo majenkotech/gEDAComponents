@@ -1,0 +1,60 @@
+v 20150930 2
+P 0 400 200 400 1 0 0
+{
+T 150 450 5 8 0 1 0 6 1
+pinnumber=3
+
+T 250 400 9 8 0 1 0 0 1
+pinlabel=3
+T 250 400 5 8 0 1 0 2 1
+pintype=pas
+}
+P 500 400 700 400 1 0 1
+{
+T 550 450 5 8 0 1 0 0 1
+pinnumber=1
+
+T 450 400 9 8 0 1 0 6 1
+pinlabel=1
+T 450 400 5 8 0 1 0 8 1
+pintype=pas
+}
+B 250 300 200 200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 500 600 5 10 1 1 0 0 1
+device=ABMM2-8.000MHZ-E2-T
+L 200 540 200 260 3 0 0 0 -1 -1
+L 500 540 500 260 3 0 0 0 -1 -1
+T 100 600 8 10 1 1 0 0 1
+refdes=X?
+P 200 0 200 200 1 0 0
+{
+T 200 0 5 10 0 0 0 0 1
+pintype=unknown
+
+T 200 0 5 10 0 0 0 0 1
+pinnumber=2
+}
+P 500 0 500 200 1 0 0
+{
+T 500 0 5 10 0 0 0 0 1
+pintype=unknown
+
+T 500 0 5 10 0 0 0 0 1
+pinnumber=4
+}
+L 200 200 500 200 3 0 0 0 -1 -1
+L 350 200 350 300 3 0 0 0 -1 -1
+T 0 3100 8 10 0 0 0 0 1
+vendor=Farnell
+T 0 2900 8 10 0 0 0 0 1
+vendor_part_number=2456842
+T 0 2700 8 10 0 0 0 0 1
+manufacturer=MICROCHIP
+T 0 2500 8 10 0 0 0 0 1
+manufacturer_part_number=DSPIC33EV256GM106-I/MR
+T 0 2300 8 10 0 0 0 0 1
+description=Digital Signal Controller, dsPIC33EV Series, 70 MHz, 256 KB, 53 I/O's, CAN, I2C, SPI, UART, 1.8 V
+T 0 2100 8 10 0 0 0 0 1
+footprint=DSPIC33EV256GM106-I-MR
+T 0 1900 8 10 0 0 0 0 1
+value=na

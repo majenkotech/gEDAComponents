@@ -1,0 +1,441 @@
+v 20150930 2
+B 300 300 2500 4000 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 4200 300 4200 1 0 0
+{
+T 100 4150 5 10 0 0 180 6 1
+pintype=unknown
+T 355 4205 9 10 1 1 180 7 1
+pinlabel=GND
+T 205 4255 5 4 1 1 180 0 1
+pinnumber=1
+}
+P 0 4000 300 4000 1 0 0
+{
+T 100 3950 5 10 0 0 180 6 1
+pintype=unknown
+T 355 4005 9 10 1 1 180 7 1
+pinlabel=UART_RTS
+T 205 4055 5 4 1 1 180 0 1
+pinnumber=2
+}
+P 0 3800 300 3800 1 0 0
+{
+T 100 3750 5 10 0 0 180 6 1
+pintype=unknown
+T 355 3805 9 10 1 1 180 7 1
+pinlabel=UART_CTS
+T 205 3855 5 4 1 1 180 0 1
+pinnumber=3
+}
+P 0 3600 300 3600 1 0 0
+{
+T 100 3550 5 10 0 0 180 6 1
+pintype=unknown
+T 355 3605 9 10 1 1 180 7 1
+pinlabel=RESERVED
+T 205 3655 5 4 1 1 180 0 1
+pinnumber=4
+}
+P 0 3400 300 3400 1 0 0
+{
+T 100 3350 5 10 0 0 180 6 1
+pintype=unknown
+T 355 3405 9 10 1 1 180 7 1
+pinlabel=RESERVED
+T 205 3455 5 4 1 1 180 0 1
+pinnumber=5
+}
+P 0 3200 300 3200 1 0 0
+{
+T 100 3150 5 10 0 0 180 6 1
+pintype=unknown
+T 355 3205 9 10 1 1 180 7 1
+pinlabel=UART_TX
+T 205 3255 5 4 1 1 180 0 1
+pinnumber=6
+}
+P 0 3000 300 3000 1 0 0
+{
+T 100 2950 5 10 0 0 180 6 1
+pintype=unknown
+T 355 3005 9 10 1 1 180 7 1
+pinlabel=UART_RX
+T 205 3055 5 4 1 1 180 0 1
+pinnumber=7
+}
+P 0 2800 300 2800 1 0 0
+{
+T 100 2750 5 10 0 0 180 6 1
+pintype=unknown
+T 355 2805 9 10 1 1 180 7 1
+pinlabel=GND
+T 205 2855 5 4 1 1 180 0 1
+pinnumber=8
+}
+P 0 2600 300 2600 1 0 0
+{
+T 100 2550 5 10 0 0 180 6 1
+pintype=unknown
+T 355 2605 9 10 1 1 180 7 1
+pinlabel=GPIO13
+T 205 2655 5 4 1 1 180 0 1
+pinnumber=9
+}
+P 0 2400 300 2400 1 0 0
+{
+T 100 2350 5 10 0 0 180 6 1
+pintype=unknown
+T 355 2405 9 10 1 1 180 7 1
+pinlabel=GPIO12
+T 205 2455 5 4 1 1 180 0 1
+pinnumber=10
+}
+P 0 2200 300 2200 1 0 0
+{
+T 100 2150 5 10 0 0 180 6 1
+pintype=unknown
+T 355 2205 9 10 1 1 180 7 1
+pinlabel=GND
+T 205 2255 5 4 1 1 180 0 1
+pinnumber=11
+}
+P 0 2000 300 2000 1 0 0
+{
+T 100 1950 5 10 0 0 180 6 1
+pintype=unknown
+T 355 2005 9 10 1 1 180 7 1
+pinlabel=VDD
+T 205 2055 5 4 1 1 180 0 1
+pinnumber=12
+}
+P 0 1800 300 1800 1 0 0
+{
+T 100 1750 5 10 0 0 180 6 1
+pintype=unknown
+T 355 1805 9 10 1 1 180 7 1
+pinlabel=GPIO11
+T 205 1855 5 4 1 1 180 0 1
+pinnumber=13
+}
+P 0 1600 300 1600 1 0 0
+{
+T 100 1550 5 10 0 0 180 6 1
+pintype=unknown
+T 355 1605 9 10 1 1 180 7 1
+pinlabel=GPIO10
+T 205 1655 5 4 1 1 180 0 1
+pinnumber=14
+}
+P 0 1400 300 1400 1 0 0
+{
+T 100 1350 5 10 0 0 180 6 1
+pintype=unknown
+T 355 1405 9 10 1 1 180 7 1
+pinlabel=NC
+T 205 1455 5 4 1 1 180 0 1
+pinnumber=15
+}
+P 0 1200 300 1200 1 0 0
+{
+T 100 1150 5 10 0 0 180 6 1
+pintype=unknown
+T 355 1205 9 10 1 1 180 7 1
+pinlabel=NC
+T 205 1255 5 4 1 1 180 0 1
+pinnumber=16
+}
+P 0 1000 300 1000 1 0 0
+{
+T 100 950 5 10 0 0 180 6 1
+pintype=unknown
+T 355 1005 9 10 1 1 180 7 1
+pinlabel=NC
+T 205 1055 5 4 1 1 180 0 1
+pinnumber=17
+}
+P 0 800 300 800 1 0 0
+{
+T 100 750 5 10 0 0 180 6 1
+pintype=unknown
+T 355 805 9 10 1 1 180 7 1
+pinlabel=NC
+T 205 855 5 4 1 1 180 0 1
+pinnumber=18
+}
+P 0 600 300 600 1 0 0
+{
+T 100 550 5 10 0 0 180 6 1
+pintype=unknown
+T 355 605 9 10 1 1 180 7 1
+pinlabel=NC
+T 205 655 5 4 1 1 180 0 1
+pinnumber=19
+}
+P 0 400 300 400 1 0 0
+{
+T 100 350 5 10 0 0 180 6 1
+pintype=unknown
+T 355 405 9 10 1 1 180 7 1
+pinlabel=GND
+T 205 455 5 4 1 1 180 0 1
+pinnumber=20
+}
+P 900 0 900 300 1 0 0
+{
+T 950 100 5 10 0 0 270 6 1
+pintype=unknown
+T 900 355 9 10 1 1 270 7 1
+pinlabel=GND
+T 900 205 5 4 1 1 270 0 1
+pinnumber=21
+}
+P 1100 0 1100 300 1 0 0
+{
+T 1150 100 5 10 0 0 270 6 1
+pintype=unknown
+T 1100 355 9 10 1 1 270 7 1
+pinlabel=GND
+T 1100 205 5 4 1 1 270 0 1
+pinnumber=22
+}
+P 1300 0 1300 300 1 0 0
+{
+T 1350 100 5 10 0 0 270 6 1
+pintype=unknown
+T 1300 355 9 10 1 1 270 7 1
+pinlabel=RFH
+T 1300 205 5 4 1 1 270 0 1
+pinnumber=23
+}
+P 1500 0 1500 300 1 0 0
+{
+T 1550 100 5 10 0 0 270 6 1
+pintype=unknown
+T 1500 355 9 10 1 1 270 7 1
+pinlabel=GND
+T 1500 205 5 4 1 1 270 0 1
+pinnumber=24
+}
+P 1700 0 1700 300 1 0 0
+{
+T 1750 100 5 10 0 0 270 6 1
+pintype=unknown
+T 1700 355 9 10 1 1 270 7 1
+pinlabel=RFL
+T 1700 205 5 4 1 1 270 0 1
+pinnumber=25
+}
+P 1900 0 1900 300 1 0 0
+{
+T 1950 100 5 10 0 0 270 6 1
+pintype=unknown
+T 1900 355 9 10 1 1 270 7 1
+pinlabel=GND
+T 1900 205 5 4 1 1 270 0 1
+pinnumber=26
+}
+P 2100 0 2100 300 1 0 0
+{
+T 2150 100 5 10 0 0 270 6 1
+pintype=unknown
+T 2100 355 9 10 1 1 270 7 1
+pinlabel=GND
+T 2100 205 5 4 1 1 270 0 1
+pinnumber=27
+}
+P 3100 4200 2800 4200 1 0 0
+{
+T 3000 4150 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 4205 9 10 1 1 180 1 1
+pinlabel=GND
+T 2895 4255 5 4 1 1 180 6 1
+pinnumber=47
+}
+P 3100 4000 2800 4000 1 0 0
+{
+T 3000 3950 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 4005 9 10 1 1 180 1 1
+pinlabel=GPIO9
+T 2895 4055 5 4 1 1 180 6 1
+pinnumber=46
+}
+P 3100 3800 2800 3800 1 0 0
+{
+T 3000 3750 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 3805 9 10 1 1 180 1 1
+pinlabel=GPIO8
+T 2895 3855 5 4 1 1 180 6 1
+pinnumber=45
+}
+P 3100 3600 2800 3600 1 0 0
+{
+T 3000 3550 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 3605 9 10 1 1 180 1 1
+pinlabel=GPIO7
+T 2895 3655 5 4 1 1 180 6 1
+pinnumber=44
+}
+P 3100 3400 2800 3400 1 0 0
+{
+T 3000 3350 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 3405 9 10 1 1 180 1 1
+pinlabel=GPIO6
+T 2895 3455 5 4 1 1 180 6 1
+pinnumber=43
+}
+P 3100 3200 2800 3200 1 0 0
+{
+T 3000 3150 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 3205 9 10 1 1 180 1 1
+pinlabel=NC
+T 2895 3255 5 4 1 1 180 6 1
+pinnumber=42
+}
+P 3100 3000 2800 3000 1 0 0
+{
+T 3000 2950 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 3005 9 10 1 1 180 1 1
+pinlabel=GND
+T 2895 3055 5 4 1 1 180 6 1
+pinnumber=41
+}
+P 3100 2800 2800 2800 1 0 0
+{
+T 3000 2750 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 2805 9 10 1 1 180 1 1
+pinlabel=GPIO5
+T 2895 2855 5 4 1 1 180 6 1
+pinnumber=40
+}
+P 3100 2600 2800 2600 1 0 0
+{
+T 3000 2550 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 2605 9 10 1 1 180 1 1
+pinlabel=GPIO4
+T 2895 2655 5 4 1 1 180 6 1
+pinnumber=39
+}
+P 3100 2400 2800 2400 1 0 0
+{
+T 3000 2350 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 2405 9 10 1 1 180 1 1
+pinlabel=GPIO3
+T 2895 2455 5 4 1 1 180 6 1
+pinnumber=38
+}
+P 3100 2200 2800 2200 1 0 0
+{
+T 3000 2150 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 2205 9 10 1 1 180 1 1
+pinlabel=GPIO2
+T 2895 2255 5 4 1 1 180 6 1
+pinnumber=37
+}
+P 3100 2000 2800 2000 1 0 0
+{
+T 3000 1950 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 2005 9 10 1 1 180 1 1
+pinlabel=GPIO1
+T 2895 2055 5 4 1 1 180 6 1
+pinnumber=36
+}
+P 3100 1800 2800 1800 1 0 0
+{
+T 3000 1750 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 1805 9 10 1 1 180 1 1
+pinlabel=GPIO0
+T 2895 1855 5 4 1 1 180 6 1
+pinnumber=35
+}
+P 3100 1600 2800 1600 1 0 0
+{
+T 3000 1550 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 1605 9 10 1 1 180 1 1
+pinlabel=VDD
+T 2895 1655 5 4 1 1 180 6 1
+pinnumber=34
+}
+P 3100 1400 2800 1400 1 0 0
+{
+T 3000 1350 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 1405 9 10 1 1 180 1 1
+pinlabel=GND
+T 2895 1455 5 4 1 1 180 6 1
+pinnumber=33
+}
+P 3100 1200 2800 1200 1 0 0
+{
+T 3000 1150 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 1205 9 10 1 1 180 1 1
+pinlabel=\_RESET\_
+T 2895 1255 5 4 1 1 180 6 1
+pinnumber=32
+}
+P 3100 1000 2800 1000 1 0 0
+{
+T 3000 950 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 1005 9 10 1 1 180 1 1
+pinlabel=TEST1
+T 2895 1055 5 4 1 1 180 6 1
+pinnumber=31
+}
+P 3100 800 2800 800 1 0 0
+{
+T 3000 750 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 805 9 10 1 1 180 1 1
+pinlabel=TEST0
+T 2895 855 5 4 1 1 180 6 1
+pinnumber=30
+}
+P 3100 600 2800 600 1 0 0
+{
+T 3000 550 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 605 9 10 1 1 180 1 1
+pinlabel=NC
+T 2895 655 5 4 1 1 180 6 1
+pinnumber=29
+}
+P 3100 400 2800 400 1 0 0
+{
+T 3000 350 5 10 0 0 180 0 1
+pintype=unknown
+T 2745 405 9 10 1 1 180 1 1
+pinlabel=GND
+T 2895 455 5 4 1 1 180 6 1
+pinnumber=28
+}
+T 2500 4400 8 10 1 1 0 0 1
+refdes=U?
+T 300 4400 8 10 1 1 0 0 1
+device=RN2483-I/RM101
+T 100 6600 8 10 0 0 0 0 1
+manufacturer=MICROCHIP
+T 100 6400 8 10 0 0 0 0 1
+manufacturer_part_number=RN2483-I/RM101
+T 100 6000 8 10 0 0 0 0 1
+vendor_part_number=2550047
+T 100 6200 8 10 0 0 0 0 1
+vendor=Farnell
+T 100 5800 8 10 0 0 0 0 1
+footprint=RN2483-I-RM101
+T 100 5600 8 10 0 0 0 0 1
+description=LORA TRANSCEIVER MOD, 433/868MHZ, 14DBM
