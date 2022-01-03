@@ -29,22 +29,22 @@ refdes=R?
 T 0 0 8 10 0 1 0 0 1
 pins=2
 T 300 1800 5 10 0 0 0 0 1
-vendor=Farnell
+vendor=
 T 300 1600 5 10 0 0 0 0 1
 manufacturer_part_number=CRCW04021K00FKED
 T 300 1400 5 10 0 0 0 0 1
 manufacturer=Vishay
 T 300 1200 5 10 0 0 0 0 1
-vendor_part_number=1469662
+vendor_part_number=
 T 300 1000 5 10 0 0 0 0 1
-description=Smd Chip Resistor, 1 Kohm, 50 V, Thick Film, 0402 [1005 Metric], 63 Mw, ± 1%
+description=SMD Chip Resistor, 1 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
 T 500 -100 5 4 0 1 0 5 1
 device=CRCW04021K00FKED
 T 500 300 5 10 1 1 0 0 1
-value=1K
+value=1k
 T 300 800 5 10 0 0 0 0 1
 footprint=CRCW04021K00FKED
 T 500 5700 5 10 0 0 0 0 1
-voltage=50V
+documentation=
 T 500 5700 5 10 0 0 0 0 1
-documentation=http://www.farnell.com/datasheets/2310790.pdf
+rating=

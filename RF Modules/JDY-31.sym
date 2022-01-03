@@ -288,18 +288,18 @@ device=JDY-31
 T 3700 3700 8 10 0 0 0 0 1
 manufacturer=
 T 3700 3500 8 10 0 0 0 0 1
-manufacturer_part_number=JDY-31
+manufacturer_part_number=
 T 3700 3300 8 10 0 0 0 0 1
-vendor=unknown
+vendor=
 T 3700 3100 8 10 0 0 0 0 1
-vendor_part_number=unknown
+vendor_part_number=
 T 3700 2900 8 10 0 0 0 0 1
-description=SMD Bluetooth Module
+description=Bluetooth SPP Module
 T 3700 2700 8 10 0 0 0 0 1
-value=0
-T 500 5700 5 10 0 0 0 0 1
-footprint=JDY-31
-T 500 5700 5 10 0 0 0 0 1
-voltage=0
+value=
 T 500 5700 5 10 0 0 0 0 1
 documentation=
+T 500 5700 5 10 0 0 0 0 1
+footprint=
+T 500 5700 5 10 0 0 0 0 1
+rating=

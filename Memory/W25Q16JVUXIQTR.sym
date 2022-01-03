@@ -1,0 +1,96 @@
+v 20150930 2
+P 0 1000 300 1000 1 0 0
+{
+T 100 1050 5 10 0 0 0 0 1
+pintype=unknown
+T 358 992 9 8 1 1 0 1 1
+pinlabel=\_CE\_
+T 208 1042 5 4 1 1 0 6 1
+pinnumber=1
+}
+P 0 800 300 800 1 0 0
+{
+T 100 850 5 10 0 0 0 0 1
+pintype=unknown
+T 358 792 9 8 1 1 0 1 1
+pinlabel=SO
+T 208 842 5 4 1 1 0 6 1
+pinnumber=2
+}
+P 0 600 300 600 1 0 0
+{
+T 100 650 5 10 0 0 0 0 1
+pintype=unknown
+T 358 592 9 8 1 1 0 1 1
+pinlabel=\_WP\_
+T 208 642 5 4 1 1 0 6 1
+pinnumber=3
+}
+P 0 400 300 400 1 0 0
+{
+T 100 450 5 10 0 0 0 0 1
+pintype=unknown
+T 358 392 9 8 1 1 0 1 1
+pinlabel=VSS
+T 208 442 5 4 1 1 0 6 1
+pinnumber=4
+}
+P 1600 1000 1300 1000 1 0 0
+{
+T 1500 1050 5 10 0 0 0 6 1
+pintype=unknown
+T 1242 992 9 8 1 1 0 7 1
+pinlabel=VDD
+T 1392 1042 5 4 1 1 0 0 1
+pinnumber=8
+}
+P 1600 800 1300 800 1 0 0
+{
+T 1500 850 5 10 0 0 0 6 1
+pintype=unknown
+T 1242 792 9 8 1 1 0 7 1
+pinlabel=HOLD
+T 1392 842 5 4 1 1 0 0 1
+pinnumber=7
+}
+P 1600 600 1300 600 1 0 0
+{
+T 1500 650 5 10 0 0 0 6 1
+pintype=unknown
+T 1242 592 9 8 1 1 0 7 1
+pinlabel=SCK
+T 1392 642 5 4 1 1 0 0 1
+pinnumber=6
+}
+P 1600 400 1300 400 1 0 0
+{
+T 1500 450 5 10 0 0 0 6 1
+pintype=unknown
+T 1242 392 9 8 1 1 0 7 1
+pinlabel=SI
+T 1392 442 5 4 1 1 0 0 1
+pinnumber=5
+}
+B 300 200 1000 1000 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 1100 1300 8 10 1 1 0 0 1
+refdes=U?
+T 800 0 8 10 1 1 0 3 1
+device=W25Q16JVUXIQTR
+T 200 4100 8 10 0 0 0 0 1
+vendor=
+T 200 3900 8 10 0 0 0 0 1
+vendor_part_number=
+T 200 3700 8 10 0 0 0 0 1
+manufacturer=Winbond
+T 200 3500 8 10 0 0 0 0 1
+manufacturer_part_number=W25Q16JVUXIQ TR
+T 200 3300 8 10 0 0 0 0 1
+description=NOR Flash spiFlash, 3V, 16M-bit, 4Kb Uniform Sector, DTR
+T 700 1300 8 10 1 1 0 6 1
+value=16Mbit
+T 200 3100 8 10 0 0 0 0 1
+footprint=W25Q16JVUXIQTR
+T 500 5700 5 10 0 0 0 0 1
+documentation=
+T 500 5700 5 10 0 0 0 0 1
+rating=

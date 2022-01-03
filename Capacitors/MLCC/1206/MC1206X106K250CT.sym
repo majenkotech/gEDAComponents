@@ -26,20 +26,22 @@ device=MC1206X106K250CT
 T 150 300 8 8 1 1 0 6 1
 refdes=C?
 T 0 900 5 10 0 0 0 0 1
-description=CAP, MLCC, X5R, 10UF, 25V, 1206 
+description=SMD Multilayer Ceramic Capacitor, 10 µF, 25 V, 1206 [3216 Metric], ± 10%, X5R, MC Series
 T 0 1300 5 10 0 0 0 0 1
-manufacturer=MULTICOMP
+manufacturer=Multicomp Pro
 T 0 1500 5 10 0 0 0 0 1
 manufacturer_part_number=MC1206X106K250CT
 T 0 1700 5 10 0 0 0 0 1
-vendor=Farnell
+vendor=
 T 0 1100 5 10 0 0 0 0 1
-vendor_part_number=2320887
+vendor_part_number=
 T 300 300 5 8 1 1 0 0 1
-value=10µF
+value=10uF
 T 150 150 5 4 0 1 0 8 1
 footprint=MC1206X106K250CT
 T 300 100 5 8 1 1 0 2 1
-voltage=25V
+voltage=50V
 T 500 5700 5 10 0 0 0 0 1
 documentation=
+T 500 5700 5 10 0 0 0 0 1
+rating=

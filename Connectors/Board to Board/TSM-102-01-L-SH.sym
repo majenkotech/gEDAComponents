@@ -6,7 +6,7 @@ device=TSM-102-01-L-SH
 T 300 3200 5 10 0 0 0 0 1
 footprint=TSM-102-01-L-SH
 T 300 3400 5 10 0 0 0 0 1
-description=Board-To-Board Connector, 2.54 mm, 2 Contacts, Header, TSM Series, Surface Mount, 1 Rows
+description=Pin Header, Board-to-Board, 2.54 mm, 1 Rows, 2 Contacts, Surface Mount Right Angle, TSM Series
 P 0 800 200 800 1 0 0
 {
 T 200 850 5 8 0 1 0 6 1
@@ -29,16 +29,16 @@ pintype=pas
 V 250 400 50 6 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 B 300 0 400 1200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 300 2800 5 10 0 0 0 0 1
-manufacturer=SAMTEC
+manufacturer=Samtec
 T 300 2600 5 10 0 0 0 0 1
 manufacturer_part_number=TSM-102-01-L-SH
 T 300 2400 5 10 0 0 0 0 1
-vendor=Farnell
+vendor=
 T 300 2200 5 10 0 0 0 0 1
-vendor_part_number=2505012
+vendor_part_number=
+T 500 5700 5 10 0 0 0 0 1
+documentation=
 T 500 5700 5 10 0 0 0 0 1
 value=
 T 500 5700 5 10 0 0 0 0 1
-voltage=
-T 500 5700 5 10 0 0 0 0 1
-documentation=http://www.farnell.com/datasheets/2186767.pdf
+rating=

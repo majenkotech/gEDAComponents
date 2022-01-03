@@ -635,18 +635,18 @@ device=RP2040
 T 6900 2400 8 10 0 0 0 0 1
 footprint=RP2040
 T 6900 2200 8 10 0 0 0 0 1
-description=RP2040
+description=ARM MCU, RP2040 Series Microcontrollers, ARM Cortex-M0+, 32bit, 133 MHz, 16 MB, 264 KB
 T 6900 2000 8 10 0 0 0 0 1
 manufacturer=Raspberry
 T 6900 1800 8 10 0 0 0 0 1
 manufacturer_part_number=RP2040
 T 6900 1600 8 10 0 0 0 0 1
-vendor=unknown
+vendor=
 T 6900 1400 8 10 0 0 0 0 1
-vendor_part_number=unknown
+vendor_part_number=
 T 6900 1200 8 10 0 0 0 0 1
 value=
 T 500 5700 5 10 0 0 0 0 1
-voltage=
-T 500 5700 5 10 0 0 0 0 1
 documentation=
+T 500 5700 5 10 0 0 0 0 1
+rating=

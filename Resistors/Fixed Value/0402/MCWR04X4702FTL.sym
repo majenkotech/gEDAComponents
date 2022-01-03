@@ -29,22 +29,22 @@ refdes=R?
 T 0 0 8 10 0 1 0 0 1
 pins=2
 T 300 1800 5 10 0 0 0 0 1
-vendor=Farnell
+vendor=
 T 300 1600 5 10 0 0 0 0 1
 manufacturer_part_number=MCWR04X4702FTL
 T 300 1400 5 10 0 0 0 0 1
-manufacturer=MULTICOMP PRO
+manufacturer=Multicomp Pro
 T 300 1200 5 10 0 0 0 0 1
-vendor_part_number=2447179
+vendor_part_number=
 T 300 1000 5 10 0 0 0 0 1
-description=SMD Chip Resistor, 0402 [1005 Metric], 47 kohm, MCWR Series, 50 V, Thick Film, 62.5 mW
+description=SMD Chip Resistor, 47 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose
 T 500 -100 5 4 0 1 0 5 1
 device=MCWR04X4702FTL
 T 500 300 5 10 1 1 0 0 1
-value=47k
+value=
 T 300 800 5 10 0 0 0 0 1
 footprint=MCWR04X4702FTL
 T 500 5700 5 10 0 0 0 0 1
-voltage=50V
+documentation=
 T 500 5700 5 10 0 0 0 0 1
-documentation=http://www.farnell.com/datasheets/2860681.pdf
+rating=

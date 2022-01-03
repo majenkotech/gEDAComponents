@@ -26,20 +26,22 @@ device=VJ0402V104ZXQPW1BC
 T 150 300 8 8 1 1 0 6 1
 refdes=C?
 T 0 900 5 10 0 0 0 0 1
-description=100nF 0402
+description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 10 V, 0402 [1005 Metric], +80%, -20%, Y5V, VJ Series
 T 0 1300 5 10 0 0 0 0 1
-manufacturer=Vishay
+manufacturer=
 T 0 1500 5 10 0 0 0 0 1
-manufacturer_part_number=VJ0402V104ZXQPW1BC
+manufacturer_part_number=
 T 0 1700 5 10 0 0 0 0 1
-vendor=Farnell
+vendor=
 T 0 1100 5 10 0 0 0 0 1
-vendor_part_number=2896342
+vendor_part_number=
 T 300 300 5 8 1 1 0 0 1
-value=100nF
+value=0.1uF
 T 150 150 5 4 0 1 0 8 1
 footprint=VJ0402V104ZXQPW1BC
 T 300 100 5 8 1 1 0 2 1
-voltage=10V
+voltage=50V
 T 500 5700 5 10 0 0 0 0 1
-documentation=http://www.farnell.com/datasheets/2620235.pdf
+documentation=
+T 500 5700 5 10 0 0 0 0 1
+rating=

@@ -189,23 +189,23 @@ pins=20
 T 200 200 8 10 0 1 0 0 1
 class=IO
 T 400 6300 5 10 0 0 0 0 1
-vendor=unknown
+vendor=
 T 400 6100 5 10 0 0 0 0 1
-vendor_part_number=unknown
+vendor_part_number=
 T 400 5900 5 10 0 0 0 0 1
-manufacturer=JST
+manufacturer=JST (Japan Solderless Terminals)
 T 400 5700 5 10 0 0 0 0 1
 manufacturer_part_number=19FE-ST-VK-N
 T 400 5500 5 10 0 0 0 0 1
-value=19
+value=
 T 400 5300 5 10 0 0 0 0 1
 footprint=19FE-ST-VK-N
 T 400 5100 5 10 0 0 0 0 1
-description=JST FE 19 Pin Horizontal
+description=FFC Side Entry 1.25mm, 19 pin
 T 700 5700 5 10 0 0 0 0 1
 voltage=
 T 700 5700 5 10 0 0 0 0 1
-documentation=http://www.jst-mfg.com/product/pdf/eng/eFE.pdf
+documentation=
 B 900 400 400 3600 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
 L 900 3600 1300 3600 3 0 1 0 -1 -1
 L 900 3200 1300 3200 3 0 1 0 -1 -1
@@ -215,3 +215,5 @@ L 900 2000 1300 2000 3 0 1 0 -1 -1
 L 900 1600 1300 1600 3 0 1 0 -1 -1
 L 900 1200 1300 1200 3 0 1 0 -1 -1
 L 900 800 1300 800 3 0 1 0 -1 -1
+T 500 5700 5 10 0 0 0 0 1
+rating=
